@@ -6,13 +6,17 @@ draft: true
 
 Kamusta?
 
-Ako po si Timothy Diokno (Tim), isa pong 27 na taong gulang na Kristiyano mula sa Pilipinas.
+> Ako po si Timothy Diokno (Tim), isa pong 27 na taong gulang na Kristiyano mula sa Pilipinas.
+>
+> Ang page na ito ay maglalaman ng aking personal na pagsasalin sa wikang Filipino ng Bibliya.
+>
+> Ginagamit ko ang Christian Standard Bible (CSB) bilang aking basehan para sa saling ito.
+>
+> Hindi ako isang eksperto sa wika. Hindi rin ako isang dalubhasa. Ngnuit ako ay may sapat na kaalaman sa pangkaraniwang gamit ng Ingles at Filipino upang makapag-salin ng mga wikang ito.
 
-Ang page na ito ay maglalaman ng aking personal na pagsasalin sa wikang Filipino ng Bibliya.
+---
 
-Ginagamit ko ang Christian Standard Bible (CSB) bilang aking basehan para sa saling ito.
-
-Hindi ako isang eksperto sa wika. Hindi rin ako isang dalubhasa. Ngnuit ako ay may sapat na kaalaman sa pangkaraniwang gamit ng Ingles at Filipino upang makapag-salin ng mga wikang ito.
+## Paunang Salita
 
 Ang layunin ng BSWF ito ay makagawa ng isang salin ng Bibliya sa wikang Filipino na angkop sa pangkasalukuyang panahon.
 
