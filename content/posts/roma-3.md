@@ -39,7 +39,7 @@ draft: true
 
 [^7]: But if by my lie God’s truth abounds to his glory, why am I also still being judged as a sinner?
 
-[^8] At bakit hindi na lang natin sabihin, tulad ng ibinibintang ng ibang tao ng ipinangangaral daw namin, "Gumawa tayo ng masama para magudulot ito ng kabutihan"? Karapat-dapat silang hatulan!
+[^8] At bakit hindi na lang natin sabihin, tulad ng ibinibintang ng ibang tao ng ipinangangaral daw namin, "Gumawa tayo ng masasamang bagay para magbunga ito ng kabutihan"? Hatol sa kanila ang dapat.
 
 [^8]: And why not say, just as some people slanderously claim we say, “Let us do what is evil so that good may come”? Their condemnation is deserved!
 
@@ -108,13 +108,13 @@ Vipers’ venom is under their lips.
 
 [^20]: For no one will be justified in his sight by the works of the law, because the knowledge of sin comes through the law.
 
-## [Ang Katuwiran ng Diyos sa Pamamagitan ng Pananampalataya](# "The Righteousness of God through Faith")
+## [Ang Katuwiran ng Diyos sa Pamamagitan ng Pagtitiwala](# "The Righteousness of God through Faith")
 
 [^21] Pero ngayon, bukod sa kautusan, ang katuwiran ng Diyos ay nakikita, saksi dito ng Kautusan at ng mga Propeta.
 
 [^21]: But now, apart from the law, the righteousness of God has been revealed, attested by the Law and the Prophets.
 
-[^22] Nakikita ang katuwiran ng Diyos sa pamamagitan ng pananampalataya kay Kristo Hesus para sa lahat ng mananalig, dahil pareho ang lahat.
+[^22] Nakikita ang katuwiran ng Diyos sa pamamagitan ng pagtitiwala kay Kristo Hesus para sa lahat ng mananalig, dahil pareho ang lahat.
 
 [^22]: The righteousness of God is through faith in Jesus Christ to all who believe, since there is no distinction.
 
@@ -126,7 +126,7 @@ Vipers’ venom is under their lips.
 
 [^24]: They are justified freely by his grace through the redemption that is in Christ Jesus.
 
-[^25] Ihinandog siya ng Diyos bilang kabayaran para sa mga kasalanan sa pagdanak ng kaniyang dugo, na tinatanggap sa pamamagitan ng pananampalataya, para maipakita ang kaniyang katuwiran, dahil nagpigil ang Diyos at nilagpasan niya ang mga kalasalang nakaraan.
+[^25] Ihinandog siya ng Diyos bilang kabayaran para sa mga kasalanan sa pagdanak ng kaniyang dugo, na tinatanggap sa pamamagitan ng pagtitiwala, para maipakita ang kaniyang katuwiran, dahil nagpigil ang Diyos at nilagpasan niya ang mga kalasalang nakaraan.
 
 [^25]: God presented him as an atoning sacrifice in his blood, received through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed.
 
@@ -136,11 +136,11 @@ Vipers’ venom is under their lips.
 
 ## [Walang Maipagmamalaki](# "Boasting Excluded")
 
-[^27] Nasaan na ngayon ang pagpmamalaki? Wala na. Dahil sa anong uri ng kautusan? Dahil sa kautusan ng paggawa? Hindi. Sa katunayan, dahil sa kautusan ng pananampalataya.
+[^27] Nasaan na ngayon ang pagpmamalaki? Wala na. Dahil sa anong uri ng kautusan? Dahil sa kautusan ng paggawa? Hindi. Sa katunayan, dahil sa kautusan ng pagtitiwala.
 
 [^27]: Where, then, is boasting? It is excluded. By what kind of law? By one of works? No, on the contrary, by a law of faith.
 
-[^28] Dahil malinaw na na ang isang tao ay napapawalang-sala sa pamamagitan ng pananampalataya bukod sa kautusan.
+[^28] Dahil malinaw na na ang isang tao ay napapawalang-sala sa pamamagitan ng pagtitiwala bukod sa kautusan.
 
 [^28]: For we conclude that a person is justified by faith apart from the works of the law.
 
@@ -148,10 +148,10 @@ Vipers’ venom is under their lips.
 
 [^29]: Or is God the God of Jews only? Is he not the God of Gentiles too? Yes, of Gentiles too,
 
-[^30] dahil iisa ang Diyos na nagpapawalang-sala sa mga mananampalatayang tuli at sa mga mananampalatayang hindi tuli.
+[^30] dahil iisa ang Diyos na nagpapawalang-sala sa mga naniniwalang tuli at sa mga naniniwalang hindi tuli.
 
 [^30]: since there is one God who will justify the circumcised by faith and the uncircumcised through faith.
 
-[^31] Ipapawalang-bisa na ba natin ngayon ang kautusan dahil sa ating pananampalataya? Siyempre hindi! Sa katunayan, pagtitibayin natin ito.
+[^31] Ipapawalang-bisa na ba natin ngayon ang kautusan dahil sa ating paniniwala? Siyempre hindi! Sa katunayan, pagtitibayin natin ito.
 
 [^31]: Do we then nullify the law through faith? Absolutely not! On the contrary, we uphold the law.

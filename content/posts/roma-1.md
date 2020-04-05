@@ -22,7 +22,7 @@ draft: true
 
 [^4]: and was appointed to be the powerful Son of God according to the Spirit of holiness by the resurrection of the dead.
 
-[^5] Dahil sa kaniya, tayo ay nakatanggap ng habag at pagtatalaga na nagbubunga ng pagsunod na siya namang bunga ng pananampalataya alang-alang sa kaniyang ngalan sa gitna ng mga Hentil
+[^5] Dahil sa kaniya, tayo ay nakatanggap ng habag at pagtatalaga na nagbubunga ng pagsunod na siya namang bunga ng pagtitiwala alang-alang sa kaniyang ngalan sa gitna ng mga Hentil
 
 [^5]: Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles,
 
@@ -39,7 +39,7 @@ Sumainyo ang habag at kapayapaan na galing sa Diyos Ama at sa Panginoong Hesu-Kr
 
 ## [Ang Kagustuhan Ni Pablo na Bumisita sa Roma](# "Paul’s Desire to Visit Rome")
 
-[^8] Una sa lahat, nagpapasalamat ako sa aking Diyos sa ngalan ni Kristo Hesus para sa inyong lahat dahil ang inyong pananampalataya ay nababalita sa buong mundo.
+[^8] Una sa lahat, nagpapasalamat ako sa aking Diyos sa ngalan ni Kristo Hesus para sa inyong lahat dahil ang inyong paniniwala ay nababalita sa buong mundo.
 
 [^8]: First, I thank my God through Jesus Christ for all of you because the news of your faith is being reported in all the world.
 
@@ -55,7 +55,7 @@ Sumainyo ang habag at kapayapaan na galing sa Diyos Ama at sa Panginoong Hesu-Kr
 
 [^11]: For I want very much to see you, so that I may impart to you some spiritual gift to strengthen you,
 
-[^12] para ang pananampalataya natin ay makapagpalakas sa bawat isa.
+[^12] para ang pagtitiwala natin ay makapagpalakas sa bawat isa.
 
 [^12]: 12 that is, to be mutually encouraged by each other’s faith, both yours and mine.
 
@@ -71,13 +71,13 @@ Sumainyo ang habag at kapayapaan na galing sa Diyos Ama at sa Panginoong Hesu-Kr
 
 [^15]: So I am eager to preach the gospel to you also who are in Rome.
 
-## [Ang Matuwid ay Namumuhay Sa Pananampalataya](# "The Righteous Will Live by Faith")
+## [Ang Matuwid ay Namumuhay Sa Pagtitiwala](# "The Righteous Will Live by Faith")
 
-[^16] Dahil hindi ko ikinahihiya ang magandang balita, dahil ito ang kapangyarihan ng Diyos na nagliligtas ng lahat ng sumasampalataya, una ang mga Hudio, at sa mga Griyego din.
+[^16] Dahil hindi ko ikinahihiya ang magandang balita, dahil ito ang kapangyarihan ng Diyos na nagliligtas ng lahat ng nagtitiwala, una ang mga Hudio, at sa mga Griyego din.
 
 [^16]: For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.
 
-[^17] Dahil ito'y naghahayag ng katuwiran ng Diyos sa pamamagitan ng pananampalataya patungo sa pananampalataya, tulad ng nasusulat: Ang matuwid ay mamumuhay sa pananampalataya.
+[^17] Dahil ito'y naghahayag ng katuwiran ng Diyos sa pamamagitan ng pagtitiwala patungo sa pagtitiwala, tulad ng nasusulat: Ang matuwid ay mamumuhay sa pagtitiwala.
 
 [^17]: For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
