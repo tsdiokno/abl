@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://tsdiokno.github.io/abl"
 languageCode = "en-us"
+publishDir = "docs"
 title = "Ang Biblia ng Lahat (ABL)"
 theme = "er"

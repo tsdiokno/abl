@@ -30,8 +30,7 @@ draft: true
 
 [^6]: But now we have been released from the law, because we have died to that by which we were bound, so that we may serve in newness of the Spirit and not in oldness of the letter of the law.
 
-Ang Batas ang Nagpapakilala sa Kasalanan
-Knowledge of Sin Comes through the Law
+## [Ang Batas ang Nagpapakilala sa Kasalanan](# "Knowledge of Sin Comes through the Law")
 
 [^7] Paano na? Kasalanan ba ang Kautusan? 'Wag sana! Pero hindi ko makikilala ang kasalanan kung hindi dahil sa Kautusan, dahil hindi ko makikilala ang pagka-mainggitin kung hindi sinabi ng Kautusan na "'Wag maging mainggitin."
 
