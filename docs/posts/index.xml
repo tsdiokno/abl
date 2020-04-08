@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ang Biblia ng Lahat (ABL)</title>
-    <link>http://tsdiokno.github.io/abl/</link>
-    <description>Recent content on Ang Biblia ng Lahat (ABL)</description>
+    <title>Posts on Ang Biblia ng Lahat (ABL)</title>
+    <link>http://tsdiokno.github.io/abl/posts/</link>
+    <description>Recent content in Posts on Ang Biblia ng Lahat (ABL)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Apr 2020 08:05:36 +0000</lastBuildDate>
     
-	<atom:link href="http://tsdiokno.github.io/abl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://tsdiokno.github.io/abl/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
