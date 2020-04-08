@@ -102,9 +102,9 @@ draft: true
 
 [^23]: but I observe another law in my members, at war with the law of my mind and making me captive to the law of sin that exists in my members.
 
-[^25] Kawawa ako! Sino ang sasaklolo sakin mula saaking katawan ng kamatayan?
+[^24] Kawawa ako! Sino ang sasaklolo sakin mula saaking katawan ng kamatayan?
 
-[^25]: Wretched man that I am! Who will rescue me from this body of death?
+[^24]: Wretched man that I am! Who will rescue me from this body of death?
 
 [^25] Salamat sa Diyos sa ngalan ng Panginoong Hesu Kristo! Kaya sa isip ko ako ay alipin ng Kautusan ng Diyos, pero sa aking katawan, ako ay alipin ng kasalanan.
 
