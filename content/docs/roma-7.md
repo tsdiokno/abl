@@ -65,7 +65,7 @@ title: "Roma 7"
 
 [^13]: Therefore, did that which is good become death to me? May it never be! Rather it was sin, in order that it might be recognized as sin, producing death through what is good for me, in order that sin might become sinful to an extraordinary degree through the commandment.
 
-[^14] Dahil alam naatin na ang Kautusan ay espiritwal, pero ako ay makalaman, alipin ng kasalanan.
+[^14] Dahil alam naatin na ang Kautusan ay maka-espirito, pero ako ay makalaman, alipin ng kasalanan.
 
 [^14]: For we know that the law is spiritual, but I am fleshly, sold into slavery to sin.
 

@@ -21,12 +21,12 @@ title: "Roma 3"
 
 [^4] Siguradong hindi! Sa gitna ng kasinungaligan ng lahat, tapat ang Diyos, gaya ng nasusulat:
 
-> Nang ikaw ay pinawalang-sala ng iyong mga salita
-> at magtagumpay sa iyong paghatol.
+Nang ikaw ay pinawalang-sala ng iyong mga salita
+at magtagumpay sa iyong paghatol.
 
 [^4]: Absolutely not! Let God be true, even though everyone is a liar, as it is written:
-    > That you may be justified in your words
-    > and triumph when you judge.
+    That you may be justified in your words
+    and triumph when you judge.
 
 [^5]Pero kung ang ating kabaluktutan ay ipinapakita ang kautwiran ng Diyos, ano ang sasabihin natin? Gumagamit ako ng pangangatuwirang-pantao: Hindi ba't baluktot ang Diyos sa pagpataw ng kaniyang galit?
 
@@ -64,7 +64,7 @@ walang sinuman ang nagnanais sa Diyos.
 [^11]: There is no one who understands;
 there is no one who seeks God.
 
-[^12] Lahat ay tumiwalag;
+[^12] Lahat ay tumalikod;
 lahat ay pare-parehong nawalan ng saysay.
 Walang sinuman ang gumagawa ng mabuti,
 wala kahit na isa.
@@ -102,18 +102,18 @@ Vipers’ venom is under their lips.
 
 [^18]: There is no fear of God before their eyes.
 
-[^19] Alam natin na anuman ang sinasabi ng kautusan, kinakausap nito ang mga na sa ilalim ng kautusan, para matahimik ang lahat at ang mundo ay mapasailalim sa paghahatol ng Diyos.
+[^19] Alam natin na anuman ang sinasabi ng Kautusan, kinakausap nito ang mga na sa ilalim ng Kautusan, para matahimik ang lahat at ang mundo ay mapasailalim sa paghahatol ng Diyos.
 
 [^19]: Now we know that whatever the law says, it speaks to those who are subject to the law, so that every mouth may be shut and the whole world may become subject to God’s judgment.
 
-[^20] Dahil walang mapapawalang-sala sa kaniyang paningin dahil sa gawa ng kautusan, dahil pagkilala sa kasalanan ang dulot ng kautusan.
+[^20] Dahil walang mapapawalang-sala sa kaniyang paningin dahil sa gawa ng Kautusan, dahil pagkilala sa kasalanan ang dulot ng Kautusan.
 
 [^20]: For no one will be justified in his sight by the works of the law, because the knowledge of sin comes through the law.
 
 ## Ang Katuwiran ng Diyos sa Pamamagitan ng Pagtitiwala
 [#](# "The Righteousness of God through Faith")
 
-[^21] Pero ngayon, bukod sa kautusan, ang katuwiran ng Diyos ay nakikita, saksi dito ng Kautusan at ng mga Propeta.
+[^21] Pero ngayon, bukod sa Kautusan, ang katuwiran ng Diyos ay nakikita, saksi dito ng Kautusan at ng mga Propeta.
 
 [^21]: But now, apart from the law, the righteousness of God has been revealed, attested by the Law and the Prophets.
 
@@ -144,7 +144,7 @@ Vipers’ venom is under their lips.
 
 [^27]: Where, then, is boasting? It is excluded. By what kind of law? By one of works? No, on the contrary, by a law of faith.
 
-[^28] Dahil malinaw na na ang isang tao ay napapawalang-sala sa pamamagitan ng pagtitiwala bukod sa kautusan.
+[^28] Dahil malinaw na na ang isang tao ay napapawalang-sala sa pamamagitan ng pagtitiwala bukod sa Kautusan.
 
 [^28]: For we conclude that a person is justified by faith apart from the works of the law.
 
@@ -156,6 +156,6 @@ Vipers’ venom is under their lips.
 
 [^30]: since there is one God who will justify the circumcised by faith and the uncircumcised through faith.
 
-[^31] Ipapawalang-bisa na ba natin ngayon ang kautusan dahil sa ating paniniwala? Siyempre hindi! Sa katunayan, pagtitibayin natin ito.
+[^31] Ipapawalang-bisa na ba natin ngayon ang Kautusan dahil sa ating paniniwala? Siyempre hindi! Sa katunayan, pagtitibayin natin ito.
 
 [^31]: Do we then nullify the law through faith? Absolutely not! On the contrary, we uphold the law.

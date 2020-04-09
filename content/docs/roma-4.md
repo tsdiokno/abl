@@ -69,19 +69,19 @@ Si Abraham Ay Napawalang-Sala Bago Natuli
 ## Ibinigay Ang Pangako Sa Pamamagitan Ng Pagtitiwala
 [#](# "The Promise Granted through Faith")
 
-[^13] Dahil ang pangako kay Abraham o sa kaniyang angkan na ipapamana sa kaniya ang mundo ay hindi ibinigay sa pamamagitan ng kautusan, pero sa pamamagitan ng katuwiran na nanggagaling sa pagtitiwala.
+[^13] Dahil ang pangako kay Abraham o sa kaniyang angkan na ipapamana sa kaniya ang mundo ay hindi ibinigay sa pamamagitan ng Kautusan, pero sa pamamagitan ng katuwiran na nanggagaling sa pagtitiwala.
 
 [^13]: For the promise to Abraham or to his descendants that he would inherit the world was not through the law, but through the righteousness that comes by faith.
 
-[^14] Kung ang mga na sa ilalim ng kautusan ay mga tigapagmana, nawawalan ng saysay ang pagtitiwala at napapawalang-bisa ang pangako.
+[^14] Kung ang mga na sa ilalim ng Kautusan ay mga tigapagmana, nawawalan ng saysay ang pagtitiwala at napapawalang-bisa ang pangako.
 
 [^14]: If those who are of the law are heirs, faith is made empty and the promise nullified,
 
-[^15] dahil ang kautusan ay nagbubunga ng galit. At kung saan wala ang kautusan, wala rin ang pagsuway.
+[^15] dahil ang Kautusan ay nagbubunga ng galit. At kung saan wala ang Kautusan, wala rin ang pagsuway.
 
 [^15] because the law produces wrath. And where there is no law, there is no transgression.
 
-[^16] Ito ang dahilan kung sa pagtitiwala natutupad ang pangako, para ito ay maging ayon sa habag, para masigurado ito sa lahat ng mga kabilang sa angkan -- hindi lang doon sa mga na sa ilalim ng kautusan pero doon din sa mga na sa ilalim ng pananalig ni Abraham. Ama siya ng lahat.
+[^16] Ito ang dahilan kung sa pagtitiwala natutupad ang pangako, para ito ay maging ayon sa habag, para masigurado ito sa lahat ng mga kabilang sa angkan -- hindi lang doon sa mga na sa ilalim ng Kautusan pero doon din sa mga na sa ilalim ng pananalig ni Abraham. Ama siya ng lahat.
 
 [^16]: This is why the promise is by faith, so that it may be according to grace, to guarantee it to all the descendants—not only to those who are of the law but also to those who are of Abraham’s faith. He is the father of us all.
 

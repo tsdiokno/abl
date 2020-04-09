@@ -35,7 +35,7 @@ title: "Roma 2"
 
 [^7]: eternal life to those who by persistence in doing good seek glory, honor, and immortality;
 
-[^8] pero galit parusa para doon sa mga makasarili at sinusuway ang katotohanan habang sumusunod sa kabaluktutan.
+[^8] pero galit at parusa para doon sa mga makasarili at sinusuway ang katotohanan habang sumusunod sa kabaluktutan.
 
 [^8]: but wrath and anger to those who are self-seeking and disobey the truth while obeying unrighteousness.
 
@@ -51,19 +51,19 @@ title: "Roma 2"
 
 [^11]: For there is no favoritism with God.
 
-[^12] Lahat ng nagkakasala sa labas ng kautusan ay masasawi sa labas ng kautusan, at lahat ng nagkakasala sa ilalim ng kautusan ay hahatulan sa ng naayon sa kautusan.
+[^12] Lahat ng nagkakasala sa labas ng Kautusan ay masasawi sa labas ng Kautusan, at lahat ng nagkakasala sa ilalim ng Kautusan ay hahatulan sa ng naayon sa Kautusan.
 
 [^12]: All who sin without the law will also perish without the law, and all who sin under the law will be judged by the law.
 
-[^13] Dahil ang mga nakakarinig sa kautusan ay hindi matuwid sa paningin ng Diyos, pero ang mga sumusunod sa kautusan ang mapapawalang-sala.
+[^13] Dahil ang mga nakakarinig sa Kautusan ay hindi matuwid sa paningin ng Diyos, pero ang mga sumusunod sa Kautusan ang mapapawalang-sala.
 
 [^13]: For the hearers of the law are not righteous before God, but the doers of the law will be justified.
 
-[^14] Kaya kapag ang mga Hentil, na natural na na sa labas ng kautusan, ay sinusunod ang kautusan, ito ay nagiging kautusan na rin para sa kanila kahit na sila ay na sa labas ng kautusan.
+[^14] Kaya kapag ang mga Hentil, na natural na na sa labas ng Kautusan, ay sinusunod ang Kautusan, ito ay nagiging Kautusan na rin para sa kanila kahit na sila ay na sa labas ng Kautusan.
 
 [^14]: So, when Gentiles, who do not by nature have the law, do what the law demands, they are a law to themselves even though they do not have the law.
 
-[^15] Pinapakita nila na ang gawain ng kautusan ay nakaukit sa puso nila. Pinapatunayan ito ng mga kunsensiya nila. Paparatangan sila ng pag-iisip nila kung hindi 'to magdadahilan
+[^15] Pinapakita nila na ang gawain ng Kautusan ay nakaukit sa puso nila. Pinapatunayan ito ng mga kunsensiya nila. Paparatangan sila ng pag-iisip nila kung hindi 'to magdadahilan
 
 [^15]: They show that the work of the law is written on their hearts. Their consciences confirm this. Their competing thoughts either accuse or even excuse them
 
@@ -74,11 +74,11 @@ title: "Roma 2"
 ## Ang Pagsuway ng Mga Hudyo sa Kautusan
 [#](# "Jewish Violation of the Law")
 
-[^17] Kung tinatawag mo ang sarili mo na isang Hudyo at dumedepende ka sa kautusan, at nagmamalaki sa ngalan ng Diyos,
+[^17] Kung tinatawag mo ang sarili mo na isang Hudyo at dumedepende ka sa Kautusan, at nagmamalaki sa ngalan ng Diyos,
 
 [^17]: Now if you call yourself a Jew, and rely on the law, and boast in God,
 
-[^18] at alam ang kaniyang kalooban, at sumasang-ayon sa mga nakahihigit na bagay, nagagabayan ayon sa kautusan,
+[^18] at alam ang kaniyang kalooban, at sumasang-ayon sa mga nakahihigit na bagay, nagagabayan ayon sa Kautusan,
 
 [^18]: and know his will, and approve the things that are superior, being instructed from the law,
 
@@ -86,7 +86,7 @@ title: "Roma 2"
 
 [^19]: and if you are convinced that you are a guide for the blind, a light to those in darkness,
 
-[^20] isang gabay ng mga mangmang, isang guro ng mga hilaw ang pag-iisip, dala ang sagisag ng kaalaman at katotohanan na galing sa kautusan —
+[^20] isang gabay ng mga mangmang, isang guro ng mga hilaw ang pag-iisip, dala ang sagisag ng kaalaman at katotohanan na galing sa Kautusan —
 
 [^20]: an instructor of the ignorant, a teacher of the immature, having the embodiment of knowledge and truth in the law—
 
@@ -98,7 +98,7 @@ title: "Roma 2"
 
 [^22]: You who say, “You must not commit adultery”—do you commit adultery? You who detest idols, do you rob their temples?
 
-[^23] Kayong mga nagmamalaki sa ngalan ng kautusan, nilalapastangan niyo ba ang Diyos sa hindi ninyo pagsunod sa kautusan?
+[^23] Kayong mga nagmamalaki sa ngalan ng Kautusan, nilalapastangan niyo ba ang Diyos sa hindi ninyo pagsunod sa Kautusan?
 
 [^23]: You who boast in the law, do you dishonor God by breaking the law?
 
@@ -109,15 +109,15 @@ title: "Roma 2"
 ## Pagtutuli ng Puso
 [#](# "Circumcision of the Heart")
 
-[^25] Ang pagtutuli ay may pakinabang kung sinusunod niyo ang kautusan, pero kung suwail ka, walang kabuluhan ang iyong pagkatuli.
+[^25] Ang pagtutuli ay may pakinabang kung sinusunod niyo ang Kautusan, pero kung suwail ka, walang kabuluhan ang iyong pagkatuli.
 
 [^25]: Circumcision benefits you if you observe the law, but if you are a lawbreaker, your circumcision has become uncircumcision.
 
-[^26] Kaya kung ang hindi tuli na tao ay sumusunod sa kautusan, hindi ba't naging pagkatuli na ang kaniyang hindi pagkatuli?
+[^26] Kaya kung ang hindi tuli na tao ay sumusunod sa Kautusan, hindi ba't naging pagkatuli na ang kaniyang hindi pagkatuli?
 
 [^26]: So if an uncircumcised man keeps the law’s requirements, will not his uncircumcision be counted as circumcision?
 
-[^27] Ang isang taong hindi natuli ng pisikal, pero sumusunod sa kautusan, ay hahatulan ka, isang suwail, kahit natuli na ka at na sa'yo ang kasulatan ng kautusan.
+[^27] Ang isang taong hindi natuli ng pisikal, pero sumusunod sa Kautusan, ay hahatulan ka, isang suwail, kahit natuli ka na at na sa'yo ang kasulatan ng Kautusan.
 
 [^27]: A man who is physically uncircumcised, but who keeps the law, will judge you who are a lawbreaker in spite of having the letter of the law and circumcision.
 
@@ -125,6 +125,6 @@ title: "Roma 2"
 
 [^28]: For a person is not a Jew who is one outwardly, and true circumcision is not something visible in the flesh.
 
-[^29] Sa katunayan, na sa loob ang pagiging isang Hudyo, na sa puso ang pagkatuli — at ayon ito sa Espirito, sa kasulatan. Ang puri ng taong 'yon ay hindi galing sa tao pero galing sa Diyos.
+[^29] Sa katunayan, nanggagaling sa kalooban ang pagiging isang Hudyo, na sa puso ang pagkatuli — at ayon ito sa Espirito, sa kasulatan. Ang puri ng taong 'yon ay hindi galing sa tao pero galing sa Diyos.
 
 [^29]: On the contrary, a person is a Jew who is one inwardly, and circumcision is of the heart—by the Spirit, not the letter. That person’s praise is not from people but from God.

@@ -11,7 +11,7 @@ title: "Roma 8"
 
 [^1]: Therefore, there is now no condemnation for those in Christ Jesus,
 
-[^2] dahil ang kautusan ng Spirito ng buhay kay Kristo Hesus ay pinalaya na kayo sa Kautusan ng kasalanan at kamatayan.
+[^2] dahil ang kautusan ng Spirito ng buhay kay Kristo Hesus ay pinalaya na kayo sa kautusan ng kasalanan at kamatayan.
 
 [^2]: because the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death.
 
