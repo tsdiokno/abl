@@ -1,5 +1,6 @@
 ---
 title: "Roma 4"
+type: "doc"
 ---
 
 # Roma 4

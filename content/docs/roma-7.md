@@ -1,5 +1,6 @@
 ---
 title: "Roma 7"
+type: "doc"
 ---
 
 # Roma 7

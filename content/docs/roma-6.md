@@ -1,5 +1,6 @@
 ---
 title: "Roma 6"
+type: "doc"
 ---
 
 # Roma 6

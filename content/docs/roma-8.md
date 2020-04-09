@@ -1,5 +1,6 @@
 ---
 title: "Roma 8"
+type: "doc"
 ---
 
 # Roma 8

@@ -4,5 +4,9 @@ publishDir = "docs"
 title = "Ang Biblia ng Lahat (ABL)"
 theme = "book"
 
+enableGitInfo = true
+
 [params]
   BookMenuBundle = "/menu"
+  BookRepo = "https://github.com/tsdiokno/abl"
+  BookEditPath = "edit/master/content"

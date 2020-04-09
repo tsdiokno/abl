@@ -1,5 +1,6 @@
 ---
 title: "Roma 9"
+type: "doc"
 ---
 
 # Roma 9
