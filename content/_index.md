@@ -3,7 +3,9 @@ title: "Introduction"
 type: "docs"
 ---
 
-# Kamusta? Ito Ang Biblia Ng Lahat (ABL)
+## Salin Mula Sa Ingles. Puro, Tapat, at Madaling Mabasa. Ito ang ABL -- Ang Bibliya Ng Lahat.
+
+![Logo Ng ABL](ABL_Logo_v2.png)
 
 ## Sinalin Mula Sa Ingles
 
