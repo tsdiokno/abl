@@ -82,7 +82,7 @@ Si Abraham Ay Napawalang-Sala Bago Natuli
 
 [^15] because the law produces wrath. And where there is no law, there is no transgression.
 
-[^16] Ito ang dahilan kung sa pagtitiwala natutupad ang pangako, para ito ay maging ayon sa habag, para masigurado ito sa lahat ng mga kabilang sa angkan -- hindi lang doon sa mga na sa ilalim ng Kautusan pero doon din sa mga na sa ilalim ng pananalig ni Abraham. Ama siya ng lahat.
+[^16] Ito ang dahilan kung sa pagtitiwala natutupad ang pangako, para ito ay maging ayon sa kaagandahang-loob, para masigurado ito sa lahat ng mga kabilang sa angkan -- hindi lang doon sa mga na sa ilalim ng Kautusan pero doon din sa mga na sa ilalim ng pananalig ni Abraham. Ama siya ng lahat.
 
 [^16]: This is why the promise is by faith, so that it may be according to grace, to guarantee it to all the descendants—not only to those who are of the law but also to those who are of Abraham’s faith. He is the father of us all.
 

@@ -8,11 +8,11 @@ type: "doc"
 ## Dating Patay sa Kasananan, Ngayon Ay Buhay kay Kristo
 [#](# "Formerly Dead to Sin, Now Alive in Christ")
 
-[^1]Ano ang sasabihin natin? Tutuloy ba tayo sa kasalanan, para lumaki ang kahabagan?
+[^1]Ano ang sasabihin natin? Tutuloy ba tayo sa kasalanan, para lumaki ang kagandahang-loob?
 
 [^1]: What therefore shall we say? Shall we continue in sin, in order that grace may increase?
 
-[^2]'Wag sana! Pano tayo nabubuhay sa kasalanan kung patay na tayo dito?
+[^2]Hinding-hindi! Pano tayo nabubuhay sa kasalanan kung patay na tayo dito?
 
 [^2]: May it never be! How can we who died to sin still live in it?
 
@@ -60,14 +60,14 @@ type: "doc"
 
 [^13]: and do not present your members to sin as instruments of unrighteousness, but present yourselves to God as those who are alive from the dead, and your members to God as instruments of righteousness.
 
-[^14] Dahil hindi maghahari ang kasalanan sa inyo, dahil kayo ay wala sa ilalim ng Kautusan, pero na sa ilalim ng habag.
+[^14] Dahil hindi maghahari ang kasalanan sa inyo, dahil kayo ay wala sa ilalim ng Kautusan, pero na sa ilalim ng kagandahang-loob.
 
 [^14]: For sin will not be master over you, because you are not under law, but under grace.
 
 ## Pinalaya Mula sa Kasalanan
 [#](# "Set Free from Sin")
 
-[^15] Paano na? Gagawa na ba tayo ng kasalanan dahil wala na tayo sa ilalim ng Kautusan pero na sa ilalim na ng habag? 'Wag sana!
+[^15] Paano na? Gagawa na ba tayo ng kasalanan dahil wala na tayo sa ilalim ng Kautusan pero na sa ilalim na ng kagandagang loob? Hinding-hindi!
 
 [^15]: What then? Shall we sin because we are not under law but under grace? May it never be!
 

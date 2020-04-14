@@ -28,7 +28,7 @@ type: "doc"
 
 [^5]: The ancestors are theirs, and from them, by physical descent,[c] came the Christ, who is God over all, praised forever.[d] Amen.
 
-## Ang Mahabag na Pagpili Ng Diyos Sa Israel
+## Ang Kagandahang-Loob ng Diyos Sa Pagpili Sa Israel
 [#](# "God’s Gracious Election of Israel")
 
 [^6] Hindi naman nabigo ang salita ng Diyos, dahil hindi naman lahat ng nanggaling kay Israel ay kabilang sa Israel.
@@ -70,11 +70,11 @@ type: "doc"
 
 [^14]: What should we say then? Is there injustice with God? Absolutely not!
 
-[^15] Dahil sabi niya kay Moises "kakahabagan ko ang aking kakahabagan, at kakaawaan ko ang aking kaaawaan".
+[^15] Dahil sabi niya kay Moises "magpapakita ako ng kagandahang-loob ko ang aking papakitaan ng kagandahang-loob, at kakaawaan ko ang aking kaaawaan".
 
 [^15]: For he tells Moses, I will show mercy to whom I will show mercy, and I will have compassion on whom I will have compassion.
 
-[^16] Kaya hindi naka-depende yun sa kalooban o gawa ng tao pero sa Diyos na nagpapakita ng habag.
+[^16] Kaya hindi naka-depende yun sa kalooban o gawa ng tao pero sa Diyos na nagpapakita ng kagandahang-loob.
 
 [^16]: So then, it does not depend on human will or effort but on God who shows mercy.
 
@@ -82,7 +82,7 @@ type: "doc"
 
 [^17]: For the Scripture tells Pharaoh, I raised you up for this reason so that I may display my power in you and that my name may be proclaimed in the whole earth.
 
-[^18] Kaya may habag siya sa gusto niyang kahabagan at pinatitigas niya ang puso ng taong gusto niyang patigasin ang puso.
+[^18] Kaya may kagandahang-loob siya sa gusto niyang bigyan ng kagandahang-loob at pinatitigas niya ang puso ng taong gusto niyang patigasin ang puso.
 
 [^18]: So then, he has mercy on whom he wants to have mercy and he hardens whom he wants to harden.
 
@@ -102,7 +102,7 @@ type: "doc"
 
 [^22]: And what if God, wanting to display his wrath and to make his power known, endured with much patience objects of wrath prepared for destruction?
 
-[^23] At paano kaya kung ginawa niya ito para ipakita ang yaman ng kaniyang habag para sa mga taong ihinanda niya para makatanggap ng awa at parangal --
+[^23] At paano kaya kung ginawa niya ito para ipakita ang yaman ng kaniyang kagandahan-loob para sa mga taong ihinanda niya para makatanggap ng awa at parangal --
 
 [^23]: And what if he did this to make known the riches of his glory on objects of mercy that he prepared beforehand for glory—
 

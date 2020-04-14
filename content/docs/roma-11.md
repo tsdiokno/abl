@@ -25,11 +25,11 @@ Hinding-hindi! Israelita ako, mula sa angkan ni Abraham, kabilang sa tribo ni Be
 
 [^4]: But what was God’s answer to him? I have left seven thousand for myself who have not bowed down to Baal.
 
-[^5] Kaya sa parehong paraan, may mga natitirang ding pinili ayon sa habag.
+[^5] Kaya sa parehong paraan, may mga natitirang ding pinili ayon sa kagandahang-loob.
 
 [^5]: In the same way, then, there is also at the present time a remnant chosen by grace.
 
-[^6] At kung ito ay ayon sa habag, hindi ito ayon sa gawa; o hindi na magiging habag ang habag.
+[^6] At kung ito ay ayon sa kagandahang-loob, hindi ito ayon sa gawa; o hindi na magiging kagandahan ng loob ang kagandahang-loob.
 
 [^6]: Now if by grace, then it is not by works; otherwise grace ceases to be grace.
 
@@ -143,7 +143,7 @@ when I take away their sins.
 
 [^28]: Regarding the gospel, they are enemies for your advantage, but regarding election, they are loved because of the patriarchs,
 
-[^29] dahil hindi nababawi ang mahabag na kaloob at pagtawag ng Diyos.
+[^29] dahil hindi nababawi ang kaloob na mula sa kagandahang-loob at pagtawag ng Diyos.
 
 [^29]: since God’s gracious gifts and calling are irrevocable.
 

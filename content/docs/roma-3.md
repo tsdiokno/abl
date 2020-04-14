@@ -126,7 +126,7 @@ Vipers’ venom is under their lips.
 
 [^23]: For all have sinned and fall short of the glory of God.
 
-[^24] Buong-laya niya silang pinawalang-sala dahil sa kaniyang habag na bunga ng kaligtasan sa ilalim ni Kristo Hesus.
+[^24] Buong-laya niya silang pinawalang-sala dahil sa kaniyang kagandahang-loob na bunga ng kaligtasan sa ilalim ni Kristo Hesus.
 
 [^24]: They are justified freely by his grace through the redemption that is in Christ Jesus.
 

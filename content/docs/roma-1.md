@@ -24,7 +24,7 @@ type: "doc"
 
 [^4]: and was appointed to be the powerful Son of God according to the Spirit of holiness by the resurrection of the dead.
 
-[^5] Dahil sa kaniya, tayo ay nakatanggap ng habag at pagtatalaga na nagbubunga ng pagsunod na siya namang bunga ng pagtitiwala alang-alang sa kaniyang ngalan sa gitna ng mga Hentil
+[^5] Dahil sa kaniya, tayo ay nakatanggap ng kabutihang-loob at pagtatalaga na nagbubunga ng pagsunod na siya namang bunga ng pagtitiwala alang-alang sa kaniyang ngalan sa gitna ng mga Hentil
 
 [^5]: Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles,
 
@@ -34,7 +34,7 @@ type: "doc"
 
 [^7] Sa lahat ng mga na sa Roma na siyang minahal ng Diyos at tinawag na mga santo.
 
-Sumainyo ang habag at kapayapaan na galing sa Diyos Ama at sa Panginoong Hesu-Kristo.
+Sumainyo ang kabutihang-loob at kapayapaan na galing sa Diyos Ama at sa Panginoong Hesu-Kristo.
 
 [^7]: To all who are in Rome, loved by God, called as saints.
   Grace to you and peace from God our Father and the Lord Jesus Christ.
@@ -143,7 +143,7 @@ Sumainyo ang habag at kapayapaan na galing sa Diyos Ama at sa Panginoong Hesu-Kr
 
 [^30]: slanderers, God-haters, arrogant, proud, boastful, inventors of evil, disobedient to parents,
 
-[^31] walang saysay, hindi mapapagkatiwalaan, hindi mapagmahal, at walang habag.
+[^31] walang saysay, hindi mapapagkatiwalaan, hindi mapagmahal, at walang kabutihang-loob.
 
 [^31]: senseless, untrustworthy, unloving, and unmerciful.
 
