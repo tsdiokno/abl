@@ -6,104 +6,67 @@ type: "doc"
 
 # Roma 13
 
-## Isang Buhay Na Alay
-[#](# "A Living Sacrifice")
+## Ang Tungkulin Ng Isang Kristiyano Sa Kaniyang Bansa
+[#](# "A Christian’s Duties to the State")
 
-[^1] Kaya, mga kapatid, sa ilalim ng awa ng Diyos, hinihimok ko kayo na ibigay niyo ang inyong mga katawan bilang buhay na alay, na inilaan at nakalulugod sa Diyos; ito ang inyong tunay na pag-samba.
+[^1] Ang lahat ay magpasakop sa mga namumunong awtoridad, dahil walang awtoridad kundi yung nanggaling sa Diyos, at ang mga awtoridad na nadidiyan ay itinalaga ng Diyos.
 
-[^1]: Therefore, brothers and sisters, in view of the mercies of God, I urge you to present your bodies as a living sacrifice, holy and pleasing to God; this is your true worship.
+[^1]: Let everyone submit to the governing authorities, since there is no authority except from God, and the authorities that exist are instituted by God.
 
-[^2] 'Wag kayong makibagay sa panahong ito, pero kayo'y mag-ibang-anyo sa pamamagitan ng pagbabago ng inyong isip, para maunawaan niyo ang mabuti, kaaya-aya, at ganap na kalooban ng Diyos.
+[^2] Kaya naman, ang nanlalaban sa awtoridad ay sumasalungat sa utos ng Diyos, at ang mga sumasalungat ay nagdadala ng hatol sa kanilang mga sarili.
 
-[^2]: Do not be conformed to this age, but be transformed by the renewing of your mind, so that you may discern what is the good, pleasing, and perfect will of God.
+[^2]: So then, the one who resists the authority is opposing God’s command, and those who oppose it will bring judgment on themselves.
 
-## Maraming Kaloob Pero Iisang Katawan
-[#](# "Many Gifts but One Body")
+[^3] Dahil ang mga pinuno ay hindi kasindakan sa tamang asal, pero sa masama. Gusto ninyong hindi matakot sa na sa awtoridad? Gawin niyo ang tama at at sasang-ayunan kayo nito.
 
-[^3] Dahil sa kagandang-loob na ibinigay saakin, sinasabi ko sa inyong lahat na 'wag niyong ipalagay ang mga sarili niyo na mas nakahihigit kesa sa nararapat. Sa halip, mag-isip kayo sa makatuwirang paraan, gaya na lang ng paglagak ng Diyos ng tinakal na pagtitiwala sa bawat isa.
+[^3]: For rulers are not a terror to good conduct, but to bad. Do you want to be unafraid of the one in authority? Do what is good, and you will have its approval.
 
-[^3]: For by the grace given to me, I tell everyone among you not to think of himself more highly than he should think. Instead, think sensibly, as God has distributed a measure of faith to each one.
+[^4] Dahil ito ay lingkod ng Diyos para sa inyong ikabubuti. Pero kung gumagawa kayo ng mali, matakot kayo, dahil hindi ito nagdadala ng spada ng walang dahilan. Dahil ito ay lingkod ng Diyos, ang tigapaghiganti na nagpaparusa sa gumagawa ng mali.
 
-[^4] Gaya na lang ng ating katawan na maraming bahagi, at hindi lahat ng bahagi ay pare-pareho ng tungkulin,
+[^4]: For it is God’s servant for your good. But if you do wrong, be afraid, because it does not carry the sword for no reason. For it is God’s servant, an avenger that brings wrath on the one who does wrong.
 
-[^4]: Now as we have many parts in one body, and all the parts do not have the same function,
+[^5] Kaya dapat kayo magpasailalim hindi lang dahil sa parusa pero dahil sa inyong kunsensiya.
 
-[^5] Sa parehong paraan tayong mga nakararami ay isang katawan kay Kristo, at ang bawat isa ay bahagi ng bawat isa.
+[^5]: Therefore, you must submit, not only because of wrath but also because of your conscience.
 
-[^5]: in the same way we who are many are one body in Christ and individually members of one another.
+[^6] At dahil dito ay nagbabayad kayo ng buwis, dahil ang mga awtoridad ay lingkod ng Diyos, na patuloy na ginagampanan ang mga tungkuling ito.
 
-[^6] Ayon sa kagandahang loob na ibinigay saatin, meroon tayong iba't-ibang mga kaloob: Kung paghahayag, gamitin ayon sa takal ng kaniyang pagtitiwala;
+[^6]: And for this reason you pay taxes, since the authorities are God’s servants, continually attending to these tasks.
 
-[^6]: According to the grace given to us, we have different gifts: If prophecy, use it according to the proportion of one’s faith;
+[^7] Bayaran ninyo ang mga pananagutan ninyo sa lahat: buwis doon sa mga pinagkakautangan niyo ng buwis, upa doon sa mga pinagkakautangan niyo ng upa, paggalang sa mga pinagkakautangan niyo ng paggalang, at parangal sa mga pinagkakautangan niyo ng parangal.
 
-[^7] kung paglilingkod, gamitin sa paglilingkod; kung pagtuturo, sa pagtuturo;
+[^7]: Pay your obligations to everyone: taxes to those you owe taxes, tolls to those you owe tolls, respect to those you owe respect, and honor to those you owe honor.
 
-[^7]: if service, use it in service; if teaching, in teaching;
+## Pagmamalal, Ang Ating Pangunahing Tungkulin
+[#](# "Love, Our Primary Duty")
 
-[^8] kung panghihikayat, sa paghihikayat; pagbibigay, ng may bukas na palad; pamumuno, ng may pagsisikap; pagbibigay-awa, ng may kagalakan.
+[^8] Wag kayong magkautang sa kahit sino ng kahit ano maliban sa pag-ibig sa bawat isa, dahil ang siyang nagmamahal ay tinupad ang Kautusan.
 
-[^8]: if exhorting, in exhortation; giving, with generosity; leading, with diligence; showing mercy, with cheerfulness.
+[^8]: Do not owe anyone anything, except to love one another, for the one who loves another has fulfilled the law.
 
-## Tuntuning Kristiyano
-[#](# "Christian Ethics")
+[^9] Ang mga kautusan, Wag mangangalunya; wag papatay; wag magnanakaw, wag maging mapagkamkam, at ang kahit ano pang utos, ay nabubuod sa utos na ito: Ibigin mo ang iyong kapwa gaya ng iyong sarili.
 
-[^9] Umibig ng walang pagbabalatkayo. Kamuhian ang kasamaan; kumapit sa mabuti.
+[^9]: The commandments, Do not commit adultery; do not murder; do not steal; do not covet; and any other commandment, are summed up by this commandment: Love your neighbor as yourself.
 
-[^9]: Let love be without hypocrisy. Detest evil; cling to what is good.
+[^10] Ang pag-ibig ay hindi gumagawa ng kasamaan sa kapwa. Kaya ang pag-ibig ay ang kaganapan ng Kautusan.
 
-[^10] Taos-puso kayong mag-ibigan bilang magkakapatid. Daigin niyo ang bawat isa sa pagpapakita ng dangal.
+[^10]: Love does no wrong to a neighbor. Love, therefore, is the fulfillment of the law.
 
-[^10]: Love one another deeply as brothers and sisters. Outdo one another in showing honor.
+## Isuot Si Kristo
+[#](# "Put On Christ")
 
-[^11] Wag kayong magkulang sa pagiging masigasig; mag-alab kayo sa Spirito, pagsilbihan ang Pangiboon.
+[^11] Bukod dito, dahil alam ninyo ang panahon, ngayon na ang oras para gumising kayo mula sa pagkakatulog, dahil mas malapit na ngayon ang ating kaligtasan kesa nuong tayo ay unang nagtiwala.
 
-[^11]: Do not lack diligence in zeal; be fervent in the Spirit; serve the Lord.
+[^11]: Besides this, since you know the time, it is already the hour for you to wake up from sleep, because now our salvation is nearer than when we first believed.
 
-[^12] Magalak sa pag-asa; magtiyaga sa sakit; magpatuloy sa panalangin.
+[^12] Malapit nang matapos ang gabi, at malapit nang umaraw; kaya itapon at hubarin na natin ang mga gawain ng kadiliman at isuot ang mga kalasag at sandata ng liwanag.
 
-[^12]: Rejoice in hope; be patient in affliction; be persistent in prayer.
+[^12]: The night is nearly over, and the day is near; so let us discard the deeds of darkness and put on the armor of light.
 
-[^13] Makibahagi sa mga pangagailangan ng kapatiran; sikaping makitungo.
+[^13] Mamuhay tayo ng may kagandahang-asal, tulad ng pamumuhay sa araw: hindi sa pagpapakalango at paglalasing; hindi sa kahalayan ng laman at sa hilig dito, hindi sa pakikipagtaltalan at pagiinggitan.
 
-[^13]: Share with the saints in their needs; pursue hospitality.
+[^13]: Let us walk with decency, as in the daytime: not in carousing and drunkenness; not in sexual impurity and promiscuity; not in quarreling and jealousy.
 
-[^14] Pagpalain ang mga nagpapahirap sa inyo; pagpalain at wag sumpain.
+[^14] Pero isuot niyo and Panginoong Hesu Kristo, at wag niyong pagbigyan ang laman para masunod ang nais nito.
 
-[^14]: Bless those who persecute you; bless and do not curse.
-
-[^15] Makigalak sa mga nagagalak; maki-iyak sa mga umiiyak.
-
-[^15]: Rejoice with those who rejoice; weep with those who weep.
-
-[^16] Mamuhay ng may pagkakasundo sa bawat isa. Wag maging mayabang; sa halip makisama sa mga mapagpakumbaba. Wag mong isipin sa sarili mo na marunong ka.
-
-[^16]: Live in harmony with one another. Do not be proud; instead, associate with the humble. Do not be wise in your own estimation.
-
-[^17] Wag suklian ng masama ang masama. Pag-isipang mabuti na gawin ang marangal sa mata ng lahat.
-
-[^17]: Do not repay anyone evil for evil. Give careful thought to do what is honorable in everyone’s eyes.
-
-[^18] Kung posible, hangga't sa inyo naka-depende, mamuhay ng mapayapa sa lahat.
-
-[^18]: If possible, as far as it depends on you, live at peace with everyone.
-
-[^19] Mga kaibigan, wag kayong maghiganti; sa halip, magbigay-daaan kayo sa parusa ng Diyos, dahil nasusulat, Saakin ang paghihiganti; gaganti ako, sabi ng Panginoon.
-
-[^19]: Friends, do not avenge yourselves; instead, leave room for God’s wrath, because it is written, Vengeance belongs to me; I will repay, says the Lord.
-
-[^20] Pero
-
-Kung gutom ang kalaban mo, pakainin mo.
-Kung nauuhaw siya, bigyan mo siya ng maiinom.
-Dahil kapag ginawa mo ito
-ikaw ay makapag-iimpok ng mga nagbabagang uling sa kaniyang ulo.
-
-[^20]: But
-  If your enemy is hungry, feed him.
-  If he is thirsty, give him something to drink.
-  For in so doing
-  you will be heaping fiery coals on his head.
-
-'Wag kayong madaig ng kasamaaan, pero daigin niyo ang kasamaan ng kabutihan.
-
-[^21]: Do not be conquered by evil, but conquer evil with good.
+[^14]: But put on the Lord Jesus Christ, and make no provision for the flesh to gratify its desires.
