@@ -6,21 +6,68 @@ type: "doc"
 
 # Roma 14
 
-## Isang Buhay Na Alay
-[#](# "A Living Sacrifice")
+## Ang Kautusan Ng Kalayaan
+[#](# "The Law of Liberty")
 
-The Law of Liberty
-14 Welcome anyone who is weak in faith, but don’t argue about disputed matters. 2 One person believes he may eat anything, while one who is weak eats only vegetables. 3 One who eats must not look down on one who does not eat, and one who does not eat must not judge one who does, because God has accepted him. 4 Who are you to judge another’s household servant? Before his own Lord he stands or falls. And he will stand, because the Lord is able[a] to make him stand.
+[^1] Tanggapin niyo ang sinumang mahina sa pagtitiwala, pero wag kayong magtatalo sa mga bagay na ipinagtutunggali.
 
-5 One person judges one day to be more important than another day. Someone else judges every day to be the same. Let each one be fully convinced in his own mind. 6 Whoever observes the day, observes it for the honor of the Lord.[b] Whoever eats, eats for the Lord, since he gives thanks to God; and whoever does not eat, it is for the Lord that he does not eat it, and he gives thanks to God. 7 For none of us lives for himself, and no one dies for himself. 8 If we live, we live for the Lord; and if we die, we die for the Lord. Therefore, whether we live or die, we belong to the Lord. 9 Christ died and returned to life for this: that he might be Lord over both the dead and the living. 10 But you, why do you judge your brother or sister? Or you, why do you despise your brother or sister? For we will all stand before the judgment seat of God.[c] 11 For it is written,
+[^1]: Welcome anyone who is weak in faith, but don’t argue about disputed matters.
 
-As I live, says the Lord,
-every knee will bow to me,
-and every tongue will give praise to God.[d]
+[^2] Ang isa ay naniniwala na maari niyang kainin ang kahit na ano, samantalang ang mahina ay kumakain lang ng gulay.
 
-12 So then, each of us will give an account of himself to God.
+[^2]: One person believes he may eat anything, while one who is weak eats only vegetables.
+
+[^3] Ang kumakain ay hindi dapat maliitin ang hindi kumakain, at ang hindi kumakain ay hindi dapat hatulan ang kumakain, dahil tinanggap siya ng Diyos.
+
+[^3]: One who eats must not look down on one who does not eat, and one who does not eat must not judge one who does, because God has accepted him.
+
+Sino ka para hatulan ang lingkod ng iba? Titindig o mahuhulog siya sa harap ng kaniyang sariling Panginoon. At siya ay makakatindig, dahil pinatitindig siya ng kaniyang Panginoon.
+
+[^4]: Who are you to judge another’s household servant? Before his own Lord he stands or falls. And he will stand, because the Lord is able to make him stand.
+
+May naniniwala na mas importante ang isang araw kaysa sa ibang araw. May ibang naniniwala na pare-pareho lang ang laht ng araw. Hayaan na na ang bawat isa ay buong isip na mapanatag sa kanilang mga sarili.
+
+[^5]: One person judges one day to be more important than another day. Someone else judges every day to be the same. Let each one be fully convinced in his own mind.
+
+Kung sinuman ang
+
+[^6]: Whoever observes the day, observes it for the honor of the Lord. Whoever eats, eats for the Lord, since he gives thanks to God; and whoever does not eat, it is for the Lord that he does not eat it, and he gives thanks to God.
+
+[^7]: For none of us lives for himself, and no one dies for himself.
+
+[^8]: If we live, we live for the Lord; and if we die, we die for the Lord. Therefore, whether we live or die, we belong to the Lord.
+
+[^9]: Christ died and returned to life for this: that he might be Lord over both the dead and the living.
+
+[^10]: But you, why do you judge your brother or sister? Or you, why do you despise your brother or sister? For we will all stand before the judgment seat of God.
+
+[^11]: For it is written,
+  As I live, says the Lord,
+  every knee will bow to me,
+  and every tongue will give praise to God.
+
+[^12]: So then, each of us will give an account of himself to God.
 
 The Law of Love
-13 Therefore, let us no longer judge one another. Instead decide never to put a stumbling block or pitfall in the way of your brother or sister. 14 I know and am persuaded in the Lord Jesus that nothing is unclean in itself. Still, to someone who considers a thing to be unclean, to that one it is unclean. 15 For if your brother or sister is hurt by what you eat, you are no longer walking according to love. Do not destroy, by what you eat, someone for whom Christ died. 16 Therefore, do not let your good be slandered, 17 for the kingdom of God is not eating and drinking, but righteousness, peace, and joy in the Holy Spirit. 18 Whoever serves Christ in this way is acceptable to God and receives human approval.
 
-19 So then, let us pursue what promotes peace and what builds up one another. 20 Do not tear down God’s work because of food. Everything is clean, but it is wrong to make someone fall by what he eats. 21 It is a good thing not to eat meat, or drink wine, or do anything that makes your brother or sister stumble.[e] 22 Whatever you believe about these things, keep between yourself and God. Blessed is the one who does not condemn himself by what he approves. 23 But whoever doubts stands condemned if he eats, because his eating is not from faith,[f] and everything that is not from faith is sin.
+[^13]: Therefore, let us no longer judge one another. Instead decide never to put a stumbling block or pitfall in the way of your brother or sister.
+
+[^14]: I know and am persuaded in the Lord Jesus that nothing is unclean in itself. Still, to someone who considers a thing to be unclean, to that one it is unclean.
+
+[^15]: For if your brother or sister is hurt by what you eat, you are no longer walking according to love. Do not destroy, by what you eat, someone for whom Christ died.
+
+[^16]: Therefore, do not let your good be slandered,
+
+[^17]: for the kingdom of God is not eating and drinking, but righteousness, peace, and joy in the Holy Spirit.
+
+[^18]: Whoever serves Christ in this way is acceptable to God and receives human approval.
+
+[^19]: So then, let us pursue what promotes peace and what builds up one another.
+
+[^20]: Do not tear down God’s work because of food. Everything is clean, but it is wrong to make someone fall by what he eats.
+
+[^21]: It is a good thing not to eat meat, or drink wine, or do anything that makes your brother or sister stumble.
+
+[^22]: Whatever you believe about these things, keep between yourself and God. Blessed is the one who does not condemn himself by what he approves.
+
+[^23]: But whoever doubts stands condemned if he eats, because his eating is not from faith, and everything that is not from faith is sin.
