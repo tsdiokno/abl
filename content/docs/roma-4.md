@@ -1,5 +1,6 @@
 ---
 title: "Roma 4"
+weight: 4
 type: "doc"
 ---
 
@@ -40,8 +41,8 @@ type: "doc"
 [^7]: Blessed are those whose lawless acts are forgiven
 and whose sins are covered.
 
-[^8]Pinagpala ang taong
-hindi na kikilalaning makasalanan ng Diyos.
+[^8] Pinagpala ang taong
+  hindi na kikilalaning makasalanan ng Diyos.
 
 [^8]: Blessed is the person
 the Lord will never charge with sin.
