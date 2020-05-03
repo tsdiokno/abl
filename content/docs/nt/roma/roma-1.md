@@ -1,9 +1,8 @@
 ---
 title: "Roma 1"
+weight: 1
 type: "doc"
 ---
-
-# Roma 1
 
 ## Ang Mabuting Balita ng Diyos Para Sa Roma
 [#](# "The Gospel of God for Rome")

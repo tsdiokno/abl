@@ -8,6 +8,5 @@ enableGitInfo = true
 
 [params]
   BookLogo = 'ABL_Logo_v2.png'
-  BookMenuBundle = "/menu"
   BookRepo = "https://github.com/tsdiokno/abl"
   BookEditPath = "edit/master/content"

@@ -1,9 +1,10 @@
 ---
-title: "Roma 12"
+title: "Roma 13"
+weight: 13
 type: "doc"
 ---
 
-# Roma 12
+# Roma 13
 
 ## Isang Buhay Na Alay
 [#](# "A Living Sacrifice")

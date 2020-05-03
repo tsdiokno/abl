@@ -1,7 +1,6 @@
 ---
 title: "Kamusta"
 date: 2020-04-05T11:49:01+08:00
-draft: true
 ---
 
 Kamusta?
