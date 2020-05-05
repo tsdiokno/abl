@@ -1,9 +1,13 @@
-[submodule "themes/onetwothree"]
-	path = themes/onetwothree
-	url = https://github.com/schollz/onetwothree.git
-[submodule "themes/er"]
-	path = themes/er
-	url = https://github.com/lingxz/er.git
-[submodule "themes/book"]
-	path = themes/book
-	url = https://github.com/alex-shpak/hugo-book
+
+[submodule "themes/docsy"]
+	path = themes/docsy
+	url = https://github.com/google/docsy
+	[submodule "themes/onetwothree"]
+		path = themes/onetwothree
+		url = https://github.com/schollz/onetwothree.git
+	[submodule "themes/er"]
+		path = themes/er
+		url = https://github.com/lingxz/er.git
+	[submodule "themes/book"]
+		path = themes/book
+		url = https://github.com/alex-shpak/hugo-book
