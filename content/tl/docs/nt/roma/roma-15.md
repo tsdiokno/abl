@@ -82,7 +82,7 @@ description:
 ## Mula sa Herusalam Hanggang Sa Iliriko
 [#](# "From Jerusalem to Illyricum")
 
-[^14] Mga kapatid ko, ako ay sigurado patunkol sa inyo na kayo ay puno ng kabutihan, puno ng pawang kaalaman, at may kakayanan na magbigay ng bilin sa bawat isa.
+[^14] Mga kapatid ko, ako ay sigurado patungkol sa inyo na kayo ay puno ng kabutihan, puno ng pawang kaalaman, at may kakayanan na magbigay ng bilin sa bawat isa.
 
 [^14]: My brothers and sisters, I myself am convinced about you that you also are full of goodness, filled with all knowledge, and able to instruct one another.
 

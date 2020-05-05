@@ -1,18 +1,17 @@
 ---
 title: Ang ABL
 linkTitle: Ang ABL
+type: docs
 menu:
   main:
     weight: 20
 ---
 
-{{% blocks/lead color="dark" %}}
+
 
 # Salin Mula Sa Ingles. Puro, Tapat, at Madaling Mabasa. Ito ang ABL -- Ang Bibliya Ng Lahat.
 
-{{% /blocks/lead %}}
 
-{{< blocks/section color="white" type="section">}}
 
 ## Sinalin Mula Sa Ingles
 
@@ -78,6 +77,3 @@ Ito ang mga pangunahing pamantayan upang makatulong sa ABL:
   * Alam ang buod ng mabuting balita ng Panginoong Hesu-Kristo ayon sa Banal na Kasulatan.
 
 Para makasali, puntahan lang ang _GitHub project page_ ng ABL sa http://github.com/tsdiokno/abl o kaya _i-email_ si Tim sa tsdiokno@gmail.com.
-
-
-{{< /blocks/section >}}
