@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://tsdiokno.github.io/abl/"
 title = "Ang Biblia Ng Lahat"
 publishDir = "docs"
 
