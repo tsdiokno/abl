@@ -1,0 +1,43 @@
+
+
+# UI strings. Buttons and similar.
+
+[ui_pager_prev]
+other = "Nakaraan"
+
+[ui_pager_next]
+other = "Susunod"
+
+[ui_read_more]
+other = "Basahin"
+
+[ui_search]
+other = "Mag-search..."
+
+# Used in sentences such as "Posted in News"
+[ui_in]
+other = "sa"
+
+# Footer text
+[footer_all_rights_reserved]
+other = "Reserbado Ang Lahat Ng Karapatan"
+
+[footer_privacy_policy]
+other = "Privacy Policy"
+
+
+# Post (blog, articles etc.)
+[post_byline_by]
+other = "Ni"
+[post_created]
+other = "Ginawa"
+[post_last_mod]
+other = "Huling binago"
+[post_edit_this]
+other = "I-edit ang pahina na ito"
+[post_create_issue]
+other = "Gumawa ng documentation issue"
+[post_create_project_issue]
+other = "Gumawa ng project issue"
+[post_posts_in]
+other = "Mga post sa"

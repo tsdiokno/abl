@@ -1,325 +1,526 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="tl" class="no-js">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.68.3" />
 
-<head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content=""><meta property="og:title" content="Docs" />
-<meta property="og:description" content="" />
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+<link rel="alternate" type="application/rss&#43;xml" href="http://tsdiokno.github.io/abl/docs/index.xml">
+
+
+<link rel="shortcut icon" href="/favicons/favicon.ico" >
+<link rel="apple-touch-icon" href="/abl/favicons/apple-touch-icon-180x180.png" sizes="180x180">
+<link rel="icon" type="image/png" href="/abl/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="/abl/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/abl/favicons/android-36x36.png" sizes="36x36">
+<link rel="icon" type="image/png" href="/abl/favicons/android-48x48.png" sizes="48x48">
+<link rel="icon" type="image/png" href="/abl/favicons/android-72x72.png" sizes="72x72">
+<link rel="icon" type="image/png" href="/abl/favicons/android-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/abl/favicons/android-144x144.png" sizes="144x144">
+<link rel="icon" type="image/png" href="/abl/favicons/android-192x192.png" sizes="192x192">
+
+<title>Basahin | Ang Biblia Ng Lahat</title><meta property="og:title" content="Basahin" />
+<meta property="og:description" content="Tapat. Naiintindihan. Open Source." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="http://tsdiokno.github.io/abl/docs/" />
+<meta property="og:site_name" content="Ang Biblia Ng Lahat" />
+<meta itemprop="name" content="Basahin">
+<meta itemprop="description" content="Tapat. Naiintindihan. Open Source."><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Basahin"/>
+<meta name="twitter:description" content="Tapat. Naiintindihan. Open Source."/>
 
-<title>Docs | Ang Biblia ng Lahat (ABL)</title>
-<link rel="icon" href="/abl/favicon.png" type="image/x-icon">
-<link rel="stylesheet" href="/abl/book.min.284c8fc21ced13c579d9027a9d14893c56b243c6045001180391cebb4cc36ab8.css" integrity="sha256-KEyPwhztE8V52QJ6nRSJPFayQ8YEUAEYA5HOu0zDarg=">
-<script defer src="/abl/en.search.min.cf6432ef8a790dd54010d510aa598023a44f134b63714f56770eda153cd15cae.js" integrity="sha256-z2Qy74p5DdVAENUQqlmAI6RPE0tjcU9Wdw7aFTzRXK4="></script>
-<link rel="alternate" type="application/rss+xml" href="http://tsdiokno.github.io/abl/docs/index.xml" title="Ang Biblia ng Lahat (ABL)" />
-<!--
-Made with Book Theme
-https://github.com/alex-shpak/hugo-book
--->
 
-  
-</head>
 
-<body>
-  <input type="checkbox" class="hidden" id="menu-control" />
-  <main class="container flex">
-    <aside class="book-menu">
+
+
+<link rel="preload" href="/abl/scss/main.scss" as="style">
+<link href="/abl/scss/main.scss" rel="stylesheet" integrity="">
+
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+<script
+  src="https://unpkg.com/lunr@2.3.8/lunr.min.js"
+  integrity="sha384-vRQ9bDyE0Wnu+lMfm57BlYLO0/XauFuKpVsZPs7KEDwYKktWi5+Kz3MP8++DFlRY"
+  crossorigin="anonymous"></script>
+
+
+  </head>
+  <body class="td-section">
+    <header>
       
-  <nav>
-<h2 class="book-brand">
-  <a href="/abl"><img src="/abl/ABL_Logo_v2.png" alt="Logo" /><span>Ang Biblia ng Lahat (ABL)</span>
-  </a>
-</h2>
+<nav class="js-navbar-scroll navbar navbar-expand navbar-dark flex-column flex-md-row td-navbar">
+        <a class="navbar-brand" href="/abl/">
+		<span class="navbar-logo"></span><span class="text-uppercase font-weight-bold">Ang Biblia Ng Lahat</span>
+	</a>
+	<div class="td-navbar-nav-scroll ml-md-auto" id="main_navbar">
+		<ul class="navbar-nav mt-2 mt-lg-0">
+			
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				<a class="nav-link" href="/abl/about/" ><span>Ang ABL</span></a>
+			</li>
+			
+			<li class="nav-item mr-4 mb-2 mb-lg-0">
+				
+				
+				
+				
+				
+				
+				<a class="nav-link active" href="/abl/docs/" ><span class="active">Basahin</span></a>
+			</li>
+			
+			
+			
+		</ul>
+	</div>
+	<div class="navbar-nav d-none d-lg-block">
 
 
-<div class="book-search">
-  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
-  <div class="book-search-spinner spinner hidden"></div>
-  <ul id="book-search-results"></ul>
+<input
+  type="search"
+  class="form-control td-search-input"
+  placeholder="&#xf002; Mag-search..."
+  aria-label="Mag-search..."
+  autocomplete="off"
+  
+  data-offline-search-index-json-src="/abl/offline-search-index.e53dbdebb4e235910037374b77f87f853675bc5f78414ead4964edaebb1041413b41a4bb4703d02beee8025f90aae665916602797be4c9b7ec31f8f886ab8600.json"
+  data-offline-search-base-href="/"
+>
+
 </div>
-
-
-
-
-
-
-
-
-
-
-
-  
-
-  
-  
-
-
-
-
-
- 
-  
-    
-
-
-
-
-  
-  <ul>
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-1/" class="">Roma 1</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-2/" class="">Roma 2</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-3/" class="">Roma 3</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-4/" class="">Roma 4</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-5/" class="">Roma 5</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-6/" class="">Roma 6</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-7/" class="">Roma 7</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-8/" class="">Roma 8</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-9/" class="">Roma 9</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-10/" class="">Roma 10</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-11/" class="">Roma 11</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-12/" class="">Roma 12</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-13/" class="">Roma 13</a>
-  
-
-</li>
-      
-    
-      
-        <li>
-
-  
-  <a href="/abl/docs/roma-14/" class="">Roma 14</a>
-  
-
-</li>
-      
-    
-  </ul>
-  
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </nav>
 
+    </header>
+    <div class="container-fluid td-outer">
+      <div class="td-main">
+        <div class="row flex-xl-nowrap">
+          <div class="col-12 col-md-3 col-xl-2 td-sidebar d-print-none">
+            
 
 
 
-  <script>(function(){var menu=document.querySelector("aside.book-menu nav");addEventListener("beforeunload",function(event){localStorage.setItem("menu.scrollTop",menu.scrollTop);});menu.scrollTop=localStorage.getItem("menu.scrollTop");})();</script>
+
+<div id="td-sidebar-menu" class="td-sidebar__inner">
+  
+  <form class="td-sidebar__search d-flex align-items-center">
+    
 
 
- 
-    </aside>
+<input
+  type="search"
+  class="form-control td-search-input"
+  placeholder="&#xf002; Mag-search..."
+  aria-label="Mag-search..."
+  autocomplete="off"
+  
+  data-offline-search-index-json-src="/abl/offline-search-index.e53dbdebb4e235910037374b77f87f853675bc5f78414ead4964edaebb1041413b41a4bb4703d02beee8025f90aae665916602797be4c9b7ec31f8f886ab8600.json"
+  data-offline-search-base-href="/"
+>
 
-    <div class="book-page">
-      <header class="book-header">
-        
-  <div class="flex align-center justify-between">
-  <label for="menu-control">
-    <img src="/abl/svg/menu.svg" class="book-icon" alt="Menu" />
-  </label>
 
-  <strong>Docs</strong>
+    <button class="btn btn-link td-sidebar__toggle d-md-none p-0 ml-3 fas fa-bars" type="button" data-toggle="collapse" data-target="#td-section-nav" aria-controls="td-docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    </button>
+  </form>
+  
+  <nav class="collapse td-sidebar-nav pt-2 pl-4" id="td-section-nav">
+    
+    
 
-  <label for="toc-control">
-    <img src="/abl/svg/toc.svg" class="book-icon" alt="Table of Contents" />
-  </label>
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/abl/docs/" class="align-left pl-0 pr-2 active td-sidebar-link td-sidebar-link__section">Basahin</a>
+  </li>
+  <ul>
+    <li class="collapse show" id="abldocs">
+      
+      
+      
+      
+      
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/abl/docs/nt/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Ang Bagong Kasunduan</a>
+  </li>
+  <ul>
+    <li class="collapse show" id="abldocsnt">
+      
+      
+      
+      
+      
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/abl/docs/nt/roma/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Roma</a>
+  </li>
+  <ul>
+    <li class="collapse show" id="abldocsntroma">
+      
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-1" href="/abl/docs/nt/roma/roma-1/">Roma 1</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-2" href="/abl/docs/nt/roma/roma-2/">Roma 2</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-3" href="/abl/docs/nt/roma/roma-3/">Roma 3</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-4" href="/abl/docs/nt/roma/roma-4/">Roma 4</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-5" href="/abl/docs/nt/roma/roma-5/">Roma 5</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-6" href="/abl/docs/nt/roma/roma-6/">Roma 6</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-7" href="/abl/docs/nt/roma/roma-7/">Roma 7</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-8" href="/abl/docs/nt/roma/roma-8/">Roma 8</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-9" href="/abl/docs/nt/roma/roma-9/">Roma 9</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-10" href="/abl/docs/nt/roma/roma-10/">Roma 10</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-11" href="/abl/docs/nt/roma/roma-11/">Roma 11</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-12" href="/abl/docs/nt/roma/roma-12/">Roma 12</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-13" href="/abl/docs/nt/roma/roma-13/">Roma 13</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-14" href="/abl/docs/nt/roma/roma-14/">Roma 14</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-15" href="/abl/docs/nt/roma/roma-15/">Roma 15</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-abldocsntromaroma-16" href="/abl/docs/nt/roma/roma-16/">Roma 16</a>
+      
+      
+    </li>
+  </ul>
+</ul>
+
+      
+      
+    </li>
+  </ul>
+</ul>
+
+      
+      
+      
+      
+
+
+
+
+
+
+<ul class="td-sidebar-nav__section pr-md-3">
+  <li class="td-sidebar-nav__section-title">
+    <a  href="/abl/docs/ot/" class="align-left pl-0 pr-2 td-sidebar-link td-sidebar-link__section">Ang Nakaraang Kasunduan</a>
+  </li>
+  <ul>
+    <li class="collapse show" id="abldocsot">
+      
+      
+      
+    </li>
+  </ul>
+</ul>
+
+      
+      
+    </li>
+  </ul>
+</ul>
+
+  </nav>
 </div>
 
 
-  
-    <input type="checkbox" class="hidden" id="toc-control" />
-    <aside class="hidden clearfix">
-      
-  
 
 
-    </aside>
-  
- 
-      </header>
-
-      
-      
-  <article class="markdown"></article>
- 
-      
-
-      <footer class="book-footer">
-        
-  <div class="flex justify-between">
+          </div>
+          <div class="d-none d-xl-block col-xl-2 td-toc d-print-none">
+            
 
 
 
 
+
+
+<div class="td-page-meta ml-2 pb-1 pt-2 mb-0">
+
+
+
+
+
+<a href="https://github.com/tsdiokno/abl/edit/master/content/tl/docs/_index.md" target="_blank"><i class="fa fa-edit fa-fw"></i> I-edit ang pahina na ito</a>
+<a href="https://github.com/tsdiokno/abl/issues/new?title=Basahin" target="_blank"><i class="fab fa-github fa-fw"></i> Gumawa ng documentation issue</a>
+
+
+<a href="https://github.com/tsdiokno/abl/issues/new" target="_blank"><i class="fas fa-tasks fa-fw"></i> Gumawa ng project issue</a>
 
 </div>
 
- 
-        
-      </footer>
 
-      
+
+
+
+
+
+
+          </div>
+          <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
+            
   
- 
 
-      <label for="menu-control" class="hidden book-menu-overlay"></label>
+            <nav aria-label="breadcrumb" class="d-none d-md-block d-print-none">
+	<ol class="breadcrumb spb-1">
+		
+
+
+
+
+<li class="breadcrumb-item active" aria-current="page">
+	<a href="http://tsdiokno.github.io/abl/docs/">Basahin</a>
+</li>
+
+	</ol>
+</nav	>
+
+            
+<div class="td-content">
+	<h1>Basahin</h1>
+        
+	
+	<p>Basahin ang ABL dito.</p>
+
+        <div class="section-index">
+    
+    
+    
+    
+    <hr class="panel-line">
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+                <div class="entry">
+                    <h5>
+                        <a href="/abl/docs/nt/">Ang Bagong Kasunduan</a>
+                    </h5>
+                    <p>Ang Bagong Kasunduan Sa Panginoong Hesu Kristo</p>
+                </div>
+            
+        
+            
+                <div class="entry">
+                    <h5>
+                        <a href="/abl/docs/ot/">Ang Nakaraang Kasunduan</a>
+                    </h5>
+                    <p>Ang Nakaraang Kasunduan Ng Diyos</p>
+                </div>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    
+</div>
+
+	
+	
+	<div class="text-muted mt-5 pt-3 border-top">Huling binago May 4, 2020: <a  href="https://github.com/tsdiokno/abl/commit/8a64e0df559ec94033fbba8b9b3ac765d961036e">Inilagay ang Roma. (8a64e0d)</a>
+</div>
+</div>
+
+          </main>
+        </div>
+      </div>
+      
+<footer class="bg-white py-5 row d-print-none">
+  <div class="container-fluid mx-sm-5">
+    <div class="row">
+      <div class="col-6 col-sm-4 text-xs-center order-sm-2">
+        
+        
+        
+<ul class="list-inline mb-0">
+  
+  <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="Facebook" aria-label="Facebook">
+    <a target="_blank" href="https://example.org/twitter">
+      <i class="fab fa-facebook"></i>
+    </a>
+  </li>
+  
+</ul>
+
+        
+        
+      </div>
+      <div class="col-6 col-sm-4 text-right text-xs-center order-sm-3">
+        
+        
+        
+<ul class="list-inline mb-0">
+  
+  <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title="GitHub" aria-label="GitHub">
+    <a target="_blank" href="https://github.com/tsdiokno/abl">
+      <i class="fab fa-github"></i>
+    </a>
+  </li>
+  
+</ul>
+
+        
+        
+      </div>
+      <div class="col-12 col-sm-4 text-center py-2 order-sm-2">
+        <small>&copy; 2020 Ang ABL Project Reserbado Ang Lahat Ng Karapatan</small>
+        <small class="ml-1"><a href="https://policies.google.com/privacy" target="_blank">Privacy Policy</a></small>
+	
+      </div>
     </div>
+  </div>
+</footer>
 
+
+    </div>
     
-    <aside class="book-toc">
-      
-  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 
- 
-    </aside>
-    
-  </main>
 
-  
-</body>
 
+
+
+
+
+
+
+<script src="/abl/js/main.min.7afee248b9b3c1d4438c6841cc272ae0ac1f81a3ee5c0ed939f1d57c18de3f7d.js" integrity="sha256-ev7iSLmzwdRDjGhBzCcq4KwfgaPuXA7ZOfHVfBjeP30=" crossorigin="anonymous"></script>
+
+
+
+  </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
