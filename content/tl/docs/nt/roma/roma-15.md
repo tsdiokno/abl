@@ -3,7 +3,7 @@ title: "Roma 15"
 linkTitle: "Roma 15"
 date: 2017-04-05
 weight: 15
-description:
+description: Unang Edisyon
 ---
 
 
@@ -57,7 +57,7 @@ description:
 
 [^10]: Again it says, Rejoice, you Gentiles, with his people!
 
-[^11] At minsan pa ulit,
+[^11] At minsan pa,
   Purihin ang Panginoon, lahat kayong mga Hentil;
   hayaan na ang lahat ng bansa ay magpuri sa kaniya!
 
@@ -65,7 +65,7 @@ description:
   Praise the Lord, all you Gentiles;
   let all the peoples praise him!
 
-[^12] At minsan pa ulit, sabi ni Isaias,
+[^12] At minsan pa, sabi ni Isaias,
   At makikita ang ugat ni Jess,
   ang siyang tumitindig para pamunuan ang mga Hentil;
   ang mga Hentil ay magkakaroon ng pag-asa sa kaniya.
@@ -82,7 +82,7 @@ description:
 ## Mula sa Herusalam Hanggang Sa Iliriko
 [#](# "From Jerusalem to Illyricum")
 
-[^14] Mga kapatid ko, ako ay sigurado patungkol sa inyo na kayo ay puno ng kabutihan, puno ng pawang kaalaman, at may kakayanan na magbigay ng bilin sa bawat isa.
+[^14] Mga kapatid ko, ako ay sigurado na patungkol sa inyo na kayo ay puno ng kabutihan, puno ng pawang kaalaman, at may kakayanan na magbigay ng bilin sa bawat isa.
 
 [^14]: My brothers and sisters, I myself am convinced about you that you also are full of goodness, filled with all knowledge, and able to instruct one another.
 
@@ -102,7 +102,7 @@ description:
 
 [^18]: For I would not dare say anything except what Christ has accomplished through me by word and deed for the obedience of the Gentiles,
 
-[^19] sa pamamagitan ng kapangyarihan mga mapaghimalang pangitain at kamanga-mangang mga bagay, at sa pamamagita ng kapangyarihan ng Espirito ng Diyos. Bilang resulta, ganap kong naihayag ang magandang balita ni Kristo mula sa Herusalem hanggang sa Iliriko.
+[^19] sa pamamagitan ng kapangyarihan ng mga mapaghimalang pangitain at kamanga-mangang mga bagay, at sa pamamagitan ng kapangyarihan ng Espirito ng Diyos. Bilang resulta, ganap kong naihayag ang magandang balita ni Kristo mula sa Herusalem hanggang sa Iliriko.
 
 [^19]: by the power of miraculous signs and wonders, and by the power of God’s Spirit. As a result, I have fully proclaimed the gospel of Christ from Jerusalem all the way around to Illyricum.
 
@@ -121,15 +121,15 @@ description:
 ## Ang Mga Plano Sa Pag-Luwas Ni Pablo
 [#](# "Paul’s Travel Plans")
 
-[^22] Kaya ilang beses na akong napigilan mula sa pag-punta sa'yo.
+[^22] Kaya ilang beses na akong napigilan sa pag punta sa inyo.
 
 [^22]: That is why I have been prevented many times from coming to you.
 
-[^23] Pero nayon, wala na akong mga gagawin dito sa mga lugar na ito, at ilang taon ko na talaga kayong gustong puntahan.
+[^23] Pero ngayon, wala na akong mga gagawin sa mga lugar na ito, at ilang taon ko na talaga kayong gustong puntahan.
 
 [^23]: But now I no longer have any work to do in these regions, and I have strongly desired for many years to come to you
 
-[^24] tuwing lumuluwas ako sa Espanya. Dahil umaasa ako na makita kayo kapag dumaan ako at matulungan ninyo ako sa aking paglalakbay doon, pagkatapos ko muna kayong makasama ng sandali.
+[^24] tuwing lumuluwas ako sa Espanya. Dahil umaasa ako na makikita ko kayo kapag dumaan ako at matutulungan ninyo ako sa aking paglalakbay doon, ngunit pagkatapos ko muna kayong makasama ng sandali.
 
 [^24]: whenever I travel to Spain. For I hope to see you when I pass through and to be assisted by you for my journey there, once I have first enjoyed your company for a while.
 
@@ -137,11 +137,11 @@ description:
 
 [^25]: Right now I am traveling to Jerusalem to serve the saints,
 
-[^26] dahil minabuti ng mga tiga-Masedonya at Akaya na mag-ambag para sa mga kapus-palad sa mga itinangi sa Herusalem.
+[^26] dahil ikinalugod ng mga tiga-Masedonya at Akaya na mag-ambag para sa mga kapus-palad sa mga itinangi sa Herusalem.
 
 [^26]: because Macedonia and Achaia were pleased to make a contribution for the poor among the saints in Jerusalem.
 
-[^27] Oo, sila ay natuwa, at talagang may utang na loob sa kanila. Dahil kung ang mga Hentil ay nakibahagi sa kanilang espiritwal na pakinabag, sila ngayon ay may tungkuling maglingkod sa kanila sa mga materyal na pangangailangan.
+[^27] Oo, sila ay nalugod, at talagang may utang na loob sa kanila. Dahil kung ang mga Hentil ay nakibahagi sa kanilang espiritwal na pakinabag, sila ngayon ay may tungkuling maglingkod sa kanila sa mga materyal na pangangailangan.
 
 [^27]: Yes, they were pleased, and indeed are indebted to them. For if the Gentiles have shared in their spiritual benefits, then they are obligated to minister to them in material needs.
 
@@ -153,7 +153,7 @@ description:
 
 [^29]: I know that when I come to you, I will come in the fullness of the blessing of Christ.
 
-[^30] Ngayon ako ay nananawagan sa inyo, mga kapatid, sa pangalan ng ating Panginoong Hesu Kristo, at sa pamamagitan ng pagmamahal ng Spirito, na samahan niyo ko sa pagsusumikap sa pananalangin sa Diyos para saakin.
+[^30] Ngayon, ako ay nananawagan sa inyo, mga kapatid, sa pangalan ng ating Panginoong Hesu Kristo, at sa pamamagitan ng pagmamahal ng Spirito, na samahan niyo ko sa pagsusumikap sa pananalangin sa Diyos para saakin.
 
 [^30]: Now I appeal to you, brothers and sisters, through our Lord Jesus Christ and through the love of the Spirit, to strive together with me in prayers to God on my behalf.
 
@@ -165,6 +165,6 @@ description:
 
 [^32]: and that, by God’s will, I may come to you with joy and be refreshed together with you.
 
-[^33] Sumainyo ang kapayapaan ng Diyos. Amen.
+[^33] Sumainyo ang Diyos ng kapayapaan. Amen.
 
 [^33]: May the God of peace be with all of you. Amen.

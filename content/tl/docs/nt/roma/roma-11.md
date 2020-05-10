@@ -3,18 +3,18 @@ title: "Roma 11"
 linkTitle: "Roma 11"
 date: 2017-04-05
 weight: 11
-description:
+description: Unang Edisyon
 ---
 
 ## Hindi Buo Ang Pagtalikod Sa Israel
 [#](# "Israel’s Rejection Not Total")
 
-[^1] Ang tanong ko, tinalikuran na ba ng Diyos ang kaniyang mga tao?
-Hinding-hindi! Israelita ako, mula sa angkan ni Abraham, kabilang sa tribo ni Benhamin.
+[^1] Ngayon, and tanong ko, tinalikuran na ba ng Diyos ang kaniyang bansa?
+  Hinding-hindi! Israelita ako, mula sa angkan ni Abraham, kabilang sa tribo ni Benhamin.
 
 [^1]: I ask, then, has God rejected his people? Absolutely not! For I too am an Israelite, a descendant of Abraham, from the tribe of Benjamin.
 
-[^2] Hindi tinalikuran ng Diyos ang mga taong kinilala niya. O baka hindi niyo alam kung ano ang sinasabi ng Kasulatan tungkol sa ginawa ni Elias -- kung paanong nagmakaawa siya sa Diyos laban sa Israel?
+[^2] Hindi tinalikuran ng Diyos ang mga taong kinilala niya. O baka hindi niyo alam kung ano ang sinasabi ng Kasulatan tungkol sa ginawa ni Elias — kung paanong nagmakaawa siya sa Diyos laban sa Israel?
 
 [^2]: God has not rejected his people whom he foreknew. Or don’t you know what the Scripture says in the passage about Elijah—how he pleads with God against Israel?
 
@@ -26,7 +26,7 @@ Hinding-hindi! Israelita ako, mula sa angkan ni Abraham, kabilang sa tribo ni Be
 
 [^4]: But what was God’s answer to him? I have left seven thousand for myself who have not bowed down to Baal.
 
-[^5] Kaya sa parehong paraan, may mga natitirang ding pinili ayon sa kagandahang-loob.
+[^5] Kaya sa parehong paraan, mayroon ding mga natitirang pinili ayon sa kaniyang kagandahang-loob.
 
 [^5]: In the same way, then, there is also at the present time a remnant chosen by grace.
 
@@ -39,9 +39,9 @@ Hinding-hindi! Israelita ako, mula sa angkan ni Abraham, kabilang sa tribo ni Be
 [^7]: What then? Israel did not find what it was looking for, but the elect did find it. The rest were hardened,
 
 [^8] binigyan sila ng Diyos ng sprito ng pagkatuliro,
-matang hindi nakakakita
-tengang hindi nakakarinig,
-hanggang sa ngayon.
+  matang hindi nakakakita
+  tengang hindi nakakarinig,
+  hanggang sa ngayon.
 
 [^8]: as it is written,
   God gave them a spirit of stupor,
@@ -50,15 +50,15 @@ hanggang sa ngayon.
   to this day.
 
 [^9] At sabi ni David,
-Ang kanilang pagsasalu-salo ay magiging patibong,
-isang hukay at isang parusa laban sa kanila.
+  Ang kanilang pagsasalu-salo ay magiging patibong,
+  isang hukay at isang parusa laban sa kanila.
 
 [^9]: And David says,
   Let their table become a snare and a trap,
   a pitfall and a retribution to them.
 
 [^10] Magdidilim ang kanilang paningin para hindi sila makakita,
-at palagi silang mahirapan.
+  at palagi silang mahirapan.
 
 [^10]: Let their eyes be darkened so that they cannot see,
 and their backs be bent continually.
@@ -74,7 +74,7 @@ and their backs be bent continually.
 
 [^12]: Now if their transgression brings riches for the world, and their failure riches for the Gentiles, how much more will their fullness bring!
 
-[^13] Kinakausap ko ang mga Hentil. Dahil ako ang intinalaga para sa mga Hentil, pinapalaki ko ang aking paglilingkod,
+[^13] Kinakausap ko ang mga Hentil. Dahil ako ang intinalaga para sa mga Hentil, ikinararangal ko ang aking paglilingkod,
 
 [^13]: Now I am speaking to you Gentiles. Insofar as I am an apostle to the Gentiles, I magnify my ministry,
 
@@ -86,7 +86,7 @@ and their backs be bent continually.
 
 [^15]: For if their rejection brings reconciliation to the world, what will their acceptance mean but life from the dead?
 
-[^16] Kung ang mga unang bunga ay binukod para sa Diyos, ganun din ang buong bigkis. At kung binukod ang ugat, ganun din ang mga sanga nito.
+[^16] Ngayon, kung ang mga unang bunga ay binukod para sa Diyos, ganun din ang buong bigkis. At kung binukod ang ugat, ganun din ang mga sanga nito.
 
 [^16]: Now if the firstfruits are holy, so is the whole batch. And if the root is holy, so are the branches.
 
@@ -94,15 +94,15 @@ and their backs be bent continually.
 
 [^17]: Now if some of the branches were broken off, and you, though a wild olive branch, were grafted in among them and have come to share in the rich root of the cultivated olive tree,
 
-[^18] 'wag kayong magmamalaki na mas maayos kayo kesa doon sa mga sangang pinutol. Pero tandaan, kung magmamalaki kayo -- hindi kayo ang bumubuhay sa ugat, pero ang ugat ang bumubuhay sa inyo.
+[^18] 'wag kayong magmamalaki na mas maayos kayo kesa doon sa mga sangang pinutol. Pero tandaan ito, kung magmamalaki kayo — hindi kayo ang bumubuhay sa ugat, pero ang ugat ang bumubuhay sa inyo.
 
 [^18]: do not boast that you are better than those branches. But if you do boast—you do not sustain the root, but the root sustains you.
 
-[^19] Tapos sasabihin nyo, "Pinutol yung mga sanga na 'yon para maikabit kami."
+[^19] Tapos sasabihin nyo, "Pinutol yung mga sanga na iyon para maikabit kami."
 
 [^19]: Then you will say, “Branches were broken off so that I might be grafted in.”
 
-[^20] Sa bagay; pinutol sila dahil sa kawalan ng tiwala, pero kayo ay umiiral sa pagtitiwala. 'Wag kayong maging mayabang, mag-ingat kayo,
+[^20] Totoo; pinutol sila dahil sa kawalan ng tiwala, pero kayo ay umiiral sa pagtitiwala. 'Wag kayong maging mayabang, pero maging maingat kayo,
 
 [^20]: True enough; they were broken off because of unbelief, but you stand by faith. Do not be arrogant, but beware,
 
@@ -110,7 +110,7 @@ and their backs be bent continually.
 
 [^21]: because if God did not spare the natural branches, he will not spare you either.
 
-[^22] Kaya isaisip niyo ang kabutihan at ang hagupit ng Diyos: kalupitan sa mga tuluyang nahulog pero kabutihan sa inyo -- kung kayo ay mananatili sa kaniyang kabutihan. Kung hindi, puputulin din kayo.
+[^22] Kaya isaisip niyo ang kabutihan at ang kasukdulan ng Diyos: kalupitan sa mga tuluyang nahulog pero kabutihan sa inyo — kung kayo ay mananatili sa kaniyang kabutihan. Kung hindi, mapuputol din kayo.
 
 [^22]: Therefore, consider God’s kindness and severity: severity toward those who have fallen but God’s kindness toward you—if you remain in his kindness. Otherwise you too will be cut off.
 
@@ -122,25 +122,25 @@ and their backs be bent continually.
 
 [^24]: For if you were cut off from your native wild olive tree and against nature were grafted into a cultivated olive tree, how much more will these—the natural branches—be grafted into their own olive tree?
 
-[^25] Ayokong maging mga mangmang kayo sa misteryong ito, mga kapatid, para hindi tumaas ang tingin niyo sa inyong mga sarili: may bahagyang pinatigas ang puso ng Israel hanggang ang kabuuan ng mga Hentil ay dumating.
+[^25] Ayokong maging mga mangmang kayo sa palaisipan na ito, mga kapatid, para hindi tumaas ang tingin niyo sa inyong mga sarili: may bahagyang pagpapatgas ng puso na nangyayari sa Israel hanggang ang kabuuan ng mga Hentil ay dumating.
 
 [^25]: I don’t want you to be ignorant of this mystery, brothers and sisters, so that you will not be conceited: A partial hardening has come upon Israel until the fullness of the Gentiles has come in.
 
 [^26] Sa paraan na 'to, ang kabuuan ng Israel ay maliligtas, gaya ng nakasulat,
-Ang Tigapagligtas ay magmumula sa Zion;
-papaalisin niya ang pagkawalang-diyos ni Hakob.
+  Ang Tigapagligtas ay magmumula sa Zion;
+  papaalisin niya ang pagkawalang-diyos ni Hakob.
 
 [^26]: And in this way all Israel will be saved, as it is written,
   The Deliverer will come from Zion;
   he will turn godlessness away from Jacob.
 
-[^27] At ito ang magiging kasunduan ko sa kanilan
+[^27] At ito ang magiging kasunduan ko sa kanila
 kapag tinanggal ko ang kanilang mga kasalanan.
 
 [^27]: And this will be my covenant with them
 when I take away their sins.
 
-[^28] Kung papag-usapan ang magandang balita, mga kalaban niyo sila para sa inyong ikabubuti, pero kung papag-usapan ang pagkilala, minahal sila dahil sa ating mga ama,
+[^28] Tungkol sa magandang balita, mga kalaban niyo sila para sa inyong ikabubuti, pero kung tungkol sa pagkilala, minahal sila dahil sa ating mga ama,
 
 [^28]: Regarding the gospel, they are enemies for your advantage, but regarding election, they are loved because of the patriarchs,
 
@@ -164,9 +164,9 @@ when I take away their sins.
 [#](# "A Hymn of Praise")
 
 [^33] O, talagang napakayaman
-ng karunungan at kaalaman ng Diyos!
-Ang kaniyang mga hatol ay hindi kayang hulaan
-ang kaniyang pamamaraan ay hindi masundan!
+  ng karunungan at kaalaman ng Diyos!
+  Ang kaniyang mga paghahatol ay hindi kayang hulaan
+  ang kaniyang pamamaraan ay hindi masundan!
 
 [^33]: Oh, the depth of the riches
   both of the wisdom and of the knowledge of God!
@@ -174,20 +174,20 @@ ang kaniyang pamamaraan ay hindi masundan!
   and untraceable his ways!
 
 [^34] Dahil sino ang nakaalam sa iniisip ng Panginoon?
-O sinong nagbibigay-payo sa kaniya?
+  O sinong nagbibigay-payo sa kaniya?
 
 [^34]: For who has known the mind of the Lord?
   Or who has been his counselor?
 
 [^35] At sinong nakapag-bigay sa Diyos,
-na karapat-dapat siyang suklian?
+  na karapat-dapat siyang suklian?
 
 [^35]: And who has ever given to God,
   that he should be repaid?
 
 [^36] Galing sa kaniya at sa pamamagitan niya
-at para sa kaniya ang lahat ng bagay.
-Sa kaniya ang parangal magpakailanman. Amen
+  at para sa kaniya ang lahat ng bagay.
+  Sumakaniya ang parangal magpakailanman. Amen
 
 [^36]: For from him and through him
   and to him are all things.

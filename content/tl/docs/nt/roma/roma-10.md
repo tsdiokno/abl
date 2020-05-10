@@ -3,21 +3,21 @@ title: "Roma 10"
 linkTitle: "Roma 10"
 date: 2017-04-05
 weight: 10
-description:
+description: Unang Edisyon
 ---
 
-## Katuwirang Nangggagaling Lamang Sa Pagtitiwala
+## Katuwirang Nanggagaling Lang Sa Pagtitiwala
 [#](# "Righteousness by Faith Alone")
 
-[^1] Mga kapatid, gusto at pinapanalangin sila ng akong puso para maligtas sila.
+[^1] Mga kapatid, ang nais at pinapanalangin ng aking puso ay maligtas sila.
 
 [^1]: Brothers and sisters, my heart’s desire and prayer to God concerning them is for their salvation.
 
-[^2] Saksi ako sa pagiging masigasig nila para sa Diyos, pero hindi sa tamang paraan.
+[^2] Saksi ako sa pagiging masigasig nila para sa Diyos, pero hindi ito buhat sa kaalaman.
 
 [^2]: I can testify about them that they have zeal for God, but not according to knowledge.
 
-[^3] Dahil wala silang alam sa katuwiran ng Diyos at sinubukan nilang magkaroon ng sariling katuwiran, hindi sila nagpasailalim sa katuwiran ng Diyos.
+[^3] Dahil wala silang alam sa pagkamatuwid ng Diyos at sinubukan nilang magkaroon ng sariling pagkamatuwid, hindi sila nagpasailalim sa pagkamatuwid ng Diyos.
 
 [^3]: Since they are ignorant of the righteousness of God and attempted to establish their own righteousness, they have not submitted to God’s righteousness.
 
@@ -25,11 +25,11 @@ description:
 
 [^4]: For Christ is the end of the law for righteousness to everyone who believes,
 
-[^5] dahil nagsulat si Moises tungkol sa katuwiran na nanggagaling sa Kautusan: Ang mga sumusunod dito ay mamumuhay din ayon dito.
+[^5] dahil nagsulat si Moises tungkol sa pagkamatuwid na nanggagaling sa Kautusan: Ang mga sumusunod dito ay mamumuhay din ayon dito.
 
 [^5]: since Moses writes about the righteousness that is from the law: The one who does these things will live by them.
 
-[^6] Pero ganito naman ang sinasabi ng katuwiran na nanggagaling sa pagtitiwala: 'Wag mong iisipin, "Sino ang aakyat sa langit?", para akayin pababa si Kristo
+[^6] Pero ganito naman ang sinasabi ng pagkamatuwid na nanggagaling sa pagtitiwala: 'Wag mong iisipin, "Sino ang aakyat sa langit?", para akayin pababa si Kristo
 
 [^6]: But the righteousness that comes from faith speaks like this: Do not say in your heart, “Who will go up to heaven?” that is, to bring Christ down
 
@@ -37,7 +37,7 @@ description:
 
 [^7]: or, “Who will go down into the abyss?” that is, to bring Christ up from the dead.
 
-[^8] Ano ba talaga ang sinasabi nito? Malapit ito sa inyong mga puso't bibig. Ito ang pahayag na galing sa ating pananalig:
+[^8] Ano ba sa katunayan ang sinasabi nito? Malapit ito sa inyong mga puso't bibig. Ito ang pahayag ng pagtitiwalang ating hinahayag:
 
 [^8]: On the contrary, what does it say? The message is near you, in your mouth and in your heart. This is the message of faith that we proclaim:
 
@@ -45,7 +45,7 @@ description:
 
 [^9]: If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.
 
-[^10] Ang isa, kapag nagtiwala sa puso ay nagbubunga ng katuwiran, at ang isa kapag naghayag mula sa bibig ay nagbubunga ng kaligtasan.
+[^10] Ang isa, kapag nagtiwala sa puso ay nagbubunga ng pagkamatuwid, at ang isa kapag naghayag mula sa bibig ay nagbubunga ng kaligtasan.
 
 [^10]: One believes with the heart, resulting in righteousness, and one confesses with the mouth, resulting in salvation.
 
@@ -57,18 +57,18 @@ description:
 
 [^12]: since there is no distinction between Jew and Greek, because the same Lord of all richly blesses all who call on him.
 
-[^13] Dahil lahat ng tumatawag sa pangalan ng Panginoon ay maliligtas.
+[^13] Dahil ang lahat ng tumatawag sa pangalan ng Panginoon ay maliligtas.
 
 [^13]: For everyone who calls on the name of the Lord will be saved.
 
 ## Ang Pagtanggi ng Israel Sa Pahayag
 [#](# "Israel’s Rejection of the Message")
 
-[^14] Pano sila mananawagan sa hindi naman nila napaniwalaan? At pano sila magtitiwala sa hindi pa nila naririnig? At pano nila maririnig kung walang maghahayag?
+[^14] Pano sila mananawagan sa hindi naman nila napaniwalaan? At pano sila magtitiwala sa hindi pa nila naririnig? At pano nila ito maririnig kung walang maghahayag?
 
 [^14]: How, then, can they call on him they have not believed in? And how can they believe without hearing about him? And how can they hear without a preacher?
 
-[^15] At paano sila makapagpahayag kung hindi sila pinapadala upang magpahayag? Nasusulat: Kaaya-aya ang mga yapak ng mga nagdadala ng mabuting balita.
+[^15] At paano sila makapagpahayag kung hindi sila pinapadala upang magpahayag? Nasusulat: Gaano na lang kaganda ang mga yapak ng mga nagdadala ng mabuting balita.
 
 [^15]: And how can they preach unless they are sent? As it is written: How beautiful are the feet of those who bring good news.
 
@@ -81,20 +81,18 @@ description:
 [^17]: So faith comes from what is heard, and what is heard comes through the message about Christ.
 
 [^18] Pero tanong ko, "Hindi ba nila narinig?" Oo, narinig nila:
-
-Ang kanilang boses ay narinig sa buong mundo.
-at ang kanilang salita sa mga kadulu-duluhan nito.
+  Ang kanilang boses ay narinig sa buong mundo.
+  at ang kanilang salita sa mga kadulu-duluhan nito.
 
 [^18]: But I ask, “Did they not hear?” Yes, they did:
   Their voice has gone out to the whole earth,
   and their words to the ends of the world.
 
 Pero tanong ko, "Hindi ba nakaintindi ang Israel?" Una, sabi ni Moises,
-
-Iinggitin kita
-sa mga taong walang sariling bansa
-Gagalitin kita gamit ang isang bansang
-hindi nakakaintindi.
+  Iinggitin kita
+  sa gitna ng mga taong walang sariling bansa
+  Gagalitin kita gamit ang isang bansang
+  kapos sa kaintindihan.
 
 [^19]: But I ask, “Did Israel not understand?” First, Moses said,
   I will make you jealous
@@ -103,11 +101,10 @@ hindi nakakaintindi.
   that lacks understanding.
 
 [^20] At buong puso na hinayag ni Isaias,
-
-Natagpuan ako
-ng mga taong hindi naghahanap saakin;
-Pinakita ko ang sarili ko
-sa mga taong hindi ako hinahangad.
+  Natagpuan ako
+  ng mga taong hindi naghahanap saakin;
+  Pinakita ko ang sarili ko
+  sa mga taong hindi ako hinahangad.
 
 [^20]: And Isaiah says boldly,
   I was found

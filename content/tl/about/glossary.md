@@ -103,7 +103,7 @@ Narito ang kabuuan ng talasalinan ng ABL na nagsisilbing gabay sa buong gawain n
     </tr>
     <tr>
       <td>righteousness</td>
-      <td>pagiging matuwid</td>
+      <td>pagiging matuwid; pagkamatuwid</td>
       <td>Para mas maging malinaw dahil ang <i>katuwiran</i> ay maaring mag-iba ang diwa depende kung saan ginagamit <i>("wag ka nang mangatuwiran")</i>.</td>
     </tr>
   </tbody>

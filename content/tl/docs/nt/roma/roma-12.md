@@ -6,7 +6,6 @@ weight: 12
 description:
 ---
 
-
 ## Isang Buhay Na Alay
 [#](# "A Living Sacrifice")
 
