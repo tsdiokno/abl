@@ -3,14 +3,14 @@ title: "Roma 3"
 linkTitle: "Roma 3"
 date: 2017-04-05
 weight: 3
-description:
+description: Unang Edisyon
 ---
 
 
 ## Sinagot ni Pablo ang Isang Pagtutol
 [#](# "Paul Answers an Objection")
 
-[^1] Ano ang lamang ng isang Hudyo? O ano ang pakinabang ng pagkatuli?
+[^1] Kaya ano ang ikinalamang ng isang Hudyo? O ano ang pakinabang ng pagkatuli?
 
 [^1]: So what advantage does the Jew have? Or what is the benefit of circumcision?
 
@@ -22,20 +22,20 @@ description:
 
 [^3]: What then? If some were unfaithful, will their unfaithfulness nullify God’s faithfulness?
 
-[^4] Siguradong hindi! Sa gitna ng kasinungaligan ng lahat, tapat ang Diyos, gaya ng nasusulat:
+[^4] Hinding-hindi! Sa gitna ng kasinungaligan ng lahat, tapat ang Diyos, gaya ng nasusulat:
 
-Nang ikaw ay pinawalang-sala ng iyong mga salita
+Nang ikaw ay pinawalang-sala sa iyong mga salita
 at magtagumpay sa iyong paghatol.
 
 [^4]: Absolutely not! Let God be true, even though everyone is a liar, as it is written:
     That you may be justified in your words
     and triumph when you judge.
 
-[^5]Pero kung ang ating kabaluktutan ay ipinapakita ang kautwiran ng Diyos, ano ang sasabihin natin? Gumagamit ako ng pangangatuwirang-pantao: Hindi ba't baluktot ang Diyos sa pagpataw ng kaniyang galit?
+[^5]Pero kung ang ating kabaluktutan ay ipinapakita ang kautwiran ng Diyos, ano ang sasabihin natin? Gumagamit ako ng pangangatuwirang-pantao: Hindi ba't baluktot ang Diyos sa pagpataw ng kaniyang parusa?
 
 [^5]: But if our unrighteousness highlights God’s righteousness, what are we to say? I am using a human argument: Is God unrighteous to inflict wrath?
 
-[^6] Siguradong hindi! Kung ganun, pano mahahatulan ng Diyos ang mundo?
+[^6] Hinding-hindi! Kung ganun, pano mahahatulan ng Diyos ang mundo?
 
 [^6]: Absolutely not! Otherwise, how will God judge the world?
 
@@ -43,43 +43,42 @@ at magtagumpay sa iyong paghatol.
 
 [^7]: But if by my lie God’s truth abounds to his glory, why am I also still being judged as a sinner?
 
-[^8] At bakit hindi na lang natin sabihin, tulad ng ibinibintang ng ibang tao ng ipinangangaral daw namin, "Gumawa tayo ng masasamang bagay para magbunga ito ng kabutihan"? Hatol sa kanila ang dapat.
+[^8] At bakit hindi na lang natin sabihin, tulad ng ibinibintang ng ibang tao ng ipinangangaral daw namin, "Gumawa tayo ng masasamang bagay para magbunga ito ng kabutihan"? Karapat-dapat silang gawaran ng paghatol!
 
 [^8]: And why not say, just as some people slanderously claim we say, “Let us do what is evil so that good may come”? Their condemnation is deserved!
 
 ## Ang Buong Mundo ay Hinatulan sa Harap ng Diyos
 [#](# "The Whole World Guilty before God")
 
-[^9] Paano na? Mas mabuti ba tayo? Siguradong hindi! Dahil iginiit na namin na ang lahat mga Hudyo at Hentil ay parehong nakapailalim sa kasalanan,
+[^9] Paano na? Mas mabuti ba tayo? Hinding-hindi! Dahil iginiit na namin na ang lahat mga Hudyo at Hentil ay parehong nakapailalim sa kasalanan,
 
 [^9]: What then? Are we any better off? Not at all! For we have already charged that both Jews and Gentiles are all under sin,
 
-nasusulat:
-
-[^10] Walang sinuman ang matuwid, wala kahit isa.
+[^10] nasusulat:
+  Walang sinuman ang matuwid, wala kahit isa.
 
 [^10]: as it is written:
   There is no one righteous, not even one.
 
 [^11] Walang sinuman ang nakakaintindi;
-walang sinuman ang nagnanais sa Diyos.
+  walang sinuman ang nagnanais sa Diyos.
 
 [^11]: There is no one who understands;
-there is no one who seeks God.
+  there is no one who seeks God.
 
 [^12] Lahat ay tumalikod;
-lahat ay pare-parehong nawalan ng saysay.
-Walang sinuman ang gumagawa ng mabuti,
-wala kahit na isa.
+  lahat ay pare-parehong nawalan ng saysay.
+  Walang sinuman ang gumagawa ng mabuti,
+  wala kahit na isa.
 
 [^12]: All have turned away;
-all alike have become worthless.
-There is no one who does what is good,
-not even one.
+  all alike have become worthless.
+  There is no one who does what is good,
+  not even one.
 
-[^13] Ang kanilang mga lalamunan ay mga bukas na libingan;
-mapanlilang ang kanilang mga dila.
-May kamandag ng mga ahas ang likod ng kanilang mga labi.
+[^13] Ang kanilang mga lalamunan ay isang bukas na nitso;
+  mapanlilang ang kanilang mga dila.
+  May kamandag ng mga ahas sa likod ng kanilang mga labi.
 
 [^13]: Their throat is an open grave;
 they deceive with their tongues.
@@ -97,11 +96,11 @@ Vipers’ venom is under their lips.
 
 [^16]: ruin and wretchedness are in their paths,
 
-[^17] at ang daan ng kapayapaan ay hindi nila naranasan.
+[^17] at ang daan ng kapayapaan ay hindi nila nakilala.
 
 [^17]: and the path of peace they have not known.
 
-[^18] Wala sa kanilang mga mga ang takot sa Diyos.
+[^18] Wala sa kanilang mga mata ang takot sa Diyos.
 
 [^18]: There is no fear of God before their eyes.
 
@@ -116,11 +115,11 @@ Vipers’ venom is under their lips.
 ## Ang Katuwiran ng Diyos sa Pamamagitan ng Pagtitiwala
 [#](# "The Righteousness of God through Faith")
 
-[^21] Pero ngayon, bukod sa Kautusan, ang katuwiran ng Diyos ay nakikita, saksi dito ng Kautusan at ng mga Propeta.
+[^21] Pero ngayon, bukod sa Kautusan, ang katuwiran ng Diyos ay nakikita, sinaksihan ng Kautusan at ng mga Propeta.
 
 [^21]: But now, apart from the law, the righteousness of God has been revealed, attested by the Law and the Prophets.
 
-[^22] Nakikita ang katuwiran ng Diyos sa pamamagitan ng pagtitiwala kay Kristo Hesus para sa lahat ng mananalig, dahil pareho ang lahat.
+[^22] Nakikita ang pagiging matuwid ng Diyos sa pamamagitan ng pagtitiwala kay Kristo Hesus para sa lahat ng magitiwala, dahil walang pagkakaiba.
 
 [^22]: The righteousness of God is through faith in Jesus Christ to all who believe, since there is no distinction.
 
@@ -132,11 +131,11 @@ Vipers’ venom is under their lips.
 
 [^24]: They are justified freely by his grace through the redemption that is in Christ Jesus.
 
-[^25] Ihinandog siya ng Diyos bilang kabayaran para sa mga kasalanan sa pagdanak ng kaniyang dugo, na tinatanggap sa pamamagitan ng pagtitiwala, para maipakita ang kaniyang katuwiran, dahil nagpigil ang Diyos at nilagpasan niya ang mga kalasalang nakaraan.
+[^25] Ihinandog siya ng Diyos bilang kabayaran para sa mga kasalanan sa pagdanak ng kaniyang dugo, na tinatanggap sa pamamagitan ng pagtitiwala, para maipakita ang kaniyang pagiging matuwid, dahil nagpigil ang Diyos at nilagpasan niya ang mga kalasalang nakaraan.
 
 [^25]: God presented him as an atoning sacrifice in his blood, received through faith, to demonstrate his righteousness, because in his restraint God passed over the sins previously committed.
 
-[^26] Ihinandog siya ng Diyos upang ipakita ang kaniyang katuwiran sa mga araw na ito, para siya ay maging matuwid at at igawad ang katuwiran sa mananalig kay Hesus.
+[^26] Ihinandog siya ng Diyos upang ipakita ang kaniyang pagiging matuwid sa mga araw na ito, para siya ay maging matuwid at at igawad ang pagiging matuwid sa magtitiwala kay Hesus.
 
 [^26]: God presented him to demonstrate his righteousness at the present time, so that he would be righteous and declare righteous the one who has faith in Jesus.
 
@@ -155,10 +154,10 @@ Vipers’ venom is under their lips.
 
 [^29]: Or is God the God of Jews only? Is he not the God of Gentiles too? Yes, of Gentiles too,
 
-[^30] dahil iisa ang Diyos na nagpapawalang-sala sa mga naniniwalang tuli at sa mga naniniwalang hindi tuli.
+[^30] dahil iisa ang Diyos na nagpapawalang-sala sa mga naniniwalang tinuli at sa mga naniniwalang hindi tuli.
 
 [^30]: since there is one God who will justify the circumcised by faith and the uncircumcised through faith.
 
-[^31] Ipapawalang-bisa na ba natin ngayon ang Kautusan dahil sa ating paniniwala? Siyempre hindi! Sa katunayan, pagtitibayin natin ito.
+[^31] Ipapawalang-bisa na ba natin ngayon ang Kautusan dahil sa ating paniniwala? Hinding-hindi! Sa katunayan, pagtitibayin natin ito.
 
 [^31]: Do we then nullify the law through faith? Absolutely not! On the contrary, we uphold the law.

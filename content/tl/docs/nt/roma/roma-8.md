@@ -3,7 +3,7 @@ title: "Roma 8"
 linkTitle: "Roma 8"
 date: 2017-04-05
 weight: 8
-description:
+description: Unang Edisyon
 ---
 
 ## Ang Spiritong Nagbibigay-Buhay
@@ -17,23 +17,23 @@ description:
 
 [^2]: because the law of the Spirit of life in Christ Jesus has set you free from the law of sin and death.
 
-[^3] Ginawa ng Diyos ang hindi magawa ng Kautusan dahil pinahina 'to ng laman. Hinatulan niya ang kasalanan sa laman nang ipinadala niya ang kaniyang sariling Anak sa itsura ng makasalanang laman bilang alay para sa kasalanan.
+[^3] Ginawa ng Diyos ang hindi magawa ng Kautusan dahil pinahina ito ng laman. Hinatulan niya ang kasalanan sa laman nang ipinadala niya ang kaniyang sariling Anak sa itsura ng makasalanang laman bilang alay para sa kasalanan.
 
 [^3]: What the law could not do since it was weakened by the flesh, God did. He condemned sin in the flesh by sending his own Son in the likeness of sinful flesh as a sin offering,
 
-[^4] para ang hinihingi ng Kautusan ay maibigay sa atin na hindi na namumuhay ayon sa laman pero ayon sa Spirito.
+[^4] para ang pangangailangan ng Kautusan ay maibigay sa atin na hindi na hindi namumuhay ayon sa laman pero ayon sa Spirito.
 
 [^4]: in order that the law’s requirement would be fulfilled in us who do not walk according to the flesh but according to the Spirit.
 
-[^5] Dahil ang mga namumuhay sa laman ay iniisip ang mga bagay na may kinalaman sa laman, pero ang mga namumuhay sa Spirito ay namumuhay iniisip ang mga bagay na may kinalaman sa Spirito.
+[^5] Dahil ang mga namumuhay sa laman ay isinasaisip ang mga bagay na may kinalaman sa laman, pero ang mga namumuhay sa Spirito ay isinasaisip ang mga bagay na may kinalaman sa Spirito.
 
 [^5]: For those who live according to the flesh have their minds set on the things of the flesh, but those who live according to the Spirit have their minds set on the things of the Spirit.
 
-Ang pag-iisip ng laman ay kamatayan, pero ang pag-iisip ng Spirito ay buhay at kapayapaan.
+Ang pagiisip ng laman ay kamatayan, pero ang pagiisip ng Spirito ay buhay at kapayapaan.
 
 [^6]: Now the mind-set of the flesh is death, but the mind-set of the Spirit is life and peace.
 
-[^7] Ang pag-iisip ng laman ay kontra sa Diyos dahil hindi ito sumusunod sa Kautusan ng Diyos. Hindi talaga nito kayang gawin yun.
+[^7] Ang pagiisip ng laman ay mapanlaban sa Diyos dahil hindi ito sumusunod sa Kautusan ng Diyos. Hindi talaga nito kayang gawin iyon.
 
 [^7]: The mind-set of the flesh is hostile to God because it does not submit to God’s law. Indeed, it is unable to do so.
 
@@ -41,15 +41,15 @@ Ang pag-iisip ng laman ay kamatayan, pero ang pag-iisip ng Spirito ay buhay at k
 
 [^8]: Those who are in the flesh cannot please God.
 
-[^9] Pero kayo ay wala sa laman pero na sa Spirito, kung na sa inyo nga ang Spirito ng Diyos. Kung meron sa inyong walang Spirito ng Diyos, hindi siya kasapi ng Diyos.
+[^9] Pero kayo ay wala na sa laman pero na sa Spirito, kung na sa inyo nga ang Spirito ng Diyos. Kung meron sa inyong walang Spirito ng Diyos, hindi siya kasapi ng Diyos.
 
 [^9]: You, however, are not in the flesh, but in the Spirit, if indeed the Spirit of God lives in you. If anyone does not have the Spirit of Christ, he does not belong to him.
 
-[^10] Kung na sa inyo si Kristo, patay na ang katawan niyo dahil sa kasalanan, pero ang Spirito ay nagbibigay ng buhay dahil sa katuwiran.
+[^10] Kung na sa inyo si Kristo, patay na ang katawan niyo dahil sa kasalanan, pero ang Spirito ay nagbibigay ng buhay dahil sa pagiging matuwid.
 
 [^10]: Now if Christ is in you, the body is dead because of sin, but the Spirit gives life because of righteousness.
 
-[^11] At kung ang Spirito ng bumuhay kay Hesus galing sa patay ay na sa inyo, ang bumuhay kay Kristo mula sa patay ay bubuhayin din ang inyong mga mortal na katawan sa pamamagitan ng kaniyang Spirito na na sa inyo.
+[^11] At kung ang Spirito na bumuhay kay Hesus galing sa patay ay nananahan sa inyo, ang bumuhay kay Kristo mula sa patay ay bubuhayin din ang inyong mga katawang namamatay sa pamamagitan ng kaniyang Spirito na nananahan inyo.
 
 [^11]: And if the Spirit of him who raised Jesus from the dead lives in you, then he who raised Christ from the dead will also bring your mortal bodies to life through his Spirit who lives in you.
 
@@ -68,7 +68,7 @@ Ang pag-iisip ng laman ay kamatayan, pero ang pag-iisip ng Spirito ay buhay at k
 
 [^14]: For all those led by God’s Spirit are God’s sons.
 
-[^15] Dahil hindi naman kayo binigyan ng spirito ng pagkaalipin para matakot ulit kayo. Pero binigyan kayo ng Spiritong nag-aampon, kaya tayo nakakasigaw ng "Abba, Ama!" sa tuwing umiiyak tayo.
+[^15] Dahil hindi naman kayo binigyan ng spirito ng pagkaalipin para matakot ulit kayo. Pero binigyan kayo ng Spiritong mapagkupkop, kaya tayo nakakasigaw ng "Abba, Ama!" sa tuwing umiiyak tayo.
 
 [^15]: For you did not receive a spirit of slavery to fall back into fear. Instead, you received the Spirit of adoption, by whom we cry out, “Abba, Father!”
 
@@ -76,26 +76,26 @@ Ang pag-iisip ng laman ay kamatayan, pero ang pag-iisip ng Spirito ay buhay at k
 
 [^16]: The Spirit himself testifies together with our spirit that we are God’s children,
 
-[^17] at kung tayo'y mga anak, mga tigapagmana ng Diyos at kapwa-tigapagmana ni Kristo -- kung tayo ay mag-iinda kasama niya para tayo ay mabigyang-parangal kasama siya.
+[^17] at kung tayo'y mga anak, mga tigapagmana ng Diyos at kapwa-tigapagmana ni Kristo — kung tayo ay magtitiis kasama niya para tayo ay mabigyang-parangal kasama siya.
 
 [^17]: and if children, also heirs—heirs of God and coheirs with Christ—if indeed we suffer with him so that we may also be glorified with him.
 
 ## Mula Sa Pag-Daing Patungong Parangal
 [#](# "From Groans to Glory")
 
-[^18] Dahil tinuturing ko na hindi maikukumpara sa mga paghihirap ngayon ang karangalan na ipapakita saatin.
+[^18] Dahil tinuturing ko na hindi papareho sa mga paghihirap ngayon ang karangalan na ipapakita saatin.
 
 [^18]: For I consider that the sufferings of this present time are not worth comparing with the glory that is going to be revealed to us.
 
-[^19] Dahil sabik ang lahat ng nilikha at nag-aabang hanggang sa maipakilala ang mga anak ng Diyos.
+[^19] Dahil nanabik ang buong nilikha at ito'y nag-aabang hanggang sa maipakilala ang mga anak ng Diyos.
 
 [^19]: For the creation eagerly waits with anticipation for God’s sons to be revealed.
 
-[^20] Dahil ang buong nilikha ay napasailalim sa kawalang-kabuluhan -- hindi dahil sa sarili nitong kagustuhan, pero dahil sa kaniya na nagsailalim nito -- nang may pag-asa
+[^20] Dahil ang buong nilikha ay napasailalim sa kawalang-kabuluhan — hindi dahil sa sarili nitong kagustuhan, pero dahil sa kaniya na nagpasailalim nito — nang may pag-asa
 
 [^20]: For the creation was subjected to futility—not willingly, but because of him who subjected it—in the hope
 
-[^21] na ang mismong mga nilikha ay mapapalaya din mula sa pagkagapos papunta sa marangal na kalayaan ng mga anak ng Diyos.
+[^21] na ang mismong buong nilikha ay mapapalaya din mula sa pagkagapos papunta sa marangal na kalayaan ng mga anak ng Diyos.
 
 [^21]: that the creation itself will also be set free from the bondage to decay into the glorious freedom of God’s children.
 
@@ -103,31 +103,31 @@ Ang pag-iisip ng laman ay kamatayan, pero ang pag-iisip ng Spirito ay buhay at k
 
 [^22]: For we know that the whole creation has been groaning together with labor pains until now.
 
-[^23] Hindi lang yun, pero tayo mismo na may Spirito bilang mga panganay -- tayo ay dumadaing din, sabik na naghihintay na ma-ampon, na maligtas ang mga katawan natin.
+[^23] Hindi lang yun, pero tayo mismo na may Spirito bilang mga panganay — tayo ay dumadaing din, sabik na naghihintay na makupkop, na maligtas ang mga katawan natin.
 
-[^23]: Not only that, but we ourselves who have the Spirit as the firstfruits—we also groan within ourselves, eagerly waiting for adoption, the redemption of our bodies.
+[^23]: Not only that, but we ourselves who have the Spirit as the firstfruits — we also groan within ourselves, eagerly waiting for adoption, the redemption of our bodies.
 
-[^24] Naliligtas tayo sa pag-asang ito, pero ang pag-asang nakikita ay hindi pag-asa, dahil paano mo aasahan ang nandiyan na?
+[^24] Naliligtas tayo sa pag-asang ito, pero ang inaasahang nakikita na ay hindi pag-asa, dahil paano mo aasahan ang nandiyan na?
 
 [^24]: Now in this hope we were saved, but hope that is seen is not hope, because who hopes for what he sees?
 
-[^25] Kung tayo ay umaasa sa hindi pa natin nakikita, sabik tayong mag-hihintay.
+[^25] Kung tayo ay umaasa sa hindi pa natin nakikita, nananabik tayo nang may paghihintay.
 
 [^25]: Now if we hope for what we do not see, we eagerly wait for it with patience.
 
-[^26] Gandun din naman sa pag-tulong saatin ng Spirito kapag mahina tayo, dahil hindi natin alam kung ano pa dapat ang ipanalangin, pero idinadaing tayo ng Spirto ng hindi natin nakikita.
+[^26] Sa parehong paraan din ang pag-tulong saatin ng Spirito kapag mahina tayo, dahil hindi natin alam kung ano pa dapat ipanalangin, pero dumadaing ang Spirto para saatin ng hindi natin nakikita.
 
 [^26]: In the same way the Spirit also helps us in our weakness, because we do not know what to pray for as we should, but the Spirit himself intercedes for us with unspoken groanings.
 
-[^27] At ang ang na sating puso ay alam ang na sa isip ng Spirito, dahil nananalangin siya para sa mga nagtitiwala ayon sa kalooban ng Diyos.
+[^27] At ang nananahan sa ating puso ay alam ang na sa isip ng Spirito, dahil nananalangin siya para sa mga nagtitiwala ayon sa kalooban ng Diyos.
 
 [^27]: And he who searches our hearts knows the mind of the Spirit, because he intercedes for the saints according to the will of God.
 
-[^28] Alam natin na ang lahat ng mga bagay ay kumikilos para sa kabutihan ng mga mahal ang Diyos, mga tinawag ayon sa kaniyang plano.
+[^28] Alam natin na ang lahat ng mga bagay ay gumagalaw para sa kabutihan ng mga mahal ang Diyos, mga tinawag ayon sa kaniyang plano.
 
 [^28]: We know that all things work together for the good of those who love God, who are called according to his purpose.
 
-[^29] Dahil tinalaga ng Diyos na maging tulad ng kaniyang Anak ang mga kinilala niya noong una pa lang, para ang kaniyang Anak ay maging pangaanay sa maraming mga magkakapatid.
+[^29] Dahil tinalaga ng Diyos na maging tulad ng kaniyang Anak ang mga kinilala niya noong una pa lang, para ang kaniyang Anak ay maging panganay sa maraming mga magkakapatid.
 
 [^29]: For those he foreknew he also predestined to be conformed to the image of his Son, so that he would be the firstborn among many brothers and sisters.
 
@@ -135,14 +135,14 @@ Ang pag-iisip ng laman ay kamatayan, pero ang pag-iisip ng Spirito ay buhay at k
 
 [^30]: And those he predestined, he also called; and those he called, he also justified; and those he justified, he also glorified.
 
-## Ang Tagumpay ng Naniniwala
+## Ang Tagumpay ng Nagtitiwala
 [#](# "The Believer’s Triumph")
 
-[^31] Anong pa ang masasabi natin? Kung para saatin ang Diyos, sino ang makaka-kontra sa atin?
+[^31] Anong pa ang masasabi natin tungkol sa mga bagay na ito? Kung para saatin ang Diyos, sino ang sasalungat sa atin?
 
 [^31]: What then are we to say about these things? If God is for us, who is against us?
 
-[^32] Hindi niya nga pinagkait ang kaniyang sariling Anak pero inialay niya siya para sa ating lahat. Paanong ipagkakait niya rin saatin ang lahat?
+[^32] Hindi niya nga ipinagkait ang kaniyang sariling Anak pero siya ay inalay niya para sa ating lahat. Paano niya maipagkakait saatin ang lahat?
 
 [^32]: He did not even spare his own Son but offered him up for us all. How will he not also with him grant us everything?
 
@@ -150,7 +150,7 @@ Ang pag-iisip ng laman ay kamatayan, pero ang pag-iisip ng Spirito ay buhay at k
 
 [^33]: Who can bring an accusation against God’s elect? God is the one who justifies.
 
-[^34] Sino ang humahatol? Si Kristo Hesus ang namatay, pero higit pa diyan, binuhay siya; na sa kanang kamay din siya ng Diyos at tumatayo para satin.
+[^34] Sino ang nagpapataw ng hatol? Si Kristo Hesus ang namatay, pero higit pa diyan, binuhay siya; na sa kanang kamay din siya ng Diyos at tumatayo para satin.
 
 [^34]: Who is the one who condemns? Christ Jesus is the one who died, but even more, has been raised; he also is at the right hand of God and intercedes for us.
 
@@ -159,10 +159,9 @@ Ang pag-iisip ng laman ay kamatayan, pero ang pag-iisip ng Spirito ay buhay at k
 [^35]: Who can separate us from the love of Christ? Can affliction or distress or persecution or famine or nakedness or danger or sword?
 
 [^36] Nasusulat:
-
-Dahil sa 'yo
-kami ay pinapatay buong magdamag;
-kinilala kami bilang mga tupa na kakatayin.
+  Nang dahil sa 'yo
+  kami ay pinapatay buong magdamag;
+  kinilala kami bilang mga tupa na kakatayin.
 
 [^36]: As it is written:
   Because of you
@@ -177,6 +176,6 @@ kinilala kami bilang mga tupa na kakatayin.
 
 [^38]: For I am persuaded that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers,
 
-[^39] o ang taas o lalim, o kahit anong mga bagay na niliha ang pupwedeng makapaghiwalay saatin sa pagmaamahal ng Diyos na na sa ating Panginoong Kristo Hesus.
+[^39] o ang taas o lalim, o kahit anong mga bagay na nilikha ang pupwedeng makapaghiwalay saatin sa pagmaamahal ng Diyos na na sa ating Panginoong Kristo Hesus.
 
 [^39]: nor height nor depth, nor any other created thing will be able to separate us from the love of God that is in Christ Jesus our Lord.

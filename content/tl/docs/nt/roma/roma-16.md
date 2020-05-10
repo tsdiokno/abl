@@ -6,164 +6,104 @@ weight: 16
 description:
 ---
 
-## Ang Paglilingkod Sa Iba, Hindi Sa Sarili
-[#](# "Pleasing Others, Not Ourselves")
+## Ang Pagtatalaga Ni Pablo Kay Febe
+[#](# "Paul’s Commendation of Phoebe")
 
-[^1] Ngayon, tayong mga malalakas ay may tungkuling pasanin ang kahinaan ng mga taong walang lakas, at hindi para paglingkuran ang sarili.
+Itinatalaga ko sa inyo ang ating kapatid na si Febe, na isang tigapaglingkod ng mga itinangi sa Sengkreya.
 
-[^1]: Now we who are strong have an obligation to bear the weaknesses of those without strength, and not to please ourselves.
+[1] I commend to you our sister Phoebe, who is a servant of the church in Cenchreae.
 
-[^2] Ang bawat isa saatin ay paglilingkuran ang bawat isa para sa ikabubuti ng bawat isa.
+Kaya dapat tanggapin niyo siya sa Panginoon sa pamamaraang karapat-dapat sa mga itinangi at makipagtulungan sa kaniya sa anumang bagay na kakailanganin niya ang tulong niyo. Dahil marami siyang natulungan -- kasama na ako.
 
-[^2]: Each one of us is to please his neighbor for his good, to build him up.
+[2] So you should welcome her in the Lord in a manner worthy of the saints and assist her in whatever matter she may require your help. For indeed she has been a benefactor of many—and of me also.
 
-[^3] Dahil kahit si Kristo ay hindi naglingkod sa sarili. Sa katunayan, gaya ng nasusulat, Ang pangiinsulto ng mga taong nangiinsulto sa'yo ay bumagsak saakin.
+## Mga Pagbati Sa Mga Kristiyanong Tiga-Roma
+[#](# "Greeting to Roman Christians")
 
-[^3]: For even Christ did not please himself. On the contrary, as it is written, The insults of those who insult you have fallen on me.
+Kamustahin ninyo ako kay Priska at Akila, mga kasama kong tigapaglingkod kay Kristo Hesus,
 
-[^4] Dahil kung anuman ang naisulat dati ay sinulat para tayo ay mapagbilinan, para tayo ay magkaroon ng pag-asa sa pamamagitan ng pagpapakatatag at sa pamamagitan ng pagpapalakas-loob ng mga Kasulatan.
+[3] Give my greetings to Prisca and Aquila, my coworkers in Christ Jesus,
 
-[^4]: For whatever was written in the past was written for our instruction, so that we may have hope through endurance and through the encouragement from the Scriptures.
+na inalay ang kanilang sariling kaligtasan para saakin. Bukod pa sa kanila, pinasasalamatan ko din ang lahat ng mga Hentil na tinawag.
 
-[^5] Ngayon, nawa ang Diyos na nagbibigay ng katatagan at lakas ng loob, ay hayaan kayo sama-samang mamuhay ng mapayapa, ayon kay Kristo Hesus,
+[4] who risked their own necks for my life. Not only do I thank them, but so do all the Gentile churches.
 
-[^5]: Now may the God who gives endurance and encouragement grant you to live in harmony with one another, according to Christ Jesus,
+Ikamusta din ninyo ang mga tinawag na nagkikita-kita sa kanilang bahay. Ikamusta ninyo ako sa aking matalik na kaibigang si Epanetus, ang unang nagtiwala kay Kristo sa Asya.
 
-[^6] para maparangalan niyo ang Diyos at ang Ama ng ating Panginoong Hesu Kristo ng may isang isip at isang boses.
+[5] Greet also the church that meets in their home. Greet my dear friend Epaenetus, who is the first convert to Christ from Asia.
 
-[^6]: so that you may glorify the God and Father of our Lord Jesus Christ with one mind and one voice.
+Ikamusta ninyo ako kay Maria, na nagpagal para sa inyo.
 
-## Magkasamang Pagpaparangal Sa Diyos
-[#](# "Glorifying God Together")
+[6] Greet Mary, who has worked very hard for you.
 
-[^7] Kaya tanggapin niyo ang bawat isa, gaya ng pagtanggap sa inyo ng Kristo patungo sa karangalan ng Diyos.
+Ikamusta ninyo ako kay Adroniko at Hunya, mga tulad kong Hudyo at tulad kong na sa piitan. Sila ay katangi-tangi sa mga mata ng mga apostol at dati pa silang na kay Kristo bago ako dumating.
 
-[^7]: Therefore welcome one another, just as Christ also welcomed you, to the glory of God.
+[7] Greet Andronicus and Junia, my fellow Jews and fellow prisoners. They are noteworthy in the eyes of the apostles, and they were also in Christ before me.
 
-[^8] Dahil sinasabi ko na si Kristo ay naging lingkod ng mga natuli sa pangalan ng katotohanan na nagmumula sa Diyos, para patotohanan ang mga pinangako sa mga ninuno,
+Ikamusta ninyo ako kay Ampilato, ang matalik kong kaibigan sa Panginoon.
 
-[^8]: For I say that Christ became a servant of the circumcised on behalf of God’s truth, to confirm the promises to the fathers,
+[8] Greet Ampliatus, my dear friend in the Lord.
 
-[^9] at para ang mga Hentil ay maparangalan ang Diyos para sa awang ito. Gaya ng nasusulat,
-  Kaya pupurihin kita sa gitna ng mga Hentil,
-  at ako'y kakanta ng papuri para sa iyong pangalan.
+Ikamusta ninyo ako kay Urbano, ang kapwa-lingkod natin kay Kristo, at ang matalik kong kaibigang si Estakis.
 
-[^9]: and so that Gentiles may glorify God for his mercy. As it is written,
-  Therefore I will praise you among the Gentiles,
-  and I will sing praise to your name.
+[9] Greet Urbanus, our coworker in Christ, and my dear friend Stachys.
 
-[^10] Minsan pa sinabi, Magdiwang, kayong mga Hentil, kasama ang kaniyang bansa!
+Ikamusta ninyo ako kay Apelles, na tinanggap kay Kristo.
 
-[^10]: Again it says, Rejoice, you Gentiles, with his people!
+[10] Greet Apelles, who is approved in Christ. Greet those who belong to the household of Aristobulus.
 
-[^11] At minsan pa ulit,
-  Purihin ang Panginoon, lahat kayong mga Hentil;
-  hayaan na ang lahat ng bansa ay magpuri sa kaniya!
+Ikamusta ninyo ako kay Herodyon, isang kapwa ko Hudyo. Ikamusta ninyo ako sa mga kabilang sa sambahayan ni Narsiso na na sa Panginoon.
 
-[^11]: And again,
-  Praise the Lord, all you Gentiles;
-  let all the peoples praise him!
+[11] Greet Herodion, my fellow Jew. Greet those who belong to the household of Narcissus who are in the Lord.
 
-[^12] At minsan pa ulit, sabi ni Isaias,
-  At makikita ang ugat ni Jess,
-  ang siyang tumitindig para pamunuan ang mga Hentil;
-  ang mga Hentil ay magkakaroon ng pag-asa sa kaniya.
+Ikamusta ninyo ako kina Tripanya at Triposa, na nagpagal sa Panginoon. Ikamusta ninyo ako sa matalik kong kaibigan na si Perso, na nagpagal sa Panginoon.
 
-[^12]: And again, Isaiah says,
-  The root of Jesse will appear,
-  the one who rises to rule the Gentiles;
-  the Gentiles will hope in him.
+[12] Greet Tryphaena and Tryphosa, who have worked hard in the Lord. Greet my dear friend Persis, who has worked very hard in the Lord.
 
-[^13] Ngayon, nawa ang Diyos ng pag-asa ay punuin kayo ng pawang kagalakan at kapayapaan habang kayo ay nananalig para kayo ay mag-umpapaw sa pag-asa sa pamamagitan ng Banal na Espirito.
+Ikamusta ninyo ako kay Rupo, na pinili sa Panginoon; ganun din sa kaniyang nanay -- na aking nanay na rin.
 
-[^13]: Now may the God of hope fill you with all joy and peace as you believe so that you may overflow with hope by the power of the Holy Spirit.
+[13] Greet Rufus, chosen in the Lord; also his mother—and mine.
 
-## Mula sa Herusalam Hanggang Sa Iliriko
-[#](# "From Jerusalem to Illyricum")
+Ikamusta ninyo ako kay Asingkrito, Plegon, Hermes, Patrobas, Hermas, at ang mga kapatiran na kasama nila.
 
-[^14] Mga kapatid ko, ako ay sigurado patunkol sa inyo na kayo ay puno ng kabutihan, puno ng pawang kaalaman, at may kakayanan na magbigay ng bilin sa bawat isa.
+[14] Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers and sisters who are with them.
 
-[^14]: My brothers and sisters, I myself am convinced about you that you also are full of goodness, filled with all knowledge, and able to instruct one another.
+Ikamusta ninyo ako kay Pilogohus at Hulya, Nereyus at ang kaniyang kapatid, at Olimpas, at lahat ng mga itinangi na kasama nila.
 
-[^15] Ganun pa man, sumulat ako para magiit ko kayong mapaalalahanan tungkol sa ilang mga punto dahil sa kagandahang-loob na binigay saakin ng Diyos.
+[15] Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them.
 
-[^15]: Nevertheless, I have written to remind you more boldly on some points because of the grace given me by God
+Magbatian kayo nang may natatanging mga yapos. Ang lahat ng mga tinawag ay binabati kayo.
 
-[^16] para maging lingkod ni Kristo Hesus sa mga Hentil, para sa isang natatanging paglilingkod para sa mabuting balita ng Diyos. Layunin ng Diyos na maging katanggap-tanggap na alay ang mga Hentil, at ginawang katangi-tangi ng Banal na Espirito.
+[16] Greet one another with a holy kiss. All the churches of Christ send you greetings.
 
-[^16]: to be a minister of Christ Jesus to the Gentiles, serving as a priest of the gospel of God. God’s purpose is that the Gentiles may be an acceptable offering, sanctified by the Holy Spirit.
+## Mga Babala Laban Sa Mga Taong Mapagbukod
+[#](# "Warning against Divisive People")
 
-[^17] Kaya meron akong dahilan sa aking pagmamalaki kay Kristo Hesus sa mga bagay na tungkol sa Diyos.
+Ngayon, hinihimok ko kayo, mga kapatid, na mag-ingat sa mga taong mapagbukod at nagbibigay-balakid sa mga aral na natutunan niyo. Iwasan niyo sila,
 
-[^17]: Therefore I have reason to boast in Christ Jesus regarding what pertains to God.
+[17] Now I urge you, brothers and sisters, to watch out for those who create divisions and obstacles contrary to the teaching that you learned. Avoid them,
 
-[^18] Hindi ako mangangahas na magsabi ng kahit ano kung hindi ang ginawa ni Kristo sa pamamagitan ko sa salita at sa gawa para sa pag-sunod ng mga Hentil.
+dahil ang mga ganung tao ay hindi naglilingkod sa ating Panginoong Kristo pero sa sarili nilang pansariling nais. Nililinlang nila ang mga walang kamuang-muang gamit ang mga magaling at matatamis na pananalita.
 
-[^18]: For I would not dare say anything except what Christ has accomplished through me by word and deed for the obedience of the Gentiles,
+[18] because such people do not serve our Lord Christ but their own appetites. They deceive the hearts of the unsuspecting with smooth talk and flattering words.
 
-[^19] sa pamamagitan ng kapangyarihan mga mapaghimalang pangitain at kamanga-mangang mga bagay, at sa pamamagita ng kapangyarihan ng Espirito ng Diyos. Bilang resulta, ganap kong naihayag ang magandang balita ni Kristo mula sa Herusalem hanggang sa Iliriko.
+## Ang Taos-Pusong Pagtatapos Ni Paul
+[#](# "Paul’s Gracious Conclusion")
 
-[^19]: by the power of miraculous signs and wonders, and by the power of God’s Spirit. As a result, I have fully proclaimed the gospel of Christ from Jerusalem all the way around to Illyricum.
+[19] The report of your obedience has reached everyone. Therefore I rejoice over you, but I want you to be wise about what is good, and yet innocent about what is evil.
 
-[^20] Ang aking pakay ay ihayag ang mabuting balita ni Kristo kung saan hindi pa siya nakikilala, para hindi ako makapagtayo sa ibabaw ng pundasyon ng iba.
+[20] The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.
 
-[^20]: My aim is to preach the gospel where Christ has not been named, so that I will not build on someone else’s foundation,
+[21] Timothy, my coworker, and Lucius, Jason, and Sosipater, my fellow countrymen, greet you.
 
-[^21] pero, gaya ng nasusulat,
-  Ang mga hindi napagsabihan ng tungkol sa kaniya ay makakakita,
-  at ang mga hindi nakarinig ay makakaintindi.
+[22] I, Tertius, who wrote this letter, greet you in the Lord.
 
-[^21]: but, as it is written,
-  Those who were not told about him will see,
-  and those who have not heard will understand.
+[23] Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus greet you.
 
-## Ang Mga Plano Sa Pag-Luwas Ni Pablo
-[#](# "Paul’s Travel Plans")
+Glory to God
 
-[^22] Kaya ilang beses na akong napigilan mula sa pag-punta sa'yo.
+[25] Now to him who is able to strengthen you according to my gospel and the proclamation about Jesus Christ, according to the revelation of the mystery kept silent for long ages
 
-[^22]: That is why I have been prevented many times from coming to you.
+[26] but now revealed and made known through the prophetic Scriptures, according to the command of the eternal God to advance the obedience of faith among all the Gentiles—
 
-[^23] Pero nayon, wala na akong mga gagawin dito sa mga lugar na ito, at ilang taon ko na talaga kayong gustong puntahan.
-
-[^23]: But now I no longer have any work to do in these regions, and I have strongly desired for many years to come to you
-
-[^24] tuwing lumuluwas ako sa Espanya. Dahil umaasa ako na makita kayo kapag dumaan ako at matulungan ninyo ako sa aking paglalakbay doon, pagkatapos ko muna kayong makasama ng sandali.
-
-[^24]: whenever I travel to Spain. For I hope to see you when I pass through and to be assisted by you for my journey there, once I have first enjoyed your company for a while.
-
-[^25] Lumuluwas ako papuntang Herusalem para maglingkod sa kanila ngayon,
-
-[^25]: Right now I am traveling to Jerusalem to serve the saints,
-
-[^26] dahil minabuti ng mga tiga-Masedonya at Akaya na mag-ambag para sa mga kapus-palad sa mga itinangi sa Herusalem.
-
-[^26]: because Macedonia and Achaia were pleased to make a contribution for the poor among the saints in Jerusalem.
-
-[^27] Oo, sila ay natuwa, at talagang may utang na loob sa kanila. Dahil kung ang mga Hentil ay nakibahagi sa kanilang espiritwal na pakinabag, sila ngayon ay may tungkuling maglingkod sa kanila sa mga materyal na pangangailangan.
-
-[^27]: Yes, they were pleased, and indeed are indebted to them. For if the Gentiles have shared in their spiritual benefits, then they are obligated to minister to them in material needs.
-
-[^28] Kaya kapag natapos ko ito at ligtas na naipadala sa kanila ang pondo, dadaanan ko kayo sa pag-punta ko sa Espanya.
-
-[^28]: So when I have finished this and safely delivered the funds to them, I will visit you on the way to Spain.
-
-[^29] Alam ko na kapag dumating ako diyan, madadatnan ko ang kaganapan ng pagpapala ni Kristo.
-
-[^29]: I know that when I come to you, I will come in the fullness of the blessing of Christ.
-
-[^30] Ngayon ako ay nananawagan sa inyo, mga kapatid, sa pangalan ng ating Panginoong Hesu Kristo, at sa pamamagitan ng pagmamahal ng Spirito, na samahan niyo ko sa pagsusumikap sa pananalangin sa Diyos para saakin.
-
-[^30]: Now I appeal to you, brothers and sisters, through our Lord Jesus Christ and through the love of the Spirit, to strive together with me in prayers to God on my behalf.
-
-[^31] Manalangin kayo na ako ay maligtas mula sa mga di naniniwala sa Hudeya, na ang aking paglilingkod sa Herusalem ay maging katanggap-tanggap sa mga itinangi,
-
-[^31]: Pray that I may be rescued from the unbelievers in Judea, that my ministry to Jerusalem may be acceptable to the saints,
-
-[^32] at, kung loloobin ng Diyos, na ako ay makapunta sa inyo ng may galak at mapanariwa kasama ninyo.
-
-[^32]: and that, by God’s will, I may come to you with joy and be refreshed together with you.
-
-[^33] Sumainyo ang kapayapaan ng Diyos. Amen.
-
-[^33]: May the God of peace be with all of you. Amen.
+[27] to the only wise God, through Jesus Christ—to him be the glory forever! Amen.

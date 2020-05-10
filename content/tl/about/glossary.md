@@ -81,6 +81,57 @@ Narito ang kabuuan ng talasalinan ng ABL na nagsisilbing gabay sa buong gawain n
       <td>Kautusan</td>
       <td>Tradisyunal na salin ngunit nananatiling angkop. Hindi "batas" dahil iba ang implikasyon neto sa Bibliya.</td>
     </tr>
+    <tr>
+      <td>church; churches</td>
+      <td>tinawag; mga tinawag</td>
+      <td>Mula sa tradisyunal na "iglesia" na madalas na ginagamit bilang pangngalang pantangi sa kasalukuyan. Mas angkop sa diwa ng orihihal na salitang Griyego "ekklesia".</td>
+    </tr>
+    <tr>
+      <td>approve; approved</td>
+      <td>tanggapin; tinanggap</td>
+      <td>Sinalin ang diwa. Hindi malinaw ang "sinang-ayunan" sa mga kunteksto kung saan ito ginagamit.</td>
+    </tr>
+    <tr>
+      <td>apostleship; apostle</td>
+      <td>pagkikinatawan; kinatawan</td>
+      <td>Salin ng diwa ng orihinal na wika. Ekslusibo, masyadong mahiwaga at malalim ang dating ng <i>"sugo"</i> sa kasalukuyang panahon.</td>
+    </tr>
+    <tr>
+      <td>gospel</td>
+      <td>magandang balita</td>
+      <td>Salin ng diwa ng orihinal na wika, <i>"good news"</i>. Hindi malinaw sa madla ang diwa ng <i>"ebanghelyo"</i>.</td>
+    </tr>
+    <tr>
+      <td>righteousness</td>
+      <td>pagiging matuwid</td>
+      <td>Para mas maging malinaw dahil ang <i>katuwiran</i> ay maaring mag-iba ang diwa depende kung saan ginagamit <i>("wag ka nang mangatuwiran")</i>.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Mga Kawikaan
+
+Mga kawikaang hiyang sa mga wikang Indo-Urupeio (tulad ng Ingles at Griyego) pero nawawala ang buong diwa kapag literal na sinalin sa ibang pangkat ng wika na mula sa ibang rehiyon na may ibang lingwistika at kultura, at may sariling talaan ng mga kawikaan (Awstroniko, tulad ng Tagalog).
+
+<table class="table">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Ingles</th>
+      <th scope="col">ABL Tagalog</th>
+      <th scope="col">Mga Puna</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Send my greetings...</td>
+      <td>Ikamusta ninyo ako...</td>
+      <td>Nawawala ang buong diwa kapag literal na isinalin "ipadala niyo ang aking pagbati".</td>
+    </tr>
+    <tr>
+      <td>holy kiss</td>
+      <td>natatanging yapos</td>
+      <td>Iba ang paraan ng pagbati sa isa't-isa ng mga Pilipino kesa sa mga tiga-Roma.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -110,6 +161,11 @@ Mga halimbawa ng mga pangalan na ginamit sa Bibliya at ang pagpi-Pilipino dito n
     <tr>
       <td>Illyricum</td>
       <td>Iliriko</td>
+      <td>Binaybay kung papaano binibigkas sa Pilipino ang salita.</td>
+    </tr>
+    <tr>
+      <td>Cenchreae</td>
+      <td>Sengkreya</td>
       <td>Binaybay kung papaano binibigkas sa Pilipino ang salita.</td>
     </tr>
   </tbody>

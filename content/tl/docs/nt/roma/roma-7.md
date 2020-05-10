@@ -3,7 +3,7 @@ title: "Roma 7"
 linkTitle: "Roma 7"
 date: 2017-04-05
 weight: 7
-description:
+description: Unang Edisyon
 ---
 
 ## Pinalaya Mula sa Kautusan Sa Pamamagitan ng Pagkamatay
@@ -13,19 +13,19 @@ description:
 
 [^1]: Or do you not know, brothers (for I am speaking to those who know the law), that the law is master of a person for as long a time as he lives?
 
-[^2] Dahil hindi pwedeng makipaghiwalay ang isang babae sa kaniyang asawa sa ilalim ng batas, pero kung mamatay ang asawa, malaya na siya mula sa batas nito.
+[^2] Dahil hindi pwedeng makipaghiwalay ang isang babae sa kaniyang asawa sa ilalim ng Kautusan, pero kung mamatay ang asawa, malaya na siya mula sa kautusan nito.
 
 [^2]: For the married woman is bound by law to her husband while he lives, but if her husband dies, she is released from the law of the husband.
 
-[^3] Kaya bilang resulta, kung sumama siya sa ibang lalaki habang buhay pa ang asawa niya, tatawagin siyang taksil. Pero kung mamatay ang asawa niya, hindi siya taksil kung sumama siya sa ibang lalaki.
+[^3] Kaya naman bilang resulta, kung sumama siya sa ibang lalaki habang buhay pa ang asawa niya, tatawagin siyang taksil. Pero kung mamatay ang asawa niya, hindi siya ituturing na taksil kung sumama siya sa ibang lalaki.
 
 [^3]: Therefore as a result, if she belongs to another man while her husband is living, she will be called an adulteress. But if her husband dies, she is free from the law, so that she is not an adulteress if she belongs to another man.
 
-[^4] Kaya, mga kapatid, kinilala na kayong patay sa ilalim ng Kautusan sa pamamagitan ng katawan ni Kriso, para kayo ay mapag-isa, para sa kaniya na binuhay mula sa patay, para tayo ay magbunga para sa Diyos.
+[^4] Kaya naman, mga kapatid, kinilala na kayong patay sa ilalim ng Kautusan sa pamamagitan ng katawan ni Kristo, para kayo ay mapag-isa sa bawat isa, para sa kaniya na binuhay mula sa patay, para tayo ay magbunga para sa Diyos.
 
 [^4]: So then, my brothers, you also were brought to death with respect to the law through the body of Christ, so that you may belong to another, to the one who was raised from the dead, in order that we may bear fruit for God.
 
-[^5] Dahil nung tayo ay na sa ilalim pa ng laman, ang ating mga makasalanang pagnanasa ay nanunuot sa ating mga laman na na sa ilalim ng Kautusan, para mamunga para sa kamatayan.
+[^5] Dahil nung tayo ay na sa ilalim pa ng laman, ang ating mga makasalanang pagnanasa ay nanunuot sa ating mga laman na na sa ilalim ng Kautusan, upang mamunga para sa kamatayan.
 
 [^5]: For when we were in the flesh, sinful desires were working through the law in our members, to bear fruit for death.
 
@@ -36,7 +36,7 @@ description:
 ## Ang Batas ang Nagpapakilala sa Kasalanan
 [#](# "Knowledge of Sin Comes through the Law")
 
-[^7] Paano na? Kasalanan ba ang Kautusan? 'Wag sana! Pero hindi ko makikilala ang kasalanan kung hindi dahil sa Kautusan, dahil hindi ko makikilala ang pagka-mainggitin kung hindi sinabi ng Kautusan na "'Wag maging mainggitin."
+[^7] Ano na ngayon ang ating sasabihin? Kasalanan ba ang Kautusan? Hinding-hindi! Pero hindi ko makikilala ang kasalanan kung hindi dahil sa Kautusan, dahil hindi ko makikilala ang pagka-mainggitin kung hindi sinabi ng Kautusan na "'Wag maging mainggitin."
 
 [^7]: What then shall we say? Is the law sin? May it never be! But I would not have known sin except through the law, for I would not have known covetousness if the law had not said, “Do not covet.”
 
@@ -56,14 +56,14 @@ description:
 
 [^11]: For sin, seizing the opportunity through the commandment, deceived me and through it killed me.
 
-[^12] Kaya, banal, matuwid, at mabuti ang Kautusan.
+[^12] Kaya, katangi-tangi, matuwid, at mabuti ang Kautusan.
 
 [^12]: So then, the law is holy, and the commandment is holy and righteous and good.
 
 ## Ang Laban Sa Kasalanan
 [#](# "Internal Conflict with Sin")
 
-[^13] Kaya ba namatay ako dahil sa kabutihan? Hinding-hindi! Gawain ng kasalanan yun, para makilala ito bilang kasalanan, na nagbubunga ng kamatayan gamit ang isang mabuting bagay, para talagang maging makasalanan ang kasalanan sa ilalim ng Kautusan.
+[^13] Kaya ba naging kamatayan ko ang isang mabuting bagay? Hinding-hindi! Gawain ng kasalanan yun, para makilala ito bilang kasalanan, na nagbubunga ng kamatayan gamit ang isang mabuting bagay, para talagang maging makasalanan ang kasalanan sa ilalim ng Kautusan.
 
 [^13]: Therefore, did that which is good become death to me? May it never be! Rather it was sin, in order that it might be recognized as sin, producing death through what is good for me, in order that sin might become sinful to an extraordinary degree through the commandment.
 
@@ -79,7 +79,7 @@ description:
 
 [^16]: But if what I do not want to do, this I do, I agree with the law that it is good.
 
-[^17] Pero hindi na ako ang gumagawa nun, pero ang kasalanan na nasaakin.
+[^17] Pero hindi na ako ang gumagawa nun, pero ang kasalanan na nananahan saakin.
 
 [^17]: But now I am no longer the one doing it, but sin that lives in me.
 
@@ -95,22 +95,22 @@ description:
 
 [^20]: But if what I do not want to do, this I am doing, I am no longer the one doing it, but sin that lives in me.
 
-[^21] Kaya nalaman ko, sa aking kagustuhan na gumawa ng mabuti, na nasaakin ang kasamaan.
+[^21] Kaya naman nalaman ko, sa aking kagustuhan na gumawa ng mabuti, na nananahan saakin ang kasamaan.
 
 [^21]: Consequently, I find the principle with me, the one who wants to do good, that evil is present with me.
 
-[^22] Dahil buong-galak akong sumasang-ayon sa Kautusan ng Diyos sa aking isip,
+[^22] Dahil buong-galak akong sumasang-ayon sa Kautusan ng Diyos sa aking panloob na pagkatao,
 
 [^22]: For I joyfully agree with the law of God in my inner person,
 
-[^23] pero may isa pa akong nakikitang kautusan sa aking sarili, sumasalungat sa kautusan ng aking isip at inaalipin ako sa kautusan ng kasalanan na na sa akin.
+[^23] pero may isa pa akong nakikitang kautusan na nananahan sa aking sarili, sumasalungat sa kautusan ng aking isip at inaalipin ako sa kautusan ng kasalanan na nananahan sa akin.
 
 [^23]: but I observe another law in my members, at war with the law of my mind and making me captive to the law of sin that exists in my members.
 
-[^24] Kawawa ako! Sino ang sasaklolo sakin mula saaking katawan ng kamatayan?
+[^24] Kaawa-awa ako! Sino ang sasaklolo sakin mula sa aking katawan ng kamatayan?
 
 [^24]: Wretched man that I am! Who will rescue me from this body of death?
 
-[^25] Salamat sa Diyos sa ngalan ng Panginoong Hesu Kristo! Kaya sa isip ko ako ay alipin ng Kautusan ng Diyos, pero sa aking katawan, ako ay alipin ng kasalanan.
+[^25] Salamat sa Diyos sa pamamagitan ng Panginoong Hesu Kristo! Kaya sa isip ko ako ay alipin ng Kautusan ng Diyos, pero sa aking katawan, ako ay alipin ng kasalanan.
 
 [^25]: Thanks be to God through Jesus Christ our Lord! So then, I myself with my mind am enslaved to the law of God, but with my flesh I am enslaved to the law of sin.

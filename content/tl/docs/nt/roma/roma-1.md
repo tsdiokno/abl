@@ -3,13 +3,13 @@ title: "Roma 1"
 linkTitle: "Roma 1"
 date: 2017-04-05
 weight: 1
-description:
+description: Unang Edisyon
 ---
 
 ## Ang Mabuting Balita ng Diyos Para Sa Roma
 [#](# "The Gospel of God for Rome")
 
-[^1] Mula kay Pablo, isang tigapaglingkod ni Kristo Hesus, tinawag upang maging apostol at ibinukod para sa mabuting balita ng Diyos —
+[^1] Mula kay Pablo, isang tigapaglingkod ni Kristo Hesus, tinawag upang maging kinatawan at ibinukod para sa mabuting balita ng Diyos —
 
 [^1]: Paul, a servant of Christ Jesus, called as an apostle and set apart for the gospel of God—
 
@@ -21,21 +21,21 @@ description:
 
 [^3]: concerning his Son, Jesus Christ our Lord, who was a descendant of David according to the flesh
 
-[^4] at itinalaga para maging ang makapangyarihang Anak ng Diyos ayon sa Espirito ng kabanalan sa pamamagitan ng pagkabuhay ng mga patay.
+[^4] at itinalaga bilang ang makapangyarihang Anak ng Diyos ayon sa Espirito ng kabanalan sa pamamagitan ng pagkabuhay ng mga patay.
 
 [^4]: and was appointed to be the powerful Son of God according to the Spirit of holiness by the resurrection of the dead.
 
-[^5] Dahil sa kaniya, tayo ay nakatanggap ng kabutihang-loob at pagtatalaga na nagbubunga ng pagsunod na siya namang bunga ng pagtitiwala alang-alang sa kaniyang ngalan sa gitna ng mga Hentil
+[^5] Dahil sa kaniya, tayo ay nakatanggap ng kabutihang-loob at pagkikinatawan na nagbubunga ng pagsunod na siya namang bunga ng pagtitiwala alang-alang sa kaniyang ngalan sa gitna ng mga Hentil
 
 [^5]: Through him we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the Gentiles,
 
-[^6] na tulad ninyo na tinawag rin ni Kristo Hesus.
+[^6] na tulad ninyo na tinawag rin ni Hesu Kristo.
 
 [^6]: including you who are also called by Jesus Christ.
 
-[^7] Sa lahat ng mga na sa Roma na siyang minahal ng Diyos at tinawag na mga santo.
+[^7] Sa lahat ng mga na sa Roma na siyang minahal ng Diyos at tinawag upang itangi.
 
-Sumainyo ang kabutihang-loob at kapayapaan na galing sa Diyos Ama at sa Panginoong Hesu-Kristo.
+Sumainyo ang kabutihang-loob at kapayapaan na galing sa Diyos Ama at sa Panginoong Hesu Kristo.
 
 [^7]: To all who are in Rome, loved by God, called as saints.
   Grace to you and peace from God our Father and the Lord Jesus Christ.
@@ -47,7 +47,7 @@ Sumainyo ang kabutihang-loob at kapayapaan na galing sa Diyos Ama at sa Panginoo
 
 [^8]: First, I thank my God through Jesus Christ for all of you because the news of your faith is being reported in all the world.
 
-[^9] Saksi ko ang Diyos na aking pinaglilingkuran sa pagpapalaganap ng magandang balita tungkol sa kaniyang Anak — na lagi ko kayong binabanggit,
+[^9] Saksi ko ang Diyos — na aking pinaglilingkuran sa pagpapalaganap ng magandang balita tungkol sa kaniyang Anak — na lagi ko kayong binabanggit,
 
 [^9]: God is my witness, whom I serve with my spirit in telling the good news about his Son—that I constantly mention you,
 
@@ -55,7 +55,7 @@ Sumainyo ang kabutihang-loob at kapayapaan na galing sa Diyos Ama at sa Panginoo
 
 [^10]: always asking in my prayers that if it is somehow in God’s will, I may now at last succeed in coming to you.
 
-[^11] Dahil talagang gusto ko kayong makita para ako ay makapagbigay sa inyo ng biyayang espiritual na inyong ikalalakas,
+[^11] Dahil talagang gusto ko kayong makita para ako ay makapagbigay sa inyo ng biyayang espiritwal na inyong ikalalakas,
 
 [^11]: For I want very much to see you, so that I may impart to you some spiritual gift to strengthen you,
 
@@ -63,15 +63,15 @@ Sumainyo ang kabutihang-loob at kapayapaan na galing sa Diyos Ama at sa Panginoo
 
 [^12]: 12 that is, to be mutually encouraged by each other’s faith, both yours and mine.
 
-[^13] Gusto kong malaman niyo, mga kapatid, na maraming beses kong plinano na pumunta sa inyo (pero hindi natutuloy) para mapaglingkuran kayo ng masagana tulad ng paglilingkod ko sa iba pang mga Hentil.
+[^13] Gusto kong malaman niyo, mga kapatid, na maraming beses kong plinano na pumunta sa inyo (pero hindi natutuloy hanggang ngayon) para mapaglingkuran kayo ng masagana tulad ng paglilingkod ko sa iba pang mga Hentil.
 
 [^13]: Now I don’t want you to be unaware, brothers and sisters, that I often planned to come to you (but was prevented until now) in order that I might have a fruitful ministry among you, just as I have had among the rest of the Gentiles.
 
-[^14] May tungkulin ako sa mga Griyego at mga barbaro, sa mga marunong at mangmang.
+[^14] May tungkulin ako sa mga Griyego at mga banyaga, sa mga marunong at mangmang.
 
 [^14]: I am obligated both to Greeks and barbarians, both to the wise and the foolish.
 
-[^15] Kaya sabik din ako na ipangaral ang magandaling balita sa inyong mga tiga-Roma.
+[^15] Kaya sabik din ako na ipangaral ang magandang balita sa inyong mga tiga-Roma.
 
 [^15]: So I am eager to preach the gospel to you also who are in Rome.
 
@@ -82,18 +82,18 @@ Sumainyo ang kabutihang-loob at kapayapaan na galing sa Diyos Ama at sa Panginoo
 
 [^16]: For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes, first to the Jew, and also to the Greek.
 
-[^17] Dahil ito'y naghahayag ng katuwiran ng Diyos sa pamamagitan ng pagtitiwala patungo sa pagtitiwala, tulad ng nasusulat: Ang matuwid ay mamumuhay sa pagtitiwala.
+[^17] Dahil ito'y naghahayag ng pagiging matuwid ng Diyos sa pamamagitan ng pagtitiwala patungo sa pagtitiwala, tulad ng nasusulat: Ang matuwid ay mamumuhay sa pagtitiwala.
 
 [^17]: For in it the righteousness of God is revealed from faith to faith, just as it is written: The righteous will live by faith.
 
 ## Ang Kasalanan ng Mga Hentil
 [#](# "The Guilt of the Gentile World")
 
-[^18] Dahil ang galit ng Diyos mula sa langit ay inihahayag laban sa lahat ng uri ng kawalang-diyos at kabaluktutan ng mga taong sumusugpo sa katotohanan dahil sa kanilang kabaluktutan,
+[^18] Dahil ang parusa ng Diyos mula sa langit ay inihahayag laban sa lahat ng uri ng kawalang-diyos at kabaluktutan ng mga taong sumusugpo sa katotohanan dahil sa kanilang kabaluktutan,
 
 [^18]: For God’s wrath is revealed from heaven against all godlessness and unrighteousness of people who by their unrighteousness suppress the truth,
 
-[^19] dahil ang lahat ng pwedeng malaman tungkol sa Diyos ay maliwanag sa kanila dahil pinakita na sa kanila 'to ng Diyos.
+[^19] dahil ang lahat ng pwedeng malaman tungkol sa Diyos ay maliwanag sa kanila dahil pinakita na sa kanila ito ng Diyos.
 
 [^19]: since what can be known about God is evident among them, because God has shown it to them.
 
@@ -113,7 +113,7 @@ Sumainyo ang kabutihang-loob at kapayapaan na galing sa Diyos Ama at sa Panginoo
 
 [^23]: and exchanged the glory of the immortal God for images resembling mortal man, birds, four-footed animals, and reptiles.
 
-[^24] Kaya ibinigay sila ng Diyos sa karumihan ng kanilang puso ng malapastangan nila ang katawan ng bawat isa.
+[^24] Kaya ibinigay sila ng Diyos at ang karumihan ng kanilang puso para malapastangan nila ang katawan ng bawat isa.
 
 [^24]: Therefore God delivered them over in the desires of their hearts to sexual impurity, so that their bodies were degraded among themselves.
 
@@ -124,15 +124,15 @@ Sumainyo ang kabutihang-loob at kapayapaan na galing sa Diyos Ama at sa Panginoo
 ## Ang Kasiraan ng Kamangmangan
 [#](# "From Idolatry to Depravity")
 
-[^26] Dahil dito, sila ay binigay ng Diyos sa kanilang pagkahumaling sa kalapastanganan. Ipinagpalit ng mga babae nila ang kanilang mga relasyong natural para sa mga hindi relasyong natural.
+[^26] Dahil dito, sila ay binigay ng Diyos sa kanilang pagkahumaling sa kalapastanganan. Ipinagpalit ng mga babae nila ang kanilang mga relasyong natural para sa mga hindi natural na relasyon.
 
 [^26]: For this reason God delivered them over to disgraceful passions. Their women exchanged natural sexual relations for unnatural ones.
 
-[^27] Ganun din ang ginawa ng mga lalaki, ipinagpalit nila ang kanilang mga relasyong natural sa mga babae at imbis ay nag-alab ang kanilang pagnanasa sa kapwa-lalaki. Marapat na natanggap ng kanilang pag-sadiya sa bawat isa ang kaparusahang na sa kanilang pagkakamali.
+[^27] Ganun din ang ginawa ng mga lalaki, ipinagpalit nila ang kanilang mga relasyong natural sa mga babae at imbis ay nag-alab ang kanilang pagnanasa sa kapwa-lalaki. Marapat na natanggap ng kanilang pag-sadiya sa bawat isa ang kaparusahang kalakip ng kanilang pagkakamali.
 
 [^27]: The men in the same way also left natural relations with women and were inflamed in their lust for one another. Men committed shameless acts with men and received in their own persons the appropriate penalty of their error.
 
-[^28] At dahil hindi nila pinahalagahan ang pagkilala sa Diyos, ibinigay sila ng Diyos sa isang sirang pag-iisip para magawa nila ang mali.
+[^28] At dahil hindi nila pinahalagahan ang pagkilala sa Diyos, ipinaubaya sila ng Diyos sa isang sirang pag-iisip para magawa nila ang mali.
 
 [^28]: 28 And because they did not think it worthwhile to acknowledge God, God delivered them over to a corrupt mind so that they do what is not right.
 
@@ -148,6 +148,6 @@ Sumainyo ang kabutihang-loob at kapayapaan na galing sa Diyos Ama at sa Panginoo
 
 [^31]: senseless, untrustworthy, unloving, and unmerciful.
 
-[^32] Kahit na alam nila ang matuwid na hatol ng Diyos — na ang mga gumagawa nito ay karapat-dapat na mamatay — ginagawa nila ang mga bagay na 'to at pinapalakpakan pa ang iba na gumagawa rin nito.
+[^32] Kahit na alam nila ang matuwid na hatol ng Diyos — na ang mga gumagawa nito ay karapat-dapat na mamatay — ginagawa nila ang mga bagay na ito at pinapalakpakan pa ang iba na gumagawa rin nito.
 
 [^32]: Although they know God’s just sentence—that those who practice such things deserve to die—they not only do them, but even applaud others who practice them.

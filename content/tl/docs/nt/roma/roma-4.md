@@ -3,11 +3,11 @@ title: "Roma 4"
 linkTitle: "Roma 4"
 date: 2017-04-05
 weight: 4
-description:
+description: Unang Edisyon
 ---
 
 
-## Nagpawalang-Sala Si Abraham sa Kaniyang Pagtitiwala
+## Nagpawalang-Sala Si Abraham Dahil Sa Kaniyang Pagtitiwala
 [#](# "Abraham Justified by Faith")
 
 [^1] Ano ngayon ang masasabi natin tungkol kay Abraham, ang ating ama sa laman? Ano ang kaniyang nakuha?
@@ -48,16 +48,14 @@ and whose sins are covered.
 [^8]: Blessed is the person
 the Lord will never charge with sin.
 
-Si Abraham Ay Napawalang-Sala Bago Natuli
-
 ## Pinawalang-Sala Si Abraham Bago Ang Pagkatuli
 [#](# "Abraham Justified before Circumcision")
 
-[^9] Kung ganun, ang pagpapala ba na'to ay para lang sa mga natuli? O para din ito sa mga hindi natuli? Dahil sinasabi, kinilalang matuwid si Abraham sa kaniyang pagtitiwala.
+[^9] Kung ganun, ang pagpapala ba na ito ay para lang sa mga natuli? O para din ito sa mga hindi natuli? Dahil sinasabi, kinilalang matuwid si Abraham sa kaniyang pagtitiwala.
 
 [^9]: Is this blessing only for the circumcised, then? Or is it also for the uncircumcised? For we say, Faith was credited to Abraham for righteousness.
 
-[^10] Kelan ba binigay sa kaniya ang pagkilala -- noong siya ay tuli na, o noong hindi pa siya natuli? Hindi nangyari ang pagkilala sa kaniyang pagka-tuli, pero nangyari 'to noong hindi pa siya natutuli.
+[^10] Kelan ba binigay sa kaniya ang pagkilala — noong siya ay tuli na, o noong hindi pa siya natuli? Hindi nangyari ang pagkilala sa kaniyang pagka-tuli, pero nangyari ito noong hindi pa siya natutuli.
 
 [^10]: In what way then was it credited—while he was circumcised, or uncircumcised? It was not while he was circumcised, but uncircumcised.
 
@@ -65,14 +63,14 @@ Si Abraham Ay Napawalang-Sala Bago Natuli
 
 [^11]: And he received the sign of circumcision as a seal of the righteousness that he had by faith while still uncircumcised. This was to make him the father of all who believe but are not circumcised, so that righteousness may be credited to them also.
 
-[^12] At naging ama siya ng mga natuli, na mga hindi lang natuli pero sumunod sa yapak ng pagtitiwala na katulad ng sa ating ama na si Abraham noong hindi pa siya natutuli.
+[^12] At naging ama siya ng mga natuli, na mga hindi lang natuli pero sumunod sa yapak ng pagtitiwala na katulad ng ginawa ng ating ama na si Abraham noong hindi pa siya natutuli.
 
 [^12]: And he became the father of the circumcised, who are not only circumcised but who also follow in the footsteps of the faith our father Abraham had while he was still uncircumcised.
 
 ## Ibinigay Ang Pangako Sa Pamamagitan Ng Pagtitiwala
 [#](# "The Promise Granted through Faith")
 
-[^13] Dahil ang pangako kay Abraham o sa kaniyang angkan na ipapamana sa kaniya ang mundo ay hindi ibinigay sa pamamagitan ng Kautusan, pero sa pamamagitan ng katuwiran na nanggagaling sa pagtitiwala.
+[^13] Dahil ang pangako kay Abraham o sa kaniyang angkan na ipapamana sa kaniya ang mundo ay hindi ibinigay sa pamamagitan ng Kautusan, pero sa pamamagitan ng pagiging matuwid na nanggagaling sa pagtitiwala.
 
 [^13]: For the promise to Abraham or to his descendants that he would inherit the world was not through the law, but through the righteousness that comes by faith.
 
@@ -80,15 +78,15 @@ Si Abraham Ay Napawalang-Sala Bago Natuli
 
 [^14]: If those who are of the law are heirs, faith is made empty and the promise nullified,
 
-[^15] dahil ang Kautusan ay nagbubunga ng galit. At kung saan wala ang Kautusan, wala rin ang pagsuway.
+[^15] dahil ang Kautusan ay nagbubunga ng parusa. At kung saan wala ang Kautusan, wala rin ang pagsuway.
 
 [^15] because the law produces wrath. And where there is no law, there is no transgression.
 
-[^16] Ito ang dahilan kung sa pagtitiwala natutupad ang pangako, para ito ay maging ayon sa kaagandahang-loob, para masigurado ito sa lahat ng mga kabilang sa angkan -- hindi lang doon sa mga na sa ilalim ng Kautusan pero doon din sa mga na sa ilalim ng pananalig ni Abraham. Ama siya ng lahat.
+[^16] Ito ang dahilan kung bakit sa pagtitiwala natutupad ang pangako, para ito ay maging ayon sa kaagandahang-loob, para masigurado ito sa lahat ng mga kabilang sa angkan — hindi lang doon sa mga na sa ilalim ng Kautusan pero doon din sa mga na sa ilalim ng pananalig ni Abraham. Ama siya ng lahat.
 
 [^16]: This is why the promise is by faith, so that it may be according to grace, to guarantee it to all the descendants—not only to those who are of the law but also to those who are of Abraham’s faith. He is the father of us all.
 
-[^17] Gaya ng nasusulat: ginawa kilang ama ng maraming bansa. Siya ang ating ama sa mata ng Diyos na pinagtiwalaan ng Abraham -- ang Diyos na nagbibigay ng buhay sa mga patay at lumilikha ng mga bagay mula sa kawalan.
+[^17] Gaya ng nasusulat: ginawa kitang ama ng maraming bansa. Siya ang ating ama sa mata ng Diyos na pinagtiwalaan ni Abraham — ang Diyos na nagbibigay ng buhay sa mga patay at lumilikha ng mga bagay mula sa kawalan.
 
 [^17]: As it is written: I have made you the father of many nations. He is our father in God’s sight, in whom Abraham believed—the God who gives life to the dead and calls things into existence that do not exist.
 

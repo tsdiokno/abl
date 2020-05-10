@@ -3,21 +3,21 @@ title: "Roma 2"
 linkTitle: "Roma 2"
 date: 2017-04-05
 weight: 2
-description:
+description: Unang Edisyon
 ---
 
 ## Ang Matuwid na Hatol Ng Diyos
 [#](# "God’s Righteous Judgment")
 
-[^1] Kaya ang bawat isa inyo na humahatol ay walang maidadahilan. Dahil pag nang-hatol kayo ng iba, hinahatulan niyo rin ang sarili niyo, dahil ginagawa niyo rin ang mga ginagawa nila.
+[^1] Kaya ang bawat isa inyo na humahatol ay walang maidadahilan. Dahil pag hinatulan niyo ang iba, hinahatulan niyo rin ang sarili niyo, dahil ginagawa niyo rin ang mga ginagawa nila.
 
 [^1]: Therefore, every one of you who judges is without excuse. For when you judge another, you condemn yourself, since you, the judge, do the same things.
 
-[^2] Alam natin na ayon sa katotohanan ang paghahatol ng Diyos sa mga ganung bagay.
+[^2] Alam natin na ayon sa katotohanan ang paghatol ng Diyos sa mga ganung bagay.
 
 [^2]: We know that God’s judgment on those who do such things is based on the truth.
 
-[^3] Sa tingin n'yo ba na kayo — mga naghahatol pero pareho din naman ng ginagawa — ay makakalusot sa hatol ng Diyos?
+[^3] Sa tingin niyo ba talaga na kayo — mga nanghahatol pero pareho din naman ng ginagawa — ay makakalusot sa paghahatol ng Diyos?
 
 [^3]: Do you really think—anyone of you who judges those who do such things yet do the same—that you will escape God’s judgment?
 
@@ -25,7 +25,7 @@ description:
 
 [^4]: Or do you despise the riches of his kindness, restraint, and patience, not recognizing that God’s kindness is intended to lead you to repentance?
 
-[^5] Dahil sa inyong mga manhid at matitigas na puso, nag-iipon kayo ng galit para sa inyong mga sarili sa araw ng galit, kung saan ang matuwid na hatol ng Diyos ay makikita.
+[^5] Dahil sa inyong mga matitigas na puso, nag-iipon kayo ng parusa para sa inyong mga sarili sa araw ng kaparusahan, kung saan ang matuwid na hatol ng Diyos ay makikita.
 
 [^5]: Because of your hardened and unrepentant heart you are storing up wrath for yourself in the day of wrath, when God’s righteous judgment is revealed.
 
@@ -53,7 +53,7 @@ description:
 
 [^11]: For there is no favoritism with God.
 
-[^12] Lahat ng nagkakasala sa labas ng Kautusan ay masasawi sa labas ng Kautusan, at lahat ng nagkakasala sa ilalim ng Kautusan ay hahatulan sa ng naayon sa Kautusan.
+[^12] Lahat ng nagkakasala sa labas ng Kautusan ay masasawi sa labas ng Kautusan, at lahat ng nagkakasala sa ilalim ng Kautusan ay hahatulan ng naayon sa Kautusan.
 
 [^12]: All who sin without the law will also perish without the law, and all who sin under the law will be judged by the law.
 
@@ -61,7 +61,7 @@ description:
 
 [^13]: For the hearers of the law are not righteous before God, but the doers of the law will be justified.
 
-[^14] Kaya kapag ang mga Hentil, na natural na na sa labas ng Kautusan, ay sinusunod ang Kautusan, ito ay nagiging Kautusan na rin para sa kanila kahit na sila ay na sa labas ng Kautusan.
+[^14] Kaya kapag ang mga Hentil, na natural na hindi napapasailalim sa Kautusan, ay sinusunod ang Kautusan, ito ay nagiging Kautusan na rin para sa kanila kahit na sila ay wala sa ilalim ng Kautusan.
 
 [^14]: So, when Gentiles, who do not by nature have the law, do what the law demands, they are a law to themselves even though they do not have the law.
 
@@ -69,18 +69,18 @@ description:
 
 [^15]: They show that the work of the law is written on their hearts. Their consciences confirm this. Their competing thoughts either accuse or even excuse them
 
-[^16] sa araw kung kailan hahatulan ng Diyos ang mga tinatago ng mga tao, ayon sa mabuting balita ko sa pangalan ni Kristo Hesus.
+[^16] sa araw kung kailan hahatulan ng Diyos ang mga pinagkakatagu-tago ng mga tao, ayon sa mabuting balita ko, sa pamamagitan ni Kristo Hesus.
 
 [^16]: on the day when God judges what people have kept secret, according to my gospel through Christ Jesus.
 
 ## Ang Pagsuway ng Mga Hudyo sa Kautusan
 [#](# "Jewish Violation of the Law")
 
-[^17] Kung tinatawag mo ang sarili mo na isang Hudyo at dumedepende ka sa Kautusan, at nagmamalaki sa ngalan ng Diyos,
+[^17] Kung tinatawag mo ang sarili mo na isang Hudyo at dumedepende ka sa Kautusan, at nagmamalaki sa ilalim ng Diyos,
 
 [^17]: Now if you call yourself a Jew, and rely on the law, and boast in God,
 
-[^18] at alam ang kaniyang kalooban, at sumasang-ayon sa mga nakahihigit na bagay, nagagabayan ayon sa Kautusan,
+[^18] at alam ang kaniyang kalooban, at tinatanggap ang mga nakahihigit na bagay, nagagabayan ayon sa Kautusan,
 
 [^18]: and know his will, and approve the things that are superior, being instructed from the law,
 
@@ -127,6 +127,6 @@ description:
 
 [^28]: For a person is not a Jew who is one outwardly, and true circumcision is not something visible in the flesh.
 
-[^29] Sa katunayan, nanggagaling sa kalooban ang pagiging isang Hudyo, na sa puso ang pagkatuli — at ayon ito sa Espirito, sa kasulatan. Ang puri ng taong 'yon ay hindi galing sa tao pero galing sa Diyos.
+[^29] Sa katunayan, nanggagaling sa kalooban ang pagiging isang Hudyo, na sa puso ang pagkatuli — at ayon ito sa Espirito, hindi sa kasulatan. Ang puri ng taong iyon ay hindi galing sa tao pero galing sa Diyos.
 
 [^29]: On the contrary, a person is a Jew who is one inwardly, and circumcision is of the heart—by the Spirit, not the letter. That person’s praise is not from people but from God.
