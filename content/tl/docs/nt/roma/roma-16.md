@@ -20,7 +20,7 @@ description: Unang Edisyon
 ## Mga Pagbati Sa Mga Kristiyanong Tiga-Roma
 [#](# "Greeting to Roman Christians")
 
-[^3] Ikamusta ninyo ako kay Priska at Akila, mga kasama kong tigapaglingkod kay Kristo Hesus,
+[^3] Ikamusta ninyo ako kay Priska at Akila, ang mga kasama kong tigapaglingkod kay Kristo Hesus,
 
 [^3]: Give my greetings to Prisca and Aquila, my coworkers in Christ Jesus,
 
@@ -68,11 +68,11 @@ description: Unang Edisyon
 
 [^14]: Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers and sisters who are with them.
 
-[^15] Ikamusta ninyo ako kay Pilologo at Hulya, Nereyo at ang kaniyang kapatid, at Olimpa, at lahat ng mga itinangi na kasama nila.
+[^15] Ikamusta ninyo ako kay Pilologo at Hulya, Nereyo at ang kaniyang kapatid, at si Olimpa, at lahat ng mga itinangi na kasama nila.
 
 [^15]: Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them.
 
-[^16] Magbatian kayo nang may natatanging mga yapos. Ang lahat ng mga tinawag ay binabati kayo.
+[^16] Magbatian kayo nang may natatanging mga yapos. Ang lahat ng mga tinawag ay binabati rin kayo.
 
 [^16]: Greet one another with a holy kiss. All the churches of Christ send you greetings.
 
@@ -98,7 +98,7 @@ description: Unang Edisyon
 
 [^20]: The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.
 
-[^21] Binabati kayo si Timoteo, ang aking kamanggagawa, at si Lusyo, Hason, at Sosipater, ang aking mga kababayan, ay binabati kayo.
+[^21] Binabati kayo ni Timoteo, ang aking kamanggagawa, at si Lusyo, Hason, at Sosipater, ang aking mga kababayan, ay binabati kayo.
 
 [^21]: Timothy, my coworker, and Lucius, Jason, and Sosipater, my fellow countrymen, greet you.
 
@@ -117,7 +117,7 @@ description: Unang Edisyon
 ## Ang Pagpaparangal Sa Diyos
 [#](# "Glory to God")
 
-[^25] Ngayon sa kaniya na may kakayanang palakasin kayo ayon sa aking mabuting balita at pahayag tungkol kay Hesu Kristo, ayon sa pagbubunyag ng palaisipan na pinanahimik ng matagal na panahon
+[^25] Ngayon, sa kaniya na may kakayanang palakasin kayo ayon sa aking mabuting balita at pahayag tungkol kay Hesu Kristo, ayon sa pagbubunyag ng palaisipan na inilagay sa katahimikan ng matagal na panahon
 
 [^25]: Now to him who is able to strengthen you according to my gospel and the proclamation about Jesus Christ, according to the revelation of the mystery kept silent for long ages
 
