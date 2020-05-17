@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="manifest" href="../../../../manifest.json">
+<link rel="manifest" href="./manifest.json">
 <meta name="generator" content="Hugo 0.68.3" />
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
@@ -56,6 +56,7 @@
   src="https://unpkg.com/lunr@2.3.8/lunr.min.js"
   integrity="sha384-vRQ9bDyE0Wnu+lMfm57BlYLO0/XauFuKpVsZPs7KEDwYKktWi5+Kz3MP8++DFlRY"
   crossorigin="anonymous"></script>
+
 
 
 
@@ -609,60 +610,19 @@
 
 <script>
     if('serviceWorker' in navigator) {
-
-        
-
-        const PREFETCH = true;
-
-        
-
-        const PREFETCH_LINK_RELS = ['index','next', 'prev', 'prefetch'];
-
-        
-
-        function prefetchCache() {
-            if(navigator.serviceWorker.controller) {
-
-                let links = document.querySelectorAll(
-                    PREFETCH_LINK_RELS.map((rel) => {
-                        return 'link[rel='+rel+']';
-                    }).join(',')
-                );
-
-                if(links.length > 0) {
-                    Array.from(links)
-                        .map((link) => {
-                            let href = link.getAttribute('href');
-                            navigator.serviceWorker.controller.postMessage({
-                                action : 'cache',
-                                url : href,
-                            });
-                        });
-                }
-
-
-            }
-        }
-
-        
-
         navigator.serviceWorker
             .register('./sw.js', { scope: './' })
-            .then(() => {
+            .then(function(registration) {
                 console.log('Service Worker Registered');
             });
 
-        
-
         navigator.serviceWorker
             .ready
-            .then(() => {
-                if(PREFETCH) {
-                    prefetchCache();
-                }
+            .then(function(registration) {
+                console.log('Service Worker Ready');
             });
-
     }
+</script>
 </script>
 
 

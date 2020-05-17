@@ -1,17 +1,17 @@
-const CACHE_VERSION = 1;
+const CACHE_VERSION = 1.2;
 
 const BASE_CACHE_FILES = [
-    './*',
+    './',
 ];
 
 const OFFLINE_CACHE_FILES = [
-    './*',
+    './',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    './scss/*',
-    './css/*',
-    './js/*',
+    './scss/*.css',
+    './css/*.css',
+    './js/*.js',
     './404.html',
 ];
 
