@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ang Biblia Ng Lahat – Ang Biblia Ng Lahat</title>
-    <link>https://tsdiokno.github.io/abl/</link>
+    <link>/</link>
     <description>Recent content on Ang Biblia Ng Lahat</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://tsdiokno.github.io/abl/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
       

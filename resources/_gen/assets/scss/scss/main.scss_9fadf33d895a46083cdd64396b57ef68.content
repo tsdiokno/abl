@@ -10698,6 +10698,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-blue p > a {
   color: #a0c0ee; }
+  .-bg-blue p > a:hover {
+    color: #186591; }
 
 .-text-blue {
   color: #72A1E5; }
@@ -10708,6 +10710,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-indigo p > a {
   color: #b8cff2; }
+  .-bg-indigo p > a:hover {
+    color: #186591; }
 
 .-text-indigo {
   color: #6610f2; }
@@ -10718,6 +10722,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-purple p > a {
   color: #b7cff2; }
+  .-bg-purple p > a:hover {
+    color: #186591; }
 
 .-text-purple {
   color: #6f42c1; }
@@ -10728,6 +10734,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-pink p > a {
   color: #aec9f0; }
+  .-bg-pink p > a:hover {
+    color: #186591; }
 
 .-text-pink {
   color: #e83e8c; }
@@ -10738,6 +10746,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-red p > a {
   color: #b4cdf1; }
+  .-bg-red p > a:hover {
+    color: #186591; }
 
 .-text-red {
   color: #dc3545; }
@@ -10748,6 +10758,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-orange p > a {
   color: #bed4f3; }
+  .-bg-orange p > a:hover {
+    color: #186591; }
 
 .-text-orange {
   color: #BA5A31; }
@@ -10758,6 +10770,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-yellow p > a {
   color: #b7cff2; }
+  .-bg-yellow p > a:hover {
+    color: #186591; }
 
 .-text-yellow {
   color: #ffc107; }
@@ -10768,6 +10782,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-green p > a {
   color: #c6d9f4; }
+  .-bg-green p > a:hover {
+    color: #186591; }
 
 .-text-green {
   color: #28a745; }
@@ -10778,6 +10794,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-teal p > a {
   color: #bfd4f3; }
+  .-bg-teal p > a:hover {
+    color: #186591; }
 
 .-text-teal {
   color: #20c997; }
@@ -10788,6 +10806,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-cyan p > a {
   color: #c6d9f4; }
+  .-bg-cyan p > a:hover {
+    color: #186591; }
 
 .-text-cyan {
   color: #17a2b8; }
@@ -10798,6 +10818,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-white p > a {
   color: #72a1e5; }
+  .-bg-white p > a:hover {
+    color: #186591; }
 
 .-text-white {
   color: #fff; }
@@ -10808,6 +10830,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-gray p > a {
   color: #b4cdf1; }
+  .-bg-gray p > a:hover {
+    color: #186591; }
 
 .-text-gray {
   color: #888; }
@@ -10818,6 +10842,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-gray-dark p > a {
   color: #e3ecfa; }
+  .-bg-gray-dark p > a:hover {
+    color: #186591; }
 
 .-text-gray-dark {
   color: #333; }
@@ -10828,6 +10854,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-primary p > a {
   color: #a6c4ef; }
+  .-bg-primary p > a:hover {
+    color: #186591; }
 
 .-text-primary {
   color: #5eb3e4; }
@@ -10838,6 +10866,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-secondary p > a {
   color: #72a1e5; }
+  .-bg-secondary p > a:hover {
+    color: #186591; }
 
 .-text-secondary {
   color: #ffffff; }
@@ -10848,6 +10878,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-success p > a {
   color: #a9c6ef; }
+  .-bg-success p > a:hover {
+    color: #186591; }
 
 .-text-success {
   color: #3772FF; }
@@ -10858,6 +10890,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-info p > a {
   color: #638ac1; }
+  .-bg-info p > a:hover {
+    color: #186591; }
 
 .-text-info {
   color: #C0E0DE; }
@@ -10868,6 +10902,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-warning p > a {
   color: #a5c3ee; }
+  .-bg-warning p > a:hover {
+    color: #186591; }
 
 .-text-warning {
   color: #ED6A5A; }
@@ -10878,6 +10914,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-danger p > a {
   color: #a5c3ee; }
+  .-bg-danger p > a:hover {
+    color: #186591; }
 
 .-text-danger {
   color: #ED6A5A; }
@@ -10888,6 +10926,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-light p > a {
   color: #6993d0; }
+  .-bg-light p > a:hover {
+    color: #186591; }
 
 .-text-light {
   color: #D3F3EE; }
@@ -10898,6 +10938,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-dark p > a {
   color: #d9e5f8; }
+  .-bg-dark p > a:hover {
+    color: #186591; }
 
 .-text-dark {
   color: #403F4C; }
@@ -10908,6 +10950,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-100 p > a {
   color: #709ee0; }
+  .-bg-100 p > a:hover {
+    color: #186591; }
 
 .-text-100 {
   color: #f8f9fa; }
@@ -10918,6 +10962,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-200 p > a {
   color: #6d99d8; }
+  .-bg-200 p > a:hover {
+    color: #186591; }
 
 .-text-200 {
   color: #eee; }
@@ -10928,6 +10974,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-300 p > a {
   color: #6993cf; }
+  .-bg-300 p > a:hover {
+    color: #186591; }
 
 .-text-300 {
   color: #dee2e6; }
@@ -10938,6 +10986,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-400 p > a {
   color: #6288be; }
+  .-bg-400 p > a:hover {
+    color: #186591; }
 
 .-text-400 {
   color: #ccc; }
@@ -10948,6 +10998,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-500 p > a {
   color: #9bbced; }
+  .-bg-500 p > a:hover {
+    color: #186591; }
 
 .-text-500 {
   color: #adb5bd; }
@@ -10958,6 +11010,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-600 p > a {
   color: #b4cdf1; }
+  .-bg-600 p > a:hover {
+    color: #186591; }
 
 .-text-600 {
   color: #888; }
@@ -10968,6 +11022,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-700 p > a {
   color: #d3e2f7; }
+  .-bg-700 p > a:hover {
+    color: #186591; }
 
 .-text-700 {
   color: #495057; }
@@ -10978,6 +11034,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-800 p > a {
   color: #e3ecfa; }
+  .-bg-800 p > a:hover {
+    color: #186591; }
 
 .-text-800 {
   color: #333; }
@@ -10988,6 +11046,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-900 p > a {
   color: #ecf2fc; }
+  .-bg-900 p > a:hover {
+    color: #186591; }
 
 .-text-900 {
   color: #222; }
@@ -10998,6 +11058,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-0 p > a {
   color: #d9e5f8; }
+  .-bg-0 p > a:hover {
+    color: #186591; }
 
 .-text-0 {
   color: #403F4C; }
@@ -11008,6 +11070,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-1 p > a {
   color: #a6c4ef; }
+  .-bg-1 p > a:hover {
+    color: #186591; }
 
 .-text-1 {
   color: #5eb3e4; }
@@ -11018,6 +11082,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-2 p > a {
   color: #72a1e5; }
+  .-bg-2 p > a:hover {
+    color: #186591; }
 
 .-text-2 {
   color: #ffffff; }
@@ -11028,6 +11094,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-3 p > a {
   color: #638ac1; }
+  .-bg-3 p > a:hover {
+    color: #186591; }
 
 .-text-3 {
   color: #C0E0DE; }
@@ -11038,6 +11106,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-4 p > a {
   color: #72a1e5; }
+  .-bg-4 p > a:hover {
+    color: #186591; }
 
 .-text-4 {
   color: white; }
@@ -11048,6 +11118,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-5 p > a {
   color: #b4cdf1; }
+  .-bg-5 p > a:hover {
+    color: #186591; }
 
 .-text-5 {
   color: #888; }
@@ -11058,6 +11130,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-6 p > a {
   color: #a9c6ef; }
+  .-bg-6 p > a:hover {
+    color: #186591; }
 
 .-text-6 {
   color: #3772FF; }
@@ -11068,6 +11142,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-7 p > a {
   color: #a5c3ee; }
+  .-bg-7 p > a:hover {
+    color: #186591; }
 
 .-text-7 {
   color: #ED6A5A; }
@@ -11078,6 +11154,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-8 p > a {
   color: #d9e5f8; }
+  .-bg-8 p > a:hover {
+    color: #186591; }
 
 .-text-8 {
   color: #403F4C; }
@@ -11088,6 +11166,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-9 p > a {
   color: #a5c3ee; }
+  .-bg-9 p > a:hover {
+    color: #186591; }
 
 .-text-9 {
   color: #ED6A5A; }
@@ -11098,6 +11178,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-10 p > a {
   color: #a6c4ef; }
+  .-bg-10 p > a:hover {
+    color: #186591; }
 
 .-text-10 {
   color: #5eb3e4; }
@@ -11108,6 +11190,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-11 p > a {
   color: #72a1e5; }
+  .-bg-11 p > a:hover {
+    color: #186591; }
 
 .-text-11 {
   color: #ffffff; }
@@ -11118,6 +11202,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-12 p > a {
   color: #72a1e5; }
+  .-bg-12 p > a:hover {
+    color: #186591; }
 
 .-text-12 {
   color: white; }
@@ -11128,6 +11214,8 @@ readers do not read off random characters that represent icons */
 
 .-bg-13 p > a {
   color: #638ac1; }
+  .-bg-13 p > a:hover {
+    color: #186591; }
 
 .-text-13 {
   color: #C0E0DE; }
@@ -11181,6 +11269,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--0 p > a {
   color: #d9e5f8; }
+  .td-box--0 p > a:hover {
+    color: #186591; }
 
 .td-box--1 {
   color: #fff;
@@ -11198,6 +11288,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--1 p > a {
   color: #a6c4ef; }
+  .td-box--1 p > a:hover {
+    color: #186591; }
 
 .td-box--2 {
   color: #222;
@@ -11215,6 +11307,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--2 p > a {
   color: #72a1e5; }
+  .td-box--2 p > a:hover {
+    color: #186591; }
 
 .td-box--3 {
   color: #222;
@@ -11232,6 +11326,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--3 p > a {
   color: #638ac1; }
+  .td-box--3 p > a:hover {
+    color: #186591; }
 
 .td-box--4 {
   color: #222;
@@ -11249,6 +11345,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--4 p > a {
   color: #72a1e5; }
+  .td-box--4 p > a:hover {
+    color: #186591; }
 
 .td-box--5 {
   color: #fff;
@@ -11266,6 +11364,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--5 p > a {
   color: #b4cdf1; }
+  .td-box--5 p > a:hover {
+    color: #186591; }
 
 .td-box--6 {
   color: #fff;
@@ -11283,6 +11383,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--6 p > a {
   color: #a9c6ef; }
+  .td-box--6 p > a:hover {
+    color: #186591; }
 
 .td-box--7 {
   color: #fff;
@@ -11300,6 +11402,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--7 p > a {
   color: #a5c3ee; }
+  .td-box--7 p > a:hover {
+    color: #186591; }
 
 .td-box--8 {
   color: #fff;
@@ -11317,6 +11421,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--8 p > a {
   color: #d9e5f8; }
+  .td-box--8 p > a:hover {
+    color: #186591; }
 
 .td-box--9 {
   color: #fff;
@@ -11334,6 +11440,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--9 p > a {
   color: #a5c3ee; }
+  .td-box--9 p > a:hover {
+    color: #186591; }
 
 .td-box--10 {
   color: #fff;
@@ -11351,6 +11459,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--10 p > a {
   color: #a6c4ef; }
+  .td-box--10 p > a:hover {
+    color: #186591; }
 
 .td-box--11 {
   color: #222;
@@ -11368,6 +11478,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--11 p > a {
   color: #72a1e5; }
+  .td-box--11 p > a:hover {
+    color: #186591; }
 
 .td-box--12 {
   color: #222;
@@ -11385,6 +11497,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--12 p > a {
   color: #72a1e5; }
+  .td-box--12 p > a:hover {
+    color: #186591; }
 
 .td-box--13 {
   color: #222;
@@ -11402,6 +11516,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--13 p > a {
   color: #638ac1; }
+  .td-box--13 p > a:hover {
+    color: #186591; }
 
 .td-box--blue {
   color: #fff;
@@ -11419,6 +11535,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--blue p > a {
   color: #a0c0ee; }
+  .td-box--blue p > a:hover {
+    color: #186591; }
 
 .td-box--indigo {
   color: #fff;
@@ -11436,6 +11554,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--indigo p > a {
   color: #b8cff2; }
+  .td-box--indigo p > a:hover {
+    color: #186591; }
 
 .td-box--purple {
   color: #fff;
@@ -11453,6 +11573,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--purple p > a {
   color: #b7cff2; }
+  .td-box--purple p > a:hover {
+    color: #186591; }
 
 .td-box--pink {
   color: #fff;
@@ -11470,6 +11592,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--pink p > a {
   color: #aec9f0; }
+  .td-box--pink p > a:hover {
+    color: #186591; }
 
 .td-box--red {
   color: #fff;
@@ -11487,6 +11611,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--red p > a {
   color: #b4cdf1; }
+  .td-box--red p > a:hover {
+    color: #186591; }
 
 .td-box--orange {
   color: #fff;
@@ -11504,6 +11630,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--orange p > a {
   color: #bed4f3; }
+  .td-box--orange p > a:hover {
+    color: #186591; }
 
 .td-box--yellow {
   color: #fff;
@@ -11521,6 +11649,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--yellow p > a {
   color: #b7cff2; }
+  .td-box--yellow p > a:hover {
+    color: #186591; }
 
 .td-box--green {
   color: #fff;
@@ -11538,6 +11668,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--green p > a {
   color: #c6d9f4; }
+  .td-box--green p > a:hover {
+    color: #186591; }
 
 .td-box--teal {
   color: #fff;
@@ -11555,6 +11687,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--teal p > a {
   color: #bfd4f3; }
+  .td-box--teal p > a:hover {
+    color: #186591; }
 
 .td-box--cyan {
   color: #fff;
@@ -11572,6 +11706,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--cyan p > a {
   color: #c6d9f4; }
+  .td-box--cyan p > a:hover {
+    color: #186591; }
 
 .td-box--white {
   color: #222;
@@ -11589,6 +11725,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--white p > a {
   color: #72a1e5; }
+  .td-box--white p > a:hover {
+    color: #186591; }
 
 .td-box--gray {
   color: #fff;
@@ -11606,6 +11744,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--gray p > a {
   color: #b4cdf1; }
+  .td-box--gray p > a:hover {
+    color: #186591; }
 
 .td-box--gray-dark {
   color: #fff;
@@ -11623,6 +11763,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--gray-dark p > a {
   color: #e3ecfa; }
+  .td-box--gray-dark p > a:hover {
+    color: #186591; }
 
 .td-box--primary {
   color: #fff;
@@ -11640,6 +11782,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--primary p > a {
   color: #a6c4ef; }
+  .td-box--primary p > a:hover {
+    color: #186591; }
 
 .td-box--secondary {
   color: #222;
@@ -11657,6 +11801,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--secondary p > a {
   color: #72a1e5; }
+  .td-box--secondary p > a:hover {
+    color: #186591; }
 
 .td-box--success {
   color: #fff;
@@ -11674,6 +11820,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--success p > a {
   color: #a9c6ef; }
+  .td-box--success p > a:hover {
+    color: #186591; }
 
 .td-box--info {
   color: #222;
@@ -11691,6 +11839,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--info p > a {
   color: #638ac1; }
+  .td-box--info p > a:hover {
+    color: #186591; }
 
 .td-box--warning {
   color: #fff;
@@ -11708,6 +11858,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--warning p > a {
   color: #a5c3ee; }
+  .td-box--warning p > a:hover {
+    color: #186591; }
 
 .td-box--danger {
   color: #fff;
@@ -11725,6 +11877,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--danger p > a {
   color: #a5c3ee; }
+  .td-box--danger p > a:hover {
+    color: #186591; }
 
 .td-box--light {
   color: #222;
@@ -11742,6 +11896,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--light p > a {
   color: #6993d0; }
+  .td-box--light p > a:hover {
+    color: #186591; }
 
 .td-box--dark {
   color: #fff;
@@ -11759,6 +11915,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--dark p > a {
   color: #d9e5f8; }
+  .td-box--dark p > a:hover {
+    color: #186591; }
 
 .td-box--100 {
   color: #222;
@@ -11776,6 +11934,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--100 p > a {
   color: #709ee0; }
+  .td-box--100 p > a:hover {
+    color: #186591; }
 
 .td-box--200 {
   color: #222;
@@ -11793,6 +11953,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--200 p > a {
   color: #6d99d8; }
+  .td-box--200 p > a:hover {
+    color: #186591; }
 
 .td-box--300 {
   color: #222;
@@ -11810,6 +11972,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--300 p > a {
   color: #6993cf; }
+  .td-box--300 p > a:hover {
+    color: #186591; }
 
 .td-box--400 {
   color: #222;
@@ -11827,6 +11991,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--400 p > a {
   color: #6288be; }
+  .td-box--400 p > a:hover {
+    color: #186591; }
 
 .td-box--500 {
   color: #fff;
@@ -11844,6 +12010,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--500 p > a {
   color: #9bbced; }
+  .td-box--500 p > a:hover {
+    color: #186591; }
 
 .td-box--600 {
   color: #fff;
@@ -11861,6 +12029,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--600 p > a {
   color: #b4cdf1; }
+  .td-box--600 p > a:hover {
+    color: #186591; }
 
 .td-box--700 {
   color: #fff;
@@ -11878,6 +12048,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--700 p > a {
   color: #d3e2f7; }
+  .td-box--700 p > a:hover {
+    color: #186591; }
 
 .td-box--800 {
   color: #fff;
@@ -11895,6 +12067,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--800 p > a {
   color: #e3ecfa; }
+  .td-box--800 p > a:hover {
+    color: #186591; }
 
 .td-box--900 {
   color: #fff;
@@ -11912,6 +12086,8 @@ readers do not read off random characters that represent icons */
 
 .td-box--900 p > a {
   color: #ecf2fc; }
+  .td-box--900 p > a:hover {
+    color: #186591; }
 
 .td-blog .td-rss-button {
   position: absolute;
