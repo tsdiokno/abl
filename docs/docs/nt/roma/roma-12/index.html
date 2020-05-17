@@ -686,7 +686,7 @@ you will be heaping fiery coals on his head. <a href="#fnref:20" class="footnote
         
 
         navigator.serviceWorker
-            .register('/sw.js', { scope: '/' })
+            .register('./sw.js', { scope: './' })
             .then(() => {
                 console.log('Service Worker Registered');
             });

@@ -527,7 +527,7 @@ Narito ang kabuuan ng talasalinan ng ABL na nagsisilbing gabay sa buong gawain n
         
 
         navigator.serviceWorker
-            .register('/sw.js', { scope: '/' })
+            .register('./sw.js', { scope: './' })
             .then(() => {
                 console.log('Service Worker Registered');
             });

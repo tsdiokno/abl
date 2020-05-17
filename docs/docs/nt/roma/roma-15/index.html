@@ -744,7 +744,7 @@ and those who have not heard will understand. <a href="#fnref:21" class="footnot
         
 
         navigator.serviceWorker
-            .register('/sw.js', { scope: '/' })
+            .register('./sw.js', { scope: './' })
             .then(() => {
                 console.log('Service Worker Registered');
             });

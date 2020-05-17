@@ -1,22 +1,22 @@
 const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
-    '/*',
+    './*',
 ];
 
 const OFFLINE_CACHE_FILES = [
-    '/*',
+    './*',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    '/scss/*',
-    '/css/*',
-    '/js/*',
-    '/404.html',
+    './scss/*',
+    './css/*',
+    './js/*',
+    './404.html',
 ];
 
-const OFFLINE_PAGE = '/404.html';
-const NOT_FOUND_PAGE = '/404.html';
+const OFFLINE_PAGE = './404.html';
+const NOT_FOUND_PAGE = './404.html';
 
 const CACHE_VERSIONS = {
     assets: 'assets-v' + CACHE_VERSION,

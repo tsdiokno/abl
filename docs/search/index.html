@@ -228,7 +228,7 @@
         
 
         navigator.serviceWorker
-            .register('/sw.js', { scope: '/' })
+            .register('./sw.js', { scope: './' })
             .then(() => {
                 console.log('Service Worker Registered');
             });

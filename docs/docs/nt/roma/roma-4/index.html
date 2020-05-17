@@ -692,7 +692,7 @@ the Lord will never charge with sin. <a href="#fnref:8" class="footnote-backref"
         
 
         navigator.serviceWorker
-            .register('/sw.js', { scope: '/' })
+            .register('./sw.js', { scope: './' })
             .then(() => {
                 console.log('Service Worker Registered');
             });

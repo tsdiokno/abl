@@ -516,7 +516,7 @@
 
 	
 	
-	<div class="text-muted mt-5 pt-3 border-top">Huling binago January 5, 2017
+	<div class="text-muted mt-5 pt-3 border-top">Huling binago May 17, 2020: <a  href="https://github.com/tsdiokno/abl/commit/bbfe4929e4c6dfd082a49dbbacdff24626b224ad">Sinusubukan and service worker. (bbfe492)</a>
 </div>
 </div>
 
@@ -627,7 +627,7 @@
         
 
         navigator.serviceWorker
-            .register('/sw.js', { scope: '/' })
+            .register('./sw.js', { scope: './' })
             .then(() => {
                 console.log('Service Worker Registered');
             });

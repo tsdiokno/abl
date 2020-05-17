@@ -769,7 +769,7 @@ To him be the glory forever. Amen. <a href="#fnref:36" class="footnote-backref" 
         
 
         navigator.serviceWorker
-            .register('/sw.js', { scope: '/' })
+            .register('./sw.js', { scope: './' })
             .then(() => {
                 console.log('Service Worker Registered');
             });

@@ -753,7 +753,7 @@ we are counted as sheep to be slaughtered. <a href="#fnref:35" class="footnote-b
         
 
         navigator.serviceWorker
-            .register('/sw.js', { scope: '/' })
+            .register('./sw.js', { scope: './' })
             .then(() => {
                 console.log('Service Worker Registered');
             });
