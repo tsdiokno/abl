@@ -9,9 +9,9 @@ const OFFLINE_CACHE_FILES = [
 ];
 
 const NOT_FOUND_CACHE_FILES = [
-    './scss/*.css',
-    './css/*.css',
-    './js/*.js',
+    './scss/',
+    './css/',
+    './js/',
     './404.html',
 ];
 
