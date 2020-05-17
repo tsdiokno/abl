@@ -700,7 +700,7 @@ Vipers’ venom is under their lips. <a href="#fnref:13" class="footnote-backref
 <script>
     if('serviceWorker' in navigator) {
         navigator.serviceWorker
-            .register('./sw.js', { scope: './' })
+            .register('./sw.js', { scope: '.' })
             .then(function(registration) {
                 console.log('Service Worker Registered');
             });

@@ -649,7 +649,7 @@ to those who were not asking for me. <a href="#fnref:19" class="footnote-backref
 <script>
     if('serviceWorker' in navigator) {
         navigator.serviceWorker
-            .register('./sw.js', { scope: './' })
+            .register('./sw.js', { scope: '.' })
             .then(function(registration) {
                 console.log('Service Worker Registered');
             });

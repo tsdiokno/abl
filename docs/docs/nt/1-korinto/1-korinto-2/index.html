@@ -634,7 +634,7 @@ But we have the mind of Christ. <a href="#fnref:16" class="footnote-backref" rol
 <script>
     if('serviceWorker' in navigator) {
         navigator.serviceWorker
-            .register('./sw.js', { scope: './' })
+            .register('./sw.js', { scope: '.' })
             .then(function(registration) {
                 console.log('Service Worker Registered');
             });

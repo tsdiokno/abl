@@ -708,7 +708,7 @@ and those who have not heard will understand. <a href="#fnref:21" class="footnot
 <script>
     if('serviceWorker' in navigator) {
         navigator.serviceWorker
-            .register('./sw.js', { scope: './' })
+            .register('./sw.js', { scope: '.' })
             .then(function(registration) {
                 console.log('Service Worker Registered');
             });

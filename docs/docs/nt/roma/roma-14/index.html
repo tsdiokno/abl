@@ -650,7 +650,7 @@ and every tongue will give praise to God. <a href="#fnref:11" class="footnote-ba
 <script>
     if('serviceWorker' in navigator) {
         navigator.serviceWorker
-            .register('./sw.js', { scope: './' })
+            .register('./sw.js', { scope: '.' })
             .then(function(registration) {
                 console.log('Service Worker Registered');
             });
