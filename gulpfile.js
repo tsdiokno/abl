@@ -1,5 +1,13 @@
-const gulp = require('gulp');
-const workbox = require('workbox-build');
+const gulp = require("gulp");
+const clean = require("gulp-clean");
+const shell = require("gulp-shell");
+const workbox = require("workbox-build");
+
+gulp.task("clean", function () {
+    return gulp.src("docs", { read: false, allowEmpty: true })
+    .pipe(clean());
+});
+gulp.task("hugo-build", shell.task(["hugo"]));
 
 gulp.task('service-worker', () => {
   // This will return a Promise
@@ -30,3 +38,5 @@ gulp.task('service-worker', () => {
     }],
   });
 });
+
+gulp.task("build", gulp.series("clean", "hugo-build", "service-worker"));
