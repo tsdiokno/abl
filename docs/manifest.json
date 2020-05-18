@@ -1,6 +1,6 @@
 {
   "name": "ABL: Ang Biblia Ng Lahat",
-  "short_name": "abl",
+  "short_name": "ABL",
   "icons": [
     {
       "src": "favicons/favicon-128.png",
@@ -28,7 +28,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#FFFFFF",
