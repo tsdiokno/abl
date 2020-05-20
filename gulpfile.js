@@ -7,16 +7,19 @@ gulp.task("clean", function () {
     return gulp.src("docs", { read: false, allowEmpty: true })
     .pipe(clean());
 });
+
 gulp.task("hugo-build", shell.task(["hugo"]));
 
-gulp.task('service-worker', () => {
-  return workbox.generateSW({
-    globDirectory: './docs',
-    globPatterns: [
-      '**/*.{html,json,js,css}',
-    ],
-    swDest: './docs/sw.js',
-  });
+gulp.task("generate-service-worker", () => {
+    return workbox.generateSW({
+        globDirectory: "./docs",
+        globPatterns: [
+            "**/*.{html,json,css,js,eot,ttf,woff,woff2,otf}"
+        ],
+        swDest: "./docs/sw.js",
+        clientsClaim: true,
+        skipWaiting: true,
+    });
 });
 
-gulp.task("build", gulp.series("clean", "hugo-build", "service-worker"));
+gulp.task("build", gulp.series("clean", "hugo-build", "generate-service-worker"));

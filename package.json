@@ -4,7 +4,8 @@
   "description": "Hugo theme for technical documentation.",
   "main": "none.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "workbox-build-inject": "node workbox-build-inject.js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
     "gulp-clean": "^0.4.0",
     "gulp-shell": "^0.8.0",
     "postcss-cli": "^5.0.1",
+    "workbox-broadcast-update": "^5.1.3",
     "workbox-build": "^5.1.3"
   }
 }

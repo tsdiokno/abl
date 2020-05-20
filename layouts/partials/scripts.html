@@ -16,12 +16,41 @@
 <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
 {{ end }}
 <script>
-// Check that service workers are supported
-if ('serviceWorker' in navigator) {
-  // Use the window load event to keep the page load performant
-  window.addEventListener('load', () => {
-    navigator.serviceWorker.register('./sw.js');
-  });
-}
+    if("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+            navigator.serviceWorker.register("./sw.js").then(swReg => {}).catch(err => {
+                console.error('Service Worker Error', err);
+            });
+        });
+    }
 </script>
+<!-- <script>
+  // Register service worker:
+  if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('./sw.js').then(function(registration) {
+     		// Listen for updates:
+        registration.addEventListener('updatefound', () => {
+          newWorker = registration.installing;
+    			// Listen for when the new worker is ready:
+          newWorker.addEventListener('statechange', () => {
+            switch (newWorker.state) {
+              case 'installed':
+                if (navigator.serviceWorker.controller) {
+                  var result = confirm("Want to update?");
+                      if (result) {
+                          //Logic to update the item
+                          newWorker.postMessage({ action: 'skipWaiting' });
+                          window.location.reload();
+                    }
+                }
+                break;
+            }
+          });
+        });
+      });
+    });
+   }
+
+</script> -->
 {{ partial "hooks/body-end.html" . }}
