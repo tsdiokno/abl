@@ -16,13 +16,33 @@
 <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
 {{ end }}
 <script>
-    if("serviceWorker" in navigator) {
-        window.addEventListener("load", () => {
-            navigator.serviceWorker.register("./sw.js").then(swReg => {}).catch(err => {
-                console.error('Service Worker Error', err);
-            });
-        });
-    }
+// Register service worker:
+navigator.serviceWorker.register('sw.js')
+  .then(function(registration) {
+ 		// Listen for updates:
+    registration.addEventListener('updatefound', () => {
+      newWorker = registration.installing;
+			// Listen for when the new worker is ready:
+      newWorker.addEventListener('statechange', () => {
+        switch (newWorker.state) {
+          case 'installed':
+            if (navigator.serviceWorker.controller) {
+ 							// Display button:
+              if (confirm('There is a new version of this site. Do you want to update?')) {
+                // Save it!
+                newWorker.postMessage({ action: 'skipWaiting' });
+                window.location.reload();
+                console.log('Updated');
+              } else {
+                // Do nothing!
+                console.log('Did not update');
+              }
+            }
+            break;
+        }
+      });
+    });
+  });
 </script>
 <!-- <script>
   // Register service worker:
