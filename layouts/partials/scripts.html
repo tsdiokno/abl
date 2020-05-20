@@ -15,7 +15,7 @@
 {{ $js := $js | minify | fingerprint }}
 <script src="{{ $js.RelPermalink }}" integrity="{{ $js.Data.Integrity }}" crossorigin="anonymous"></script>
 {{ end }}
-<script>
+<script type="text/javascript">
 // Register service worker:
 navigator.serviceWorker.register('sw.js')
   .then(function(registration) {
@@ -44,33 +44,4 @@ navigator.serviceWorker.register('sw.js')
     });
   });
 </script>
-<!-- <script>
-  // Register service worker:
-  if ('serviceWorker' in navigator) {
-  window.addEventListener('load', function() {
-    navigator.serviceWorker.register('./sw.js').then(function(registration) {
-     		// Listen for updates:
-        registration.addEventListener('updatefound', () => {
-          newWorker = registration.installing;
-    			// Listen for when the new worker is ready:
-          newWorker.addEventListener('statechange', () => {
-            switch (newWorker.state) {
-              case 'installed':
-                if (navigator.serviceWorker.controller) {
-                  var result = confirm("Want to update?");
-                      if (result) {
-                          //Logic to update the item
-                          newWorker.postMessage({ action: 'skipWaiting' });
-                          window.location.reload();
-                    }
-                }
-                break;
-            }
-          });
-        });
-      });
-    });
-   }
-
-</script> -->
 {{ partial "hooks/body-end.html" . }}
