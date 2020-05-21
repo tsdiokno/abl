@@ -17,7 +17,7 @@
 {{ end }}
 <script type="text/javascript">
 // Register service worker:
-navigator.serviceWorker.register('sw.js')
+navigator.serviceWorker.register('./sw.js')
   .then(function(registration) {
  		// Listen for updates:
     registration.addEventListener('updatefound', () => {
@@ -28,14 +28,14 @@ navigator.serviceWorker.register('sw.js')
           case 'installed':
             if (navigator.serviceWorker.controller) {
  							// Display button:
-              if (confirm('There is a new version of this site. Do you want to update?')) {
+              if (confirm('There is a new version of ABL. Do you want to update?')) {
                 // Save it!
                 newWorker.postMessage({ action: 'skipWaiting' });
+                console.log('Updated. Reloading...');
                 window.location.reload();
-                console.log('Updated');
               } else {
                 // Do nothing!
-                console.log('Did not update');
+                console.log('Did not choose to update.');
               }
             }
             break;

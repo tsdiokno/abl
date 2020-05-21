@@ -3,6 +3,8 @@ const clean = require("gulp-clean");
 const shell = require("gulp-shell");
 const workbox = require("workbox-build");
 
+gulp.task("hugo-server", shell.task(["hugo server --renderToDisk"]));
+
 gulp.task("clean", function () {
     return gulp.src("docs", { read: false, allowEmpty: true })
     .pipe(clean());
@@ -12,6 +14,7 @@ gulp.task("hugo-build", shell.task(["hugo"]));
 
 gulp.task("generate-service-worker", () => {
     return workbox.generateSW({
+        cacheId: "thepolyglotdeveloper",
         globDirectory: "./docs",
         globPatterns: [
             "**/*.{html,json,css,js,eot,ttf,woff,woff2,otf}"
