@@ -107,7 +107,7 @@
   aria-label="Mag-search..."
   autocomplete="off"
   
-  data-offline-search-index-json-src="/offline-search-index.b16df49f07e96c537f2ad6594454b0bb3e782de0c282d3ea98712e5bf6a4dd96c597748a6f01d22c4ad123704ae62b3803771c5b244bde5f0e2dd61433530a17.json"
+  data-offline-search-index-json-src="/offline-search-index.4be28b3427865202c08d75af5ef5ebcb994f824e2d361ea393c5f35784550a0f89caefdf02633b8ed73d31d391cb9e2798807e2e0f7db459243427b10fb27fbe.json"
   data-offline-search-base-href="/"
 >
 
@@ -137,7 +137,7 @@
   aria-label="Mag-search..."
   autocomplete="off"
   
-  data-offline-search-index-json-src="/offline-search-index.b16df49f07e96c537f2ad6594454b0bb3e782de0c282d3ea98712e5bf6a4dd96c597748a6f01d22c4ad123704ae62b3803771c5b244bde5f0e2dd61433530a17.json"
+  data-offline-search-index-json-src="/offline-search-index.4be28b3427865202c08d75af5ef5ebcb994f824e2d361ea393c5f35784550a0f89caefdf02633b8ed73d31d391cb9e2798807e2e0f7db459243427b10fb27fbe.json"
   data-offline-search-base-href="/"
 >
 
@@ -208,6 +208,18 @@
       
       
       <a class="td-sidebar-link td-sidebar-link__page " id="m-docsnt1-korinto1-korinto-2" href="/docs/nt/1-korinto/1-korinto-2/">1 Korinto 2</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-docsnt1-korinto1-korinto-3" href="/docs/nt/1-korinto/1-korinto-3/">1 Korinto 3</a>
+      
+      
+      
+      
+      
+      <a class="td-sidebar-link td-sidebar-link__page " id="m-docsnt1-korinto1-korinto-4" href="/docs/nt/1-korinto/1-korinto-4/">1 Korinto 4</a>
       
       
     </li>
@@ -726,14 +738,14 @@ navigator.serviceWorker.register('./sw.js')
           case 'installed':
             if (navigator.serviceWorker.controller) {
  							
-              if (confirm('There is a new version of this site. Do you want to update?')) {
+              if (confirm('There is a new version of ABL. Do you want to update?')) {
                 
                 newWorker.postMessage({ action: 'skipWaiting' });
+                console.log('Updated. Reloading...');
                 window.location.reload();
-                console.log('Updated');
               } else {
                 
-                console.log('Did not update');
+                console.log('Did not choose to update.');
               }
             }
             break;

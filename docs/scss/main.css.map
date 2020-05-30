@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/tsdiokno/Desktop/TIm_Local/Tim_Personal(Mac)/Hugo/Sites/abl",
+	"sourceRoot": "/Users/tsdiokno/Desktop/Tim_Local/Tim_Personal(Mac)/Hugo/Sites/abl",
 	"sources": [
 		"themes/docsy/assets/scss/main.scss",
 		"themes/docsy/assets/scss/support/_functions.scss",
