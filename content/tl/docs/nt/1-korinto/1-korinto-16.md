@@ -7,11 +7,26 @@ description:
 ---
 
 COLLECTION FOR THE JERUSALEM CHURCH
-Now about the collection for the saints: Do the same as I instructed the Galatian churches.
-2 On the first day of the week, each of you is to set something aside and save in keeping with how he is prospering, so that no collections will need to be made when I come. 3 When I arrive, I will send with letters those you recommend to carry your gift to Jerusalem. 4 If it is suitable for me to go as well, they will travel with me.
+
+1 Now about the collection for the saints: Do the same as I instructed the Galatian churches.
+
+2 On the first day of the week, each of you is to set something aside and save in keeping with how he is prospering, so that no collections will need to be made when I come.
+
+3 When I arrive, I will send with letters those you recommend to carry your gift to Jerusalem.
+
+4 If it is suitable for me to go as well, they will travel with me.
 
 PAUL’S TRAVEL PLANS
-5 I will come to you after I pass through Macedonia ​— ​for I will be traveling through Macedonia ​— ​6 and perhaps I will remain with you or even spend the winter, so that you may send me on my way wherever I go. 7 I don’t want to see you now just in passing, since I hope to spend some time with you, if the Lord allows. 8 But I will stay in Ephesus until Pentecost, 9 because a wide door for effective ministry has opened for me ​— ​yet many oppose me. 10 If Timothy comes, see that he has nothing to fear while with you, because he is doing the Lord’s work, just as I am. 11 So let no one look down on him. Send him on his way in peace so that he can come to me, because I am expecting him with the brothers.
+
+5 I will come to you after I pass through Macedonia ​— ​for I will be traveling through Macedonia ​—
+
+​6 and perhaps I will remain with you or even spend the winter, so that you may send me on my way wherever I go.
+
+7 I don’t want to see you now just in passing, since I hope to spend some time with you, if the Lord allows.
+
+8 But I will stay in Ephesus until Pentecost,
+
+9 because a wide door for effective ministry has opened for me ​— ​yet many oppose me. 10 If Timothy comes, see that he has nothing to fear while with you, because he is doing the Lord’s work, just as I am. 11 So let no one look down on him. Send him on his way in peace so that he can come to me, because I am expecting him with the brothers.
 
 12 Now about our brother Apollos: I strongly urged him to come to you with the brothers, but he was not at all willing to come now. However, he will come when he has an opportunity.
 
