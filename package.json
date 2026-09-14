@@ -10,7 +10,7 @@
   "dependencies": {
     "@vite-pwa/vitepress": "^0.5.0",
     "markdown-it-footnote": "^4.0.0",
-    "vite-plugin-pwa": "^0.20.1",
+    "vite-plugin-pwa": "^0.21.2",
     "vitepress": "^1.4.1",
     "vue": "^3.5.10",
     "workbox-window": "^7.1.0"
