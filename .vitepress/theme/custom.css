@@ -1,0 +1,25 @@
+:root {
+  --vp-c-brand-1: #29abe2;
+  --vp-c-brand-2: #219bd1;
+  --vp-c-brand-3: #1c8cc0;
+  
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #29abe2, #219bd1);
+}
+
+/* Ensure base color is white-ish as requested */
+:root {
+  --vp-c-bg: #ffffff;
+  --vp-c-bg-alt: #f6f6f7;
+}
+
+/* Custom styles for english subtitle translations */
+.english-subtitle {
+  display: block;
+  font-size: 0.9em;
+  opacity: 0.65;
+  margin-top: -16px;
+  margin-bottom: 24px;
+  font-weight: 400;
+  color: var(--vp-c-text-2);
+}
