@@ -18,7 +18,7 @@ export default withPwa(defineConfig({
 
   // IMPORTANT for GitHub Pages: 
   // If deploying to https://<USERNAME>.github.io/<REPO>/, set base to '/<REPO>/'
-  // base: '/abl/',
+  base: '/abl/',
   
   markdown: {
     config: (md) => {
