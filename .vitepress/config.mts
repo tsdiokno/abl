@@ -101,9 +101,11 @@ export default withPwa(defineConfig({
       description: 'Offline-ready custom Bible translation and commentary.',
       theme_color: '#ffffff',
       background_color: '#ffffff',
+      display: 'standalone',
+      start_url: '/',
       icons: [
-        { src: '/favicons/favicon-196x196.png', sizes: '196x196', type: 'image/png' },
-        { src: '/favicons/favicon-128.png', sizes: '128x128', type: 'image/png' }
+        { src: '/favicons/android-chrome-192x192.png', sizes: '192x192', type: 'image/png' },
+        { src: '/favicons/android-chrome-512x512.png', sizes: '512x512', type: 'image/png', purpose: 'any maskable' }
       ]
     },
     workbox: {
