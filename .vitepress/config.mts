@@ -2,12 +2,16 @@ import { defineConfig } from 'vitepress';
 import { withPwa } from '@vite-pwa/vitepress';
 import footnote from 'markdown-it-footnote';
 
+// Define the base path for GitHub Pages deployment.
+// If your repository is named 'abl', set this to '/abl/'
+const basePath = '/abl/';
+
 // withPwa wraps the standard VitePress config to inject vite-plugin-pwa
 export default withPwa(defineConfig({
   title: "Ang Biblia Ng Lahat (ABL)",
   description: "Independent, offline-ready custom Bible translation and commentary.",
   appearance: false,
-  head: [['link', { rel: 'icon', href: '/favicons/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: `${basePath}favicons/favicon.ico` }]],
   
   // Output to standard dist/ for deployment compatibility
   outDir: './dist',
@@ -16,9 +20,7 @@ export default withPwa(defineConfig({
   cleanUrls: true,
   ignoreDeadLinks: true,
 
-  // IMPORTANT for GitHub Pages: 
-  // If deploying to https://<USERNAME>.github.io/<REPO>/, set base to '/<REPO>/'
-  base: '/abl/',
+  base: basePath,
   
   markdown: {
     config: (md) => {
@@ -102,10 +104,10 @@ export default withPwa(defineConfig({
       theme_color: '#ffffff',
       background_color: '#ffffff',
       display: 'standalone',
-      start_url: '/',
+      start_url: basePath,
       icons: [
-        { src: '/favicons/android-chrome-192x192.png', sizes: '192x192', type: 'image/png' },
-        { src: '/favicons/android-chrome-512x512.png', sizes: '512x512', type: 'image/png', purpose: 'any maskable' }
+        { src: `${basePath}favicons/android-chrome-192x192.png`, sizes: '192x192', type: 'image/png' },
+        { src: `${basePath}favicons/android-chrome-512x512.png`, sizes: '512x512', type: 'image/png', purpose: 'any maskable' }
       ]
     },
     workbox: {
