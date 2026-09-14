@@ -58,6 +58,15 @@ npm run preview
 ```
 _Note: If using VitePress default scripts, preview might be mapped to a specific command like `vitepress preview`._
 
+### Deployment to GitHub Pages
+This project is already pre-configured to easily deploy to GitHub Pages.
+
+1. A workflow file is included at `.github/workflows/deploy.yml`.
+2. Push your code to the `main` or `master` branch.
+3. In your GitHub Repository, navigate to **Settings > Pages**.
+4. Set the **Source** to **GitHub Actions**.
+5. *Important Pathing*: If you are deploying your project to a sub-path like `https://your-username.github.io/my-repo-name/`, you **must** uncomment and configure the `base: '/my-repo-name/'` property inside `/.vitepress/config.mts` before pushing!
+
 ### Content Structure
 The Bible books and chapters are stored as raw markdown files inside the `/books` directory.
 - `books/roma/roma-1.md`

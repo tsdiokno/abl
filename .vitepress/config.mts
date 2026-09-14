@@ -15,6 +15,10 @@ export default withPwa(defineConfig({
   // Clean URLs for aesthetic routing
   cleanUrls: true,
   ignoreDeadLinks: true,
+
+  // IMPORTANT for GitHub Pages: 
+  // If deploying to https://<USERNAME>.github.io/<REPO>/, set base to '/<REPO>/'
+  // base: '/abl/',
   
   markdown: {
     config: (md) => {
