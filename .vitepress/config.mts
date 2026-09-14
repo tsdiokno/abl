@@ -106,8 +106,8 @@ export default withPwa(defineConfig({
       display: 'standalone',
       start_url: basePath,
       icons: [
-        { src: `${basePath}favicons/android-chrome-192x192.png`, sizes: '192x192', type: 'image/png' },
-        { src: `${basePath}favicons/android-chrome-512x512.png`, sizes: '512x512', type: 'image/png', purpose: 'any maskable' }
+        { src: `${basePath}favicons/favicon-196x196.png`, sizes: '196x196', type: 'image/png' },
+        { src: `${basePath}favicons/mstile-310x310.png`, sizes: '310x310', type: 'image/png', purpose: 'any maskable' }
       ]
     },
     workbox: {
